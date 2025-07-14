@@ -1,0 +1,432 @@
+[
+  {
+    "itemId": "v1|115812073377|0",
+    "title": "HP ProLiant DL360 Gen10 8SFF 2x Gold 6140 2.3GHz =36 Cores 128GB P408i-a 4xRJ45",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/ga8AAOSwA6xlDhOb/s-l225.jpg"
+    },
+    "price": {
+      "value": "740.00",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C115812073377%7C0",
+    "seller": {
+      "username": "newserverlife",
+      "feedbackPercentage": "99.3",
+      "feedbackScore": 5191
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ga8AAOSwA6xlDhOb/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "97148235",
+    "itemWebUrl": "https://www.ebay.com/itm/115812073377?_skw=dl360+gen10&hash=item1af6efffa1:g:ga8AAOSwA6xlDhOb&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZWzrsfckXQa%2FtLmmig0H%2BY9XlLewRq6DCn0EoK9uP3Izr5Vj%2B8UTkfXAq%2BtbkDiERUUpboLF6Kg9WCBFZ6mYirG0M%2Bex5eEGBPk8y4dr6bUT%2FwZs6A2HCJnP18LJ8XyeL%2B0BP5oO8IH9rgYXPEnvaxeyHWpxD3%2F7xBcFTkNMEOoSclcY2YZtpzxFM5H46WTYfFSSxBIQc7Srsu1FYc%2BE7Ba8BXHnEDxIBWMLrVWB4JuLwmiZIihmugXqJZCF46h5yTBY7hfy2POsozUWKWVWFb0ee8NALoS90q%2BBhZ0qv0tQ%3D%3D",
+    "itemLocation": {
+      "postalCode": "330**",
+      "country": "US"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LfAAAOSwrORlDhOf/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/878AAOSwHFllDhOd/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "115812073377",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-05-22T20:58:59.000Z",
+    "itemCreationDate": "2023-05-22T20:58:59.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_US"
+  },
+  {
+    "itemId": "v1|115750334161|0",
+    "title": "HP ProLiant DL360 Gen10 8SFF 2x Gold 6132 2.6GHz =28 Cores 128GB P408i-a 4xRJ45",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/ga8AAOSwA6xlDhOb/s-l225.jpg"
+    },
+    "price": {
+      "value": "720.00",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C115750334161%7C0",
+    "seller": {
+      "username": "newserverlife",
+      "feedbackPercentage": "99.3",
+      "feedbackScore": 5191
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ga8AAOSwA6xlDhOb/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "97148235",
+    "itemWebUrl": "https://www.ebay.com/itm/115750334161?_skw=dl360+gen10&hash=item1af341eed1:g:ga8AAOSwA6xlDhOb&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYm54YgIpj7fm%2BJD0mmp8JMiQT76s9zVkNrE1MQRMKLX8uK8Oeb6MsxozmdWHT6GrUoeaamd3R2ses8a2HPr%2BtaTSqzr4EbUALjXe4RNEu%2Fv2yNs6oQlH1OXRzB%2FqQMtJXn7GyvOa8riNH1Bdy97qATq5WioPseJtGxTD7KLWjSykQqRQru16RRPjLw83iSfy9KbYbrBs2lY6Y9b4j5zglhepnOigUWGiL6lXeaOLtfZBAXQjQ9k0qhbjB5Ir6aaVQcPb6dCFHnzIqkai1D8D%2FJJZlaBfrJswuGD3nqfxZkWw%3D%3D",
+    "itemLocation": {
+      "postalCode": "330**",
+      "country": "US"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LfAAAOSwrORlDhOf/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/878AAOSwHFllDhOd/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "115750334161",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-03-30T17:52:43.000Z",
+    "itemCreationDate": "2023-03-30T17:52:43.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_US"
+  },
+  {
+    "itemId": "v1|186801060192|0",
+    "title": "HP ProLiant DL360 Gen10 8SFF 2x Gold 6140 2.3GHz = 36 Cores 128GB P408i 4xRJ45",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/3-YAAOSwhPRnQLFk/s-l225.jpg"
+    },
+    "price": {
+      "value": "620.92",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C186801060192%7C0",
+    "seller": {
+      "username": "digitalmind2000",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 80544
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3-YAAOSwhPRnQLFk/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.com/itm/186801060192?_skw=dl360+gen10&hash=item2b7e35f960:g:3-YAAOSwhPRnQLFk&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZqo5XApgfXSV2B913grC0sPcrlTmO3cp4oCab%2Fo9xHO0cUY5%2BOECeSpxHD4eHmqspes%2BDY4snU54XGw%2Fjf5bBWlg%2Be1kTJtlbCbGg8yuflhUWMIV1RrEBjSWSxPbVM%2BXvGIYyrwjw2twga8jTUL1Taeok7QGIXff3vwt6p%2F0n4JffU7BklzZKPdMtWWKqsiPX1DblQl7ECLGbe0ZbtlsW6GG%2BVzvA%2BNdpHNjtgLB7kWmuAfo%2B%2FtukCb5TWo%2Be5oM%2FzAPSzMD0ZnH0gaQD8dwjaXC2Q5pt2u1yKRur%2FfU%2FpQw%3D%3D",
+    "itemLocation": {
+      "postalCode": "481**",
+      "country": "US"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cS8AAOSw2MNnQLFn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/trsAAOSwfXNnQLFo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ePQAAOSwpfZnQLFq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gRoAAOSwFF5nQLFs/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "186801060192",
+    "availableCoupons": true,
+    "itemOriginDate": "2024-11-22T16:29:34.000Z",
+    "itemCreationDate": "2024-11-22T16:29:34.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_US"
+  },
+  {
+    "itemId": "v1|385157369954|0",
+    "title": "HP ProLiant DL360 Gen10 2x Silver 4110 64GB RAM No HDD",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/B8oAAOSwUktmo3sj/s-l225.jpg"
+    },
+    "price": {
+      "value": "439.89",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C385157369954%7C0",
+    "seller": {
+      "username": "digitalmind2000",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 80544
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/B8oAAOSwUktmo3sj/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.com/itm/385157369954?_skw=dl360+gen10&hash=item59ad2b1062:g:B8oAAOSwUktmo3sj&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbLV04MQJ8u8sf%2BhW%2BQ6jNUZSexmGyCgZ81yXql0%2FO5RGmICiFRJ02%2Bv%2B0y22I6sS%2FS6Cjf40BSTRpsAe8nqgy6cEDygg1VNQ6OCkYzXkYlM8GBY4%2F3Zt7xCEYHx8LdXHVq%2BeyE1oACIgPzfBVynIzrmNBuBnLOInTdgmFRFsSQTYbi6haAkEhUYxk3vI1dnAgLrnyZmVKILuxqdmumscJ8Apdtf%2FLi7FkwsKHTVNDqfgRmqVDSpEj9fciHHvcSpL7JsT8CXcQ69Tn9fqe2FsMm",
+    "itemLocation": {
+      "postalCode": "481**",
+      "country": "US"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sCsAAOSwcSRmo3sk/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1n8AAOSwyqxmo3sl/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/VYAAAOSwG51mo3so/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "385157369954",
+    "availableCoupons": true,
+    "itemOriginDate": "2022-10-07T19:33:27.000Z",
+    "itemCreationDate": "2022-10-07T19:33:27.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_US"
+  },
+  {
+    "itemId": "v1|177256564161|0",
+    "title": "HP ProLiant DL360 Gen10 CPU 4114 Silver RAM 32GB dual PS HSTNS-PC40-1",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/BKgAAeSwVJdob9-b/s-l225.jpg"
+    },
+    "price": {
+      "value": "150.00",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C177256564161%7C0",
+    "seller": {
+      "username": "networks-city",
+      "feedbackPercentage": "99.1",
+      "feedbackScore": 2593
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BKgAAeSwVJdob9-b/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "40.00",
+          "currency": "USD"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.com/itm/177256564161?_skw=dl360+gen10&hash=item29455085c1:g:BKgAAeSwVJdob9-b",
+    "itemLocation": {
+      "postalCode": "927**",
+      "country": "US"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/B-sAAeSw1iZob9-b/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1WsAAeSwGLlob97O/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YB0AAeSw9LZob97O/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/07kAAeSwhgtob97O/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9PgAAeSwXdtob97O/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BkUAAeSwkd9ob9-b/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6qIAAeSwNSJob9-b/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9GEAAeSw585ob9-a/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "177256564161",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-10T15:44:08.000Z",
+    "itemCreationDate": "2025-07-10T15:44:08.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_US"
+  }
+]

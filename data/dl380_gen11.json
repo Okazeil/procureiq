@@ -1,0 +1,436 @@
+[
+  {
+    "itemId": "v1|166841295309|0",
+    "title": "HPE ProLiant DL380 Gen11 server with one Intel\u00ae Xeon\u00ae Silver 4510 Processor, 64",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/RkAAAeSwnTJobtf0/s-l225.jpg"
+    },
+    "price": {
+      "value": "7987.50",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C166841295309%7C0",
+    "seller": {
+      "username": "retail_king",
+      "feedbackPercentage": "98.6",
+      "feedbackScore": 23230
+    },
+    "marketingPrice": {
+      "originalPrice": {
+        "value": "15176.25",
+        "currency": "USD"
+      },
+      "discountPercentage": "47",
+      "discountAmount": {
+        "value": "7188.75",
+        "currency": "USD"
+      },
+      "priceTreatment": "LIST_PRICE"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RkAAAeSwnTJobtf0/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "7070507451",
+    "itemWebUrl": "https://www.ebay.com/itm/166841295309?_skw=dl380+gen11&hash=item26d88421cd:g:RkAAAeSwnTJobtf0&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYPYBuWVJ4JSH%2B6QglELrkH92DME0nxNx8Z0xZwBzPkcCrTLRiPtiNL8dpsvBFa84Tx9YYVlH96MvFTE8G6zBnFmX%2BTbv5fbeSGhijA0V8dJ8b6Kt5yWKiJ995iV7b8VKDUn8Bl1i%2B%2Bpkrx9ybDzDx%2F39xZGoriN5hEX7yO4qaWd%2FKCjcPkp7NkbMyYHajNVLKOesPuLu33h6aUZ71LIaYzJaFTst0E65wXfwajndvV4w1cfifU9SutOYsp04qX%2BaPje7jyJdhN%2F3xHaatKhymxb5XtMmR0694IZtZ2VQRPIw%3D%3D",
+    "itemLocation": {
+      "postalCode": "761**",
+      "country": "US"
+    },
+    "adultOnly": false,
+    "legacyItemId": "166841295309",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-06-26T03:17:33.000Z",
+    "itemCreationDate": "2024-06-26T03:17:33.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_US"
+  },
+  {
+    "itemId": "v1|167637653609|0",
+    "title": "HPE ProLiant DL380 Gen11 5416S 2.0GHz 16-Core / 2x32GB / BCM57416 10GbE / 8SFF /",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/K~IAAeSw6SRobqjN/s-l225.jpg"
+    },
+    "price": {
+      "value": "9216.47",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C167637653609%7C0",
+    "seller": {
+      "username": "retail_king",
+      "feedbackPercentage": "98.6",
+      "feedbackScore": 23230
+    },
+    "marketingPrice": {
+      "originalPrice": {
+        "value": "17511.29",
+        "currency": "USD"
+      },
+      "discountPercentage": "47",
+      "discountAmount": {
+        "value": "8294.82",
+        "currency": "USD"
+      },
+      "priceTreatment": "LIST_PRICE"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/K~IAAeSw6SRobqjN/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.com/itm/167637653609?_skw=dl380+gen11&hash=item2707fb9869:g:K~IAAeSw6SRobqjN&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbOsXdxdLmCQ0pouw%2FJXGrpU6zLsrgpI9Evzcxk5Xv2w3U9YVFbKr1jAekl1ReC5XkwzKdkaocYIt1mmEwyQiMyCA6BSyN3BocfQrrlde%2BKmD%2FOFZ50UjeUG4i5M%2FgJpNmvGihETS3IgcKSSqwv4BBWmSL%2FHjsQjCBYCVVl1zqFu8zL%2F5AblDdMirYfJstH1szZ%2FNvnZ7M4X02jDwS%2FyhkrbLJ7vvtDYYW6g2RnSeXAg3D25ui2HUh7zIo0%2BX73T132B%2BJml2iW8dbrF6CnkWXh40aPd3eF61EzzTTA194cDA%3D%3D",
+    "itemLocation": {
+      "postalCode": "761**",
+      "country": "US"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zdEAAeSwTmRobqjN/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zBMAAeSwbvhobqjN/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hUwAAeSw4g1obqjO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-BYAAeSwwKRobqjN/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "167637653609",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-09T17:07:40.000Z",
+    "itemCreationDate": "2025-07-09T17:07:40.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_US"
+  },
+  {
+    "itemId": "v1|167641152617|0",
+    "title": "HPE ProLiant DL380 Gen11 4410Y 2.0GHz 12-Core / 2x32GB / BCM5719 1GbE / 8SFF /",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/OVQAAeSwojZocT8Y/s-l225.jpg"
+    },
+    "price": {
+      "value": "7491.12",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C167641152617%7C0",
+    "seller": {
+      "username": "retail_king",
+      "feedbackPercentage": "98.6",
+      "feedbackScore": 23230
+    },
+    "marketingPrice": {
+      "originalPrice": {
+        "value": "14233.13",
+        "currency": "USD"
+      },
+      "discountPercentage": "47",
+      "discountAmount": {
+        "value": "6742.01",
+        "currency": "USD"
+      },
+      "priceTreatment": "LIST_PRICE"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OVQAAeSwojZocT8Y/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.com/itm/167641152617?_skw=dl380+gen11&hash=item270830fc69:g:OVQAAeSwojZocT8Y&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaWC4WXTq60YMZUTcXRxLC7IiFKzDAODeImqZ4rWM7y3tX1WTNMemNKAW28gqHbeY%2FuCfilHeeVs%2FJbtXFn2AH%2F7Ulo%2FJ%2F1x82VYYCqHQPbmXkj%2BOujY5a7b4G8%2BZsTq6bu4XvMTHdUISBPldnS0LJWVZm4XcdwC7CZGJ4PaNluK2%2FA0UnLMu1W9BibGogSxxxUC3SkJ3A6lmQIAgGu6o1u4t9hDNwQ1%2FGkBKejxX2cnEQIRD3UMuShMfF6%2BMntuqDjXy3Gkb8ueHXSwzc8aRPsyuIbrPENtuY5RxS63AdZdg%3D%3D",
+    "itemLocation": {
+      "postalCode": "761**",
+      "country": "US"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/av0AAeSwRyVocT8Y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0Q0AAeSwmmRocT8Y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2EwAAeSwtwJocT8Y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9doAAeSwk3BocT8Y/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "167641152617",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-11T15:31:34.000Z",
+    "itemCreationDate": "2025-07-11T15:31:34.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_US"
+  },
+  {
+    "itemId": "v1|167069926195|0",
+    "title": "HPE ProLiant DL380 Gen11 server with one Intel\u00ae Xeon\u00ae Gold 6526Y Processor, 128",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/aNQAAeSwkd9ocl5~/s-l225.jpg"
+    },
+    "price": {
+      "value": "9598.50",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C167069926195%7C0",
+    "seller": {
+      "username": "retail_king",
+      "feedbackPercentage": "98.6",
+      "feedbackScore": 23230
+    },
+    "marketingPrice": {
+      "originalPrice": {
+        "value": "18237.15",
+        "currency": "USD"
+      },
+      "discountPercentage": "47",
+      "discountAmount": {
+        "value": "8638.65",
+        "currency": "USD"
+      },
+      "priceTreatment": "LIST_PRICE"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/aNQAAeSwkd9ocl5~/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "21072184146",
+    "itemWebUrl": "https://www.ebay.com/itm/167069926195?_skw=dl380+gen11&hash=item26e624c333:g:aNQAAeSwkd9ocl5~&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYOu84WagdwxCvYQNbyhGR%2B1XdnWA19jU3EhLfbCaLH72KFjdlOnQpV3%2BkdziIwFN5q4Svns%2BlIMKyjVnTvtwuvkfllHjbdXCufkFpmeN8G1cTMKp2TtJ5qECi%2BfUCwKmtKf8QzcFcZLLfUW02I3iKqluf9M%2BAAX1kdcebfw%2Fge1DuYTRYRZT0g%2Fbr8EiF%2B5IMGp9EUyV53WXr3xddS%2FB1rVLE%2FFet7NYJnglIy2MbwrIWYsir4H1oIAVVlaxO5h6FgSaXtwxV2WDc1qW9C%2Fk4HflEQXtqeWwl%2BlQCC1SHfPA%3D%3D",
+    "itemLocation": {
+      "postalCode": "761**",
+      "country": "US"
+    },
+    "adultOnly": false,
+    "legacyItemId": "167069926195",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-11-06T21:29:38.000Z",
+    "itemCreationDate": "2024-11-06T21:29:38.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_US"
+  },
+  {
+    "itemId": "v1|256796982952|0",
+    "title": "HPE ProLiant DL380 Gen11 Intel Xeon-G 6526Y 16c 128GB 2x1000w Server P71681-005",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/17IAAOSw7zZnmBfk/s-l225.jpg"
+    },
+    "price": {
+      "value": "6198.00",
+      "currency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256796982952%7C0",
+    "seller": {
+      "username": "networkingsolutionstech",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 3714
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/17IAAOSw7zZnmBfk/s-l960.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "95.00",
+          "currency": "USD"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "21072184146",
+    "itemWebUrl": "https://www.ebay.com/itm/256796982952?_skw=dl380+gen11&hash=item3bca4afea8:g:17IAAOSw7zZnmBfk",
+    "itemLocation": {
+      "postalCode": "981**",
+      "country": "US"
+    },
+    "adultOnly": false,
+    "legacyItemId": "256796982952",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-01-27T23:39:20.000Z",
+    "itemCreationDate": "2025-01-27T23:39:20.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_US"
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "itemId": "v1|388559532646|0",
+    "title": "Dell PowerEdge R760XS Intel Gold 6526Y 2.8GHz 16Core 256GB PC5 RAM H755 8GB HDDs",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/l70AAOSwxxZoSFHw/s-l225.jpg"
+    },
+    "price": {
+      "value": "4500.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388559532646%7C0",
+    "seller": {
+      "username": "itbaron001",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 3678,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/l70AAOSwxxZoSFHw/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-21T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-21T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388559532646?_skw=Dell+Poweredge+R760&hash=item5a77f3f266:g:l70AAOSwxxZoSFHw",
+    "itemLocation": {
+      "postalCode": "HP11***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5vwAAOSwat9oSFHz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9ZUAAOSw0vtoSFHv/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/na4AAOSwbGFoSFHx/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/I0gAAOSwoe9oSFH0/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "388559532646",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-10T12:38:16.000Z",
+    "itemCreationDate": "2025-06-10T12:38:16.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|116635977872|0",
+    "title": "Dell PowerEdge R760 R760XA High Performance CPU Heatsink - RNTKV",
+    "leafCategoryIds": [
+      "131486"
+    ],
+    "categories": [
+      {
+        "categoryId": "131486",
+        "categoryName": "CPU Fans & Heatsinks"
+      },
+      {
+        "categoryId": "42000",
+        "categoryName": "Fans, Heatsinks & Cooling"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/VMIAAOSwoOJmDBpV/s-l225.jpg"
+    },
+    "price": {
+      "value": "72.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C116635977872%7C0",
+    "seller": {
+      "username": "serversetc",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 4077,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/VMIAAOSwoOJmDBpV/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-21T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-21T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/116635977872?_skw=Dell+Poweredge+R760&hash=item1b280bc890:g:VMIAAOSwoOJmDBpV&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UY%2FY0FgGoszPI4qCetit3a3T4tzqBpc6oU76RJ3x9E9khHW5Rg%2FMXCvt5eCdZ7Phne0mGx2J16uVq%2BGw4ACIY3A4ZsCD9nxECcYJWdBGikuLZkX%2BGsWycz9hy7S%2FuseJxarMyhuoG7jvpg%2Bp7sLyz0kWK%2BVeSSRfJq66D%2Brzy--E%2BNmcDPTOflZlQ2%2FzhAoR0W4y9ifiKhDz3%2F6EU5r2D3BD7j91hphnXFBCHZmSy1o13M9PIhlmB%2FTdOs7TS2IlpGn1N3Xegn6EPOL6icSnZyMvoZlxrC2xj70j5gAi3Qd3w%3D%3D",
+    "itemLocation": {
+      "postalCode": "RG12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9TAAAOSwkqpmDBpV/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/L2kAAOSw3epmDBpV/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zU8AAOSwWqhmDBpV/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/16EAAOSw0MhmDBpV/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yvYAAOSwRJxmDBpV/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "116635977872",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-05T16:09:01.000Z",
+    "itemCreationDate": "2025-06-05T16:09:01.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|256988484690|0",
+    "title": "Dell PowerEdge R760XS - 16SFF / 2 x Gold 6430 / 512GB RAM / H755 Raid / 2 x PS",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/1sgAAOSwkN1oWnr2/s-l225.jpg"
+    },
+    "price": {
+      "value": "9799.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256988484690%7C0",
+    "seller": {
+      "username": "enterpriseit",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 3042,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1sgAAOSwkN1oWnr2/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "15.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-22T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-22T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/256988484690?_skw=Dell+Poweredge+R760&hash=item3bd5b51452:g:1sgAAOSwkN1oWnr2&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ub60Pw%2BjFFUw5Osf7gc88eEkGNfpiSRGyPMFyS%2Fs5T1ZXPfwEzKED6hmwhNf5vXHNPTaTloKngNavehgRlSMoauz8mzn4F9u0WYc5ji1HVARzWSWIpgXhOFZbAA7dBXRBJTmBYuBRHs9NDI2PYQTfk4r70IIP3wD9O72lFnIkpaRLVirUaW1crqIe0E0MrNjSVCzTS03YSnKUn8fMc%2BnRpLAuPXZ9Jb1AZILQWfl990O0v9eqOZ%2BOhYkLhn4Watkf1%2FuSBytVxz85ICE4QkbMUSeuAQYsoB1FsyJPuTo%2BVOaA%3D%3D",
+    "itemLocation": {
+      "postalCode": "LS23***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "256988484690",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-24T10:25:49.000Z",
+    "itemCreationDate": "2025-06-24T10:25:49.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|387639969371|0",
+    "title": "Dell PowerEdge R760 Gold 6442Y 2.6GHz 24Core 256GB PC5 RAM 9 x 20TB HDD H755 8GB",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/P5AAAOSwdl9m2suc/s-l225.jpg"
+    },
+    "price": {
+      "value": "9000.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C387639969371%7C0",
+    "seller": {
+      "username": "itbaron001",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 3678,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/P5AAAOSwdl9m2suc/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-21T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-21T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/387639969371?_skw=Dell+Poweredge+R760&hash=item5a4124865b:g:P5AAAOSwdl9m2suc&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZzrJYC2HS7GrCAIy%2FkCgVgiiKa03ppEU4lcz0h5mNQ5dCsRqOJKVuHAur1c3G3cLmSO3BaLCzk6669wRmMX1qnfo4vmu2VVG%2FdnBAWAQUi2150Fyvo8JgBaKPrT8xIrEcROI%2BBg8rPAQWHjF8tHtoGMgBVifIXyYELbyhIX%2F3ZF1rFBLWJUJ0LhRSemnjW4TUGzNR4Ry7NqUJoYXBB0DvPO89Ykue0wvY7Virg6FmPWimmGizw3E0Zjwc%2BcGabgvlfrGLdkhQo64gUHheTlL7Bkzs3tBsvD9fI4js3oZZeBw%3D%3D",
+    "itemLocation": {
+      "postalCode": "HP11***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SNIAAOSwE1Nm2svp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~ZwAAOSwDlFm2sv5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ppoAAOSw7Sxm2suJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/k9wAAOSwGXxm2suK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/g68AAOSwaM5m2suK/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "387639969371",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-11-22T13:48:50.000Z",
+    "itemCreationDate": "2024-11-22T13:48:50.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|205223517611|0",
+    "title": "NEW Dell PowerEdge R760 CTO 2U Server 2x Gen4/5 Scalable CPU 32-DIMM 12x LFF Bay",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/Q0kAAOSws5xnh5nD/s-l225.jpg"
+    },
+    "price": {
+      "value": "4440.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C205223517611%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31083,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Q0kAAOSws5xnh5nD/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-21T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-21T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/205223517611?_skw=Dell+Poweredge+R760&hash=item2fc8465dab:g:Q0kAAOSws5xnh5nD",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BhAAAOSw9gtnh5nD/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wMUAAOSwOxlnh5mv/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hesAAOSwYSJnh5mw/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PncAAOSwXWBnh5my/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qg8AAOSw1jBnh5m1/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "205223517611",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-01-15T06:41:01.000Z",
+    "itemCreationDate": "2025-01-15T06:41:01.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

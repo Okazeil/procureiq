@@ -2,7 +2,12 @@ import sys
 import json
 import os
 from pathlib import Path
-from backend.ingest.ebay_adapter import search_ebay
+
+from .ebay_adapter import search_ebay
+from .db_utils import create_listings_table, insert_listings
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def main():
     if len(sys.argv) < 2:
@@ -18,19 +23,17 @@ def main():
         print("[WARN] No listings found or API failed.")
         return
 
-    # Ensure output directory exists at project root
-    project_root = Path(__file__).resolve().parents[2]
-    output_dir = project_root / "data"
-    os.makedirs(output_dir, exist_ok=True)
-
-    filename = f"{query.lower().replace(' ', '_')}.json"
-    output_path = output_dir / filename
-
-    with open(output_path, "w", encoding="utf-8") as f:
+    # Optional: Save to local JSON (for testing or logging)
+    data_dir = Path("data")
+    data_dir.mkdir(exist_ok=True)
+    filename = data_dir / f"{query.replace(' ', '_')}.json"
+    with open(filename, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2)
+    print(f"[✓] Saved {len(results)} listings to: {filename}")
 
-    print(f"[✓] Saved {len(results)} listings to: {output_path}")
-
+    # ✅ Save to PostgreSQL
+    create_listings_table()
+    insert_listings(results)
 
 if __name__ == "__main__":
     main()

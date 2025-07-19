@@ -1,0 +1,435 @@
+[
+  {
+    "itemId": "v1|116582388500|0",
+    "title": "Dell PowerEdge R650XS 2x 12 Core 2.1GHz Silver 4310 64GB 2x 1.2TB 10K SAS H755",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/odQAAOSwGVBmsIzY/s-l225.jpg"
+    },
+    "price": {
+      "value": "2940.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C116582388500%7C0",
+    "seller": {
+      "username": "serversetc",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 4077,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/odQAAOSwGVBmsIzY/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-23T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-23T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/116582388500?_skw=Dell+Poweredge+R650&hash=item1b24da1314:g:odQAAOSwGVBmsIzY",
+    "itemLocation": {
+      "postalCode": "RG12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/570AAOSwizVmsIzV/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vwMAAOSwF5tmsIzW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fTUAAOSwytRmsIzZ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KeAAAOSwNSVmsIzW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cE4AAOSwIXxmsIzY/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "116582388500",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-04-30T16:01:10.000Z",
+    "itemCreationDate": "2025-04-30T16:01:10.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|388391110985|655540977686",
+    "title": "Dell PowerEdge R650xs 1x8 2.5\" Hard Drives - Build Your Own Server",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=388391110985",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/3F4AAeSwRixoHgvG/s-l225.jpg"
+    },
+    "price": {
+      "value": "3300.00",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388391110985%7C655540977686",
+    "seller": {
+      "username": "etb-technologies",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 8924,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3F4AAeSwRixoHgvG/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-21T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-22T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388391110985?_skw=Dell+Poweredge+R650&hash=item5a6dea0949:g:3F4AAeSwRixoHgvG&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYSMcDIr%2BAHyz1LgKSE3b%2FqiDAk3APt4KVnwvwvOcFHJ7fD2OC250L9taJm8l3pgBPvABk52SKX%2FhDYAHlOu%2BU04Mzubm%2BjPLzPSpacbNrd%2FglawutXB%2BSKsXSQxXlBjYMW9WZ%2BzH%2BRdgXX8l5h46bv2LvNZO7dWhCxRA2cNdNO%2FRU6WvZ0Mxt0xhsh0ZosGADXaeoWl%2FTX%2BZnP1vC%2F9A6UKmzWhKqPsQyQ%2BYmCTxGMNtS9YZmTnLWgAS6%2BXCZ6S6CvTGWAYFeMbT84W2ZwoS0pgeGTXOmqLiMzuh9q8WGEDQ%3D%3D",
+    "itemLocation": {
+      "postalCode": "DG5***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ckoAAeSwn9poHgvG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NIIAAeSw1cloHgvG/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "388391110985",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-09T14:03:47.000Z",
+    "itemCreationDate": "2025-05-09T14:03:47.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|373021302548|0",
+    "title": "Genuine New Dell Poweredge R650x R750x Motherboard P/N: 441XG",
+    "leafCategoryIds": [
+      "51268"
+    ],
+    "categories": [
+      {
+        "categoryId": "51268",
+        "categoryName": "Network Switches"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182091",
+        "categoryName": "Switches & Hubs"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/CxIAAOSw-A1nqzpC/s-l225.jpg"
+    },
+    "price": {
+      "value": "899.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C373021302548%7C0",
+    "seller": {
+      "username": "bpro-limited",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 116,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CxIAAOSw-A1nqzpC/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-21T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-22T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/373021302548?_skw=Dell+Poweredge+R650&hash=item56d9cd5f14:g:CxIAAOSw-A1nqzpC&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZYksZ488PwkUsZ1ljPoYxmw3F9%2FEibeVUXDPgyTGGmfwHaPI%2BCHnIL6nEY5hUBMe3PLll5MVIQWGUkJfrI6Z5xVYLE75LgArNqMsOyCq95gIhcFqv50aC8o3CpnEjcQI%2BXYQw7InUks0L4%2F2Ns7l1pQTX6v9z6cABSpscywhFye41WmfeDJJCvfiGvFIBXW7dSkcMEayOtv5VZXCf5dYpYmI54HEf7g%2BUVOzMEgwdLfLOo5PKfrhXoIHYNe0g7vJXye4yOpAofrNrUXZDyBPbD9ZMThI0rcuSXm%2BmMrTPubg%3D%3D",
+    "itemLocation": {
+      "postalCode": "BD7***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "899.99",
+      "currency": "GBP"
+    },
+    "legacyItemId": "373021302548",
+    "availableCoupons": false,
+    "itemOriginDate": "2020-04-14T22:14:27.000Z",
+    "itemCreationDate": "2020-04-14T22:14:27.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|127084865238|0",
+    "title": "Dell PowerEdge R650 2 x 24 Core 2.80GHz Gold 6342 256GB 6 x 3.2TB NVMe SSD S150",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/s9QAAOSwmCZnojjW/s-l225.jpg"
+    },
+    "price": {
+      "value": "9054.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C127084865238%7C0",
+    "seller": {
+      "username": "serversetc",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 4077,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/s9QAAOSwmCZnojjW/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-23T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-23T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/127084865238?_skw=Dell+Poweredge+R650&hash=item1d96d926d6:g:s9QAAOSwmCZnojjW&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaHB6og7TzkBIpaB1Ovu1VeVd50cIJ%2B62oHz%2BDYIJWfW2p%2FnLQQ9r0Ll%2BFcvYju4HYmV%2F7lF1RdoW0FEgXfxXbJwMXAn8zWMNgZMB%2BrqIpjuO1cQ6nVkPzOFcYIQRO82poSSSR%2B6OZaQrVQYxeKyXwTs4pBtM68Pn8%2FTDsqgdVnJHU5Lqf%2B6%2FTEOmmX1kNa6CvJGVNR3EzgIP368175bkp3miUMtTC0F7DpX9%2BYoUlEztePeCfMThGB9fqJh4CKQ1CmqyCbYXiJDvUcA6YSvmjpOkI337yW%2Fj0rGuG0nOqnmA%3D%3D",
+    "itemLocation": {
+      "postalCode": "RG12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HrEAAOSw02RnojjW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qvgAAOSwlRZnojjW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JCsAAOSwqrFnojjW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2CUAAOSw9C5nojja/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-uMAAOSwOD9nojjW/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "127084865238",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-04-30T15:57:28.000Z",
+    "itemCreationDate": "2025-04-30T15:57:28.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|116591323021|416840194584",
+    "title": "Dell PowerEdge R650XS 8 x 2.5\" SFF 1U Rack Server - Build Your Own Server",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=116591323021",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/FzAAAOSwmplnoeO1/s-l225.jpg"
+    },
+    "price": {
+      "value": "3372.00",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C116591323021%7C416840194584",
+    "seller": {
+      "username": "serversetc",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 4077,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FzAAAOSwmplnoeO1/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-23T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-23T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/116591323021?_skw=Dell+Poweredge+R650&hash=item1b2562678d:g:FzAAAOSwmplnoeO1",
+    "itemLocation": {
+      "postalCode": "RG12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/B70AAOSw94dnoeO0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CzUAAOSwtyxnoeO4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9W0AAOSw-hpnoeO1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/J5EAAOSwBohnoeO1/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "116591323021",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-06T13:01:47.000Z",
+    "itemCreationDate": "2025-05-06T13:01:47.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "itemId": "v1|226860021757|0",
+    "title": "HP ProLiant DL560 Gen10 ILO5 8 SFF S100i 4 CPU Rack Server Chassis",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/jQQAAeSwzz5ocJtj/s-l225.jpg"
+    },
+    "price": {
+      "value": "1138.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226860021757%7C0",
+    "seller": {
+      "username": "towlersltd",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 10663,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Good - Refurbished",
+    "conditionId": "2030",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jQQAAeSwzz5ocJtj/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/226860021757?_skw=HP+Proliant+DL560+Gen10&hash=item34d1e937fd:g:jQQAAeSwzz5ocJtj",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ctwAAeSwDztocJtj/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bicAAeSwrdhocJtj/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fjQAAeSw8n9ocJtj/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bhkAAeSwK7ZocJtj/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "226860021757",
+    "availableCoupons": true,
+    "itemOriginDate": "2025-07-11T05:01:16.000Z",
+    "itemCreationDate": "2025-07-11T05:01:16.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|146574250346|0",
+    "title": "HP P02981-B21 ProLiant DL560 Gen10 - Intel Xeon Gold 6226 CPU 2 Kit",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/Ak8AAeSwudBoXfMd/s-l225.jpg"
+    },
+    "price": {
+      "value": "144.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C146574250346%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67842,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Ak8AAeSwudBoXfMd/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-21T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-22T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/146574250346?_skw=HP+Proliant+DL560+Gen10&hash=item222081916a:g:Ak8AAeSwudBoXfMd&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Uai6%2Fc3FaqPEf2neGqw2al0iggs%2FviymWjI3uIkh82GsWn5YdMZsYtGBFy9FqN2wV3wBO%2FotX2C%2F2Mn%2BllPcKMI1Tt8%2FGlVhR5vSpeBUM4wMp%2B88XfkG9Wq0%2B2NtRGYpO2ZCxClWy8fi0SyNk8kDvbPuSMnhu12hYTnGDsHzZ8sj122ZdQn6QMmfmKvgMk1Ih0H7HCr4nx2gdq3sIkZ9UqDxwNY62E3R1UrwircjzPjnK9Yu5AUR9GGJo6tfIrkHIrsQ6aB4O7orq%2BOrOUbFGgUlqmPyjcZr0mnNbvRPb4--A%3D%3D",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "144.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "146574250346",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-10T22:21:10.000Z",
+    "itemCreationDate": "2025-05-10T22:21:10.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|405856019859|0",
+    "title": "HP 840395-B21 ProLiant DL560 Gen10 - Intel Xeon Platinum 8156 CPU 2 Kit",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/5RAAAeSwqg1oXfL3/s-l225.jpg"
+    },
+    "price": {
+      "value": "159.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C405856019859%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67842,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5RAAAeSwqg1oXfL3/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-21T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-22T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "13019085693",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/405856019859?_skw=HP+Proliant+DL560+Gen10&hash=item5e7ee76593:g:5RAAAeSwqg1oXfL3&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaZrpoWRQiFSdAfe3D%2FoRuk3MpoAlipWxgrl4fFlAktkBcz4%2FmBllZ1Hcci5k4VXpijUCyuA2gFNpvvwlqw--1l%2BJsAlKEOYN9YFHQyD9XOafE2FSiB9hE9EefqW4L731YI1%2FhKJKCax0caham0Lv33oMq8hHMz7JIs%2BbM54j9nCrnK4M9r74l%2FHodF3OE%2By1eL7HtH2dse2QNyIT3IY8ORxFpuKfYXWs%2Fcm0UfNxd1g9pKOMtcJPX8wBCQ4m1z55iTMntBEwAWtcuJyv0SLusreLQvx%2ByowgbcjMBE45NGhw%3D%3D",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "159.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "405856019859",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-11T06:20:25.000Z",
+    "itemCreationDate": "2025-05-11T06:20:25.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|146567942743|0",
+    "title": "HP P03024-B21 ProLiant DL560 Gen10 - Intel Xeon Gold 5215 CPU 2 Kit",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/PtEAAeSwJSloXfLg/s-l225.jpg"
+    },
+    "price": {
+      "value": "99.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C146567942743%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67842,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PtEAAeSwJSloXfLg/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-21T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-22T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/146567942743?_skw=HP+Proliant+DL560+Gen10&hash=item2220215257:g:PtEAAeSwJSloXfLg&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ub76UJJA3g1UQTOSPUs%2BUcpQbfRu29M6AOFo0qNd%2F3zqscfYKs9O3xjhPqyMoFOvaTVNljF5kDrP%2FR44nd8jB696Y8SD64OvCS6g6iwGDbPmZWPD7yoLuylHjx3f36IGXhKr9OaqE%2FW8%2B%2BH%2FBs35m6OXvgFCXmCNbUAYhtpONeYYvDHivn0eDwl5YlJYjY7%2BiPdT1TSIKqOpFIOqdJp8%2FOumPr2EXZXBICI7pfSJ46qe37NBSkXnzn5sewp84C0BNlZ7hRXMIhXYx3ihSZFFz1PylYG4bFHMNsdlHE7EkJ7lQ%3D%3D",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "99.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "146567942743",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-07T19:06:47.000Z",
+    "itemCreationDate": "2025-05-07T19:06:47.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|127103413264|0",
+    "title": "HP 870736-B21 ProLiant DL560 Gen10 - Intel Xeon Gold 5122 CPU 2 Kit",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/BIkAAeSwnYVoXe-p/s-l225.jpg"
+    },
+    "price": {
+      "value": "85.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C127103413264%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67842,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BIkAAeSwnYVoXe-p/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-21T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-22T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/127103413264?_skw=HP+Proliant+DL560+Gen10&hash=item1d97f42c10:g:BIkAAeSwnYVoXe-p",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "85.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "127103413264",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-10T07:45:11.000Z",
+    "itemCreationDate": "2025-05-10T07:45:11.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

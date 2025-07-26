@@ -3,7 +3,7 @@ import json
 import os
 from pathlib import Path
 
-from .ebay_adapter import search_ebay
+from backend.ingest.ebay_adapter import search_ebay
 from .db_utils import create_listings_table, insert_listings
 from dotenv import load_dotenv
 

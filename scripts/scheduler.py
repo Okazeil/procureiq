@@ -33,7 +33,7 @@ SEARCH_TERMS = [
 def run_ingestion():
     for term in SEARCH_TERMS:
         print(f"[INFO] Running ingestion for: {term}")
-        subprocess.run(["python", "backend/ingest/run_ingestion.py", term])
+        subprocess.run(["python", "-m", "backend.ingest.run_ingestion", term])
 
 # Schedule the task every hour
 schedule.every(1).hours.do(run_ingestion)

@@ -1,0 +1,481 @@
+[
+  {
+    "itemId": "v1|167360792267|0",
+    "title": "Canon G1000E & Hitachi GX3100E Camcorders ",
+    "leafCategoryIds": [
+      "11724"
+    ],
+    "categories": [
+      {
+        "categoryId": "11724",
+        "categoryName": "Camcorders"
+      },
+      {
+        "categoryId": "625",
+        "categoryName": "Cameras & Photography"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/6C0AAeSwbUlnyhEn/s-l225.jpg"
+    },
+    "price": {
+      "value": "25.63",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C167360792267%7C0",
+    "seller": {
+      "username": "wisp-8674",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 868,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "For parts or not working",
+    "conditionId": "7000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6C0AAeSwbUlnyhEn/s-l225.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/167360792267?_skw=Hitachi+G1000&hash=item26f77b06cb:g:6C0AAeSwbUlnyhEn",
+    "itemLocation": {
+      "postalCode": "LN2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~8cAAeSwmXVnyhEm/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2dUAAeSwU79nyhEn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9VEAAeSwtuFnyhEm/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/560AAeSwJ6lnyhEn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/59IAAeSwz0hnyhEn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CsQAAeSwqFJnyhEn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/960AAeSwQnNnyhEn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vFAAAeSwlORnyhEo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~aEAAeSwn71nyhEo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/D34AAeSwpxFnyhEo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6NgAAeSwNYNnyhEo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DvcAAeSwt7RnyhEo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-7AAAeSwvgdnyhEp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6wQAAeSwLaRnyhEp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/D~YAAeSwq3ZnyhEp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0KoAAeSwveBnyhEp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Cx8AAeSwLABnyhEp/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "167360792267",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-07T07:40:46.000Z",
+    "itemCreationDate": "2025-03-07T07:40:46.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|186233894809|0",
+    "title": "5557084-A HITACHI 1800W 80+ PLATINUM PSU FOR HITACHI VSP G1000 G1500",
+    "leafCategoryIds": [
+      "56090"
+    ],
+    "categories": [
+      {
+        "categoryId": "56090",
+        "categoryName": "Server Power Supplies"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/G1MAAOSwgexnKlhB/s-l225.jpg"
+    },
+    "price": {
+      "value": "198.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C186233894809%7C0",
+    "seller": {
+      "username": "www_compan_info",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 4495,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/G1MAAOSwgexnKlhB/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "10.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/186233894809?_skw=Hitachi+G1000&hash=item2b5c67b799:g:G1MAAOSwgexnKlhB&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbTy1gYbWg28TJfiKLSH6j41iSRXhRHvLnEDYRPP87trlVSNxzhuIyi92jqzQJ%2BVDg9MM%2BNBFvVPWDXp3lBGwfVlXFIXFzpxOcq4Oy5gb5yF96K%2F7x1YW%2BAk6zhpnmiCYTGjGDdJFJWWY7Bq29Ay42hGgMvQVwskjc0eObXOOqRA91o5FIOeEPiJ5p2%2Bp8Gclh3XB6ok%2Bi59PATVd%2B%2BTDHMSJyATyoQmaOto5KCvhmLVjGsc5fjh0NwZc139AYXvuaTuEIJ69MbSsKluRx59Fexx%2BhJNKpF5y%2FHyX%2B0r6E4dw%3D%3D",
+    "itemLocation": {
+      "postalCode": "58***",
+      "country": "PL"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/W5UAAOSwsJZnKlhE/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HAwAAOSwETlnKlhB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JC4AAOSwQUlnKlhE/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PioAAOSwP65nKlVp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PikAAOSwP65nKlVo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/pRkAAOSwSxdnKlVo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mPYAAOSw5qBnKlVo/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "186233894809",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-01-02T08:18:23.000Z",
+    "itemCreationDate": "2024-01-02T08:18:23.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|186227734972|0",
+    "title": "5552748-A HITACHI 600W POWER SUPPLY FOR HITACHI VSP G1000",
+    "leafCategoryIds": [
+      "56090"
+    ],
+    "categories": [
+      {
+        "categoryId": "56090",
+        "categoryName": "Server Power Supplies"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/KPIAAOSwhEtnRU4y/s-l225.jpg"
+    },
+    "price": {
+      "value": "122.39",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C186227734972%7C0",
+    "seller": {
+      "username": "www_compan_info",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 4495,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KPIAAOSwhEtnRU4y/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "12.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/186227734972?_skw=Hitachi+G1000&hash=item2b5c09b9bc:g:KPIAAOSwhEtnRU4y&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbDK0gJMAbSwJUAfQUsfyhEnPuVj6lPMllLjv56qyLYKM4zAN10rr313L%2Fy5rfkFmNFFJArmFE3FemW9lZOdeUBsfc9VgtVY6FFu2%2Fat0Z4qxaB69vzgz4xSfCd%2B3uyGgxc%2Bnppn28jMSNYImajZ4vztX3btXYy14oF27x5wCcOF9oC4dkyiZa1s41HuNwt%2Bkzk%2FNG%2BOvDV6QX4zqcPMLCf0CI9Xhn5mr0x8p%2FQ4CMNQwVTlAOsbEXcZayvfmHLzddU4Yyy4NZ8gZjcBPol9PV6oSVU0U6dNR%2F9lsGo01p3yg%3D%3D",
+    "itemLocation": {
+      "postalCode": "58***",
+      "country": "PL"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/I-AAAOSwlXRnRU4y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/lpcAAOSwCplnRU4y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/uvsAAOSwBAlnRU4y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BMoAAOSwykZnRU4y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/VusAAOSwHF5nRU4y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Tj8AAOSw9GZnRU41/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/uIMAAOSwxCFnRU4y/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "186227734972",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-12-28T15:39:16.000Z",
+    "itemCreationDate": "2023-12-28T15:39:16.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|204852653591|0",
+    "title": "5556750-A HITACHI 8GB LW SFP TRANSCEIVER MODULE FOR HITACHI VSP G1000",
+    "leafCategoryIds": [
+      "58321"
+    ],
+    "categories": [
+      {
+        "categoryId": "58321",
+        "categoryName": "Other Ent. Switches & Hubs"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182091",
+        "categoryName": "Switches & Hubs"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/OFsAAOSw9IxnRS3s/s-l225.jpg"
+    },
+    "price": {
+      "value": "50.39",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C204852653591%7C0",
+    "seller": {
+      "username": "www_compan_info",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 4495,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OFsAAOSw9IxnRS3s/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "12.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/204852653591?_skw=Hitachi+G1000&hash=item2fb22b6e17:g:OFsAAOSw9IxnRS3s&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYum%2FSWKtgi06Mw%2BslwLp6Wp9BoJsd0yctJdPX9g4vMQwGxJKQWZFsKhplC6zBhsIAtb6OmY0Me1jtJ9t6Ckxn87btOChWKtB2qvkRgbYaBoWMRIr0sD8p2n3EZQHzqtI%2FCeN%2BCjWAzJ4nQJNqbQ3AwpLh35P2W1AsP3vmRpPveHTI8D7VKthNGR5SdSpCwc1P8s6TT8mazKp7etn9oxsqZgWnSFqdBoqAS%2FLQfuZBKzvoziS8wQIOK4NvNjGyqV2aOrkF2n5SbCOo1zxnM05LyoHyDfBLjWq60oo9DO15y9Q%3D%3D",
+    "itemLocation": {
+      "postalCode": "58***",
+      "country": "PL"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/pSMAAOSwuhdnRS3q/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bQIAAOSw0h1nRS3q/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9AYAAOSwQF1nRS3q/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/P6QAAOSwBiZnRS3r/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SOAAAOSwHqtnRS3r/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/eq0AAOSwJJVnRS3r/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "204852653591",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-06-25T07:30:40.000Z",
+    "itemCreationDate": "2024-06-25T07:30:40.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|277289564677|0",
+    "title": "BATTERIE 4500mAh Type 3289081-A For Hitachi HDS VSP G1000 G200 G400 G600 G800",
+    "leafCategoryIds": [
+      "162045"
+    ],
+    "categories": [
+      {
+        "categoryId": "162045",
+        "categoryName": "Batteries"
+      },
+      {
+        "categoryId": "625",
+        "categoryName": "Cameras & Photography"
+      },
+      {
+        "categoryId": "15200",
+        "categoryName": "Camera, Drone & Photo Accessories"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/3NcAAOSwWHBn5Qxy/s-l225.jpg"
+    },
+    "price": {
+      "value": "110.35",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C277289564677%7C0",
+    "seller": {
+      "username": "ecomidf-diffusion",
+      "feedbackPercentage": "97.6",
+      "feedbackScore": 11634,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3NcAAOSwWHBn5Qxy/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "26.03",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/277289564677?_skw=Hitachi+G1000&hash=item408fbefa05:g:3NcAAOSwWHBn5Qxy&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UY2DiDILeBx1Yr4i6TaU10SBSYEnPpFVEztjQvs%2B5TVmCbDwNJX4FpmRIi1BzbImAv%2FtPAUiyxLYJM91KcyjHGanlMqwZnw1OEX9gOag2G%2BGMWhgyJmrfVES3Ki7RSc7%2Bi0eBYL7a%2Bx%2FB8WkZ7ygadlZb4HTYbFBC0JEm5G4GaAwh76Qc%2F4CivLU%2F5SMhUjpetRW8FXrqy7a2JV%2FmicoEEhVJEYymibfvpyY0T3A%2F9eTDUp5nEh61jOIa7WfWJmlkMYRjwAI4RWccm9YhD5U%2BBNnWEamYx7hER3Jur1bBvSug%3D%3D",
+    "itemLocation": {
+      "country": "HK"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/u~IAAOSwkzpn5Qxx/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/640AAOSwWg9n5Qxx/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/eOQAAOSwpUNn5Qxy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/a1gAAOSw7q9n5Qxw/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "277289564677",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-25T05:18:23.000Z",
+    "itemCreationDate": "2025-07-25T05:18:23.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

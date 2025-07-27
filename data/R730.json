@@ -1,0 +1,436 @@
+[
+  {
+    "itemId": "v1|156647878559|0",
+    "title": "Dell R730xd, 2 x Xeon E5-2695 V3, 32GB RAM, H730 Mini, 2 x 750W, tested",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/owUAAOSw9Edm9SAn/s-l225.jpg"
+    },
+    "price": {
+      "value": "155.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156647878559%7C0",
+    "seller": {
+      "username": "tekkybitz",
+      "feedbackPercentage": "99.9",
+      "feedbackScore": 31609,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/owUAAOSw9Edm9SAn/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156647878559?_skw=R730&hash=item2478f0ef9f:g:owUAAOSw9Edm9SAn",
+    "itemLocation": {
+      "postalCode": "KA11***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vtMAAOSwd59m9SAn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qUYAAOSwGDFm9SAn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/pWQAAOSwz7Bm9SAn/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "156647878559",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-01-21T10:05:58.000Z",
+    "itemCreationDate": "2025-01-21T10:05:58.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|388724955070|0",
+    "title": "Dell PowerEdge R730 | 2x2680v4 (14Core)  | 32GB RAM | H730 | 4x 900GB SAS | 8SFF",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/VJ4AAeSwYAZoeipM/s-l225.jpg"
+    },
+    "price": {
+      "value": "149.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388724955070%7C0",
+    "seller": {
+      "username": "solusecltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 76,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/VJ4AAeSwYAZoeipM/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "19.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-31T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388724955070?_skw=R730&hash=item5a81d017be:g:VJ4AAeSwYAZoeipM&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UafnBREEK8hDSLgRc%2BPlNW3G9ctlvUOia2%2Bs%2F00CpIb57YvK5VWrA3GgDpEArc%2FXJBT9YQDR7e1WGgG515df5h984nWHhn0CQqAiwnEtXMFGY0xRyqNcBcHT9UqFlXl1%2FAs2Q5%2FYwaN6bNwCvdPGDPCR0nV%2BtcBKvTdO3KYXjzL9WreEDo2GvbNTnJigt3nKJvphSCZQHjsVwgRPzw2tWa4wzKEeEocYbRRCYpAa4Yk0uXB8uZQVBeQ2xAlZ%2FJLYKCX8NemnEv7JuuoU8KICKBq",
+    "itemLocation": {
+      "postalCode": "WV7***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "388724955070",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-18T11:05:38.000Z",
+    "itemCreationDate": "2025-07-18T11:05:38.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|388695490205|0",
+    "title": "Dell PowerEdge R730 | 2x2680v4 (14Core)  | 32GB RAM | H730 | 4x900GB SAS | 16SFF",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/-p8AAeSwbmtocQyT/s-l225.jpg"
+    },
+    "price": {
+      "value": "189.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388695490205%7C0",
+    "seller": {
+      "username": "solusecltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 76,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-p8AAeSwbmtocQyT/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "19.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-31T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388695490205?_skw=R730&hash=item5a800e7e9d:g:-p8AAeSwbmtocQyT&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uarjlpz%2BKYtYbMYRXAxMRM86ijLSTau2iNaTTE8DyH5Ct6cC8xfuvCn49ec%2BBSCF%2BxPvOhwhhuSK5QTiHwd1XTqyuJM56V92vJpVqAFIBsDH%2BRfDok9tAxiDzA%2FGZb3p9zusnItfY3tHTXPUTaDmkWOQJduSqxatBu1QU4%2FleeysGcGT%2FYaQrahcdyxTpsI6TNL1B8hXSqpt2lC2SayqqjgZsi9%2BcMI13i1hKBpabhOdq7cSqUOqedhl9Evx2Sn7mqk0g1LmZpoeeP%2F2HpJjF0c",
+    "itemLocation": {
+      "postalCode": "WV7***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "388695490205",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-11T13:09:42.000Z",
+    "itemCreationDate": "2025-07-11T13:09:42.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|156616744256|0",
+    "title": "Dell PowerEdge R730 16*SFF 2x E5-2690v3 64GB RAM 4x 600GB HDD iDRAC Enterprise",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/ZwIAAOSw5vxnd99G/s-l225.jpg"
+    },
+    "price": {
+      "value": "215.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156616744256%7C0",
+    "seller": {
+      "username": "compuwyze_ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 840,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZwIAAOSw5vxnd99G/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "8059255841",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156616744256?_skw=R730&hash=item247715dd40:g:ZwIAAOSw5vxnd99G&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZh4E6nitqWOK%2BY3wEMD63rS9cE5t%2FCblKSV72ZiyXO8ZAqT2evUu4GSPgYCrVPghxLbt%2BdSFV3kVGJvjtFUrVdIgf%2FlKZOm2jKoiSQozpHV%2BWZB6CoTy2juTgLp8DUxCb0%2Bqcsi%2FZWvnv4lOn280LGIIa66LM50%2BdOEeCwyWFRms0XHxe9h%2BIxh2z%2B8LaJ4mnzTHndEZr9m2JUW4pL8LyForIv8tPK4duGQuJfkOM0eeYOkHQce0JElPHvagPAfFXcujBVo9W7Q7can8wQ0Wvf",
+    "itemLocation": {
+      "postalCode": "PR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/M-sAAOSwaydnd99C/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zZAAAOSwbm9nd99D/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PGwAAOSwdSZnd99D/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iFwAAOSwbDlnd99D/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wVIAAOSwVY5nd99D/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yfMAAOSwX29nd99E/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mAMAAOSwq4xnd99G/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FiMAAOSwymNnd99G/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rQEAAOSwk5hnd99c/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WMsAAOSwtetnd99d/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5OYAAOSw3N9nd99d/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NAAAAOSwCqBnd99e/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/01YAAOSwTBpnd99d/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0scAAOSwvwtnd99e/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "215.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "156616744256",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-01-03T13:00:38.000Z",
+    "itemCreationDate": "2025-01-03T13:00:38.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|277284443357|0",
+    "title": "Dell R730xd , 2x Xeon E5-2695v3, 64GB DDR4, 26x 1.2TB SAS,RISER 2,3,FM487,H730",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/BMUAAOSwCP1k-cyz/s-l225.jpg"
+    },
+    "price": {
+      "value": "299.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C277284443357%7C0",
+    "seller": {
+      "username": "systemsupplyindustriesltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 26363,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BMUAAOSwCP1k-cyz/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/277284443357?_skw=R730&hash=item408f70d4dd:g:BMUAAOSwCP1k-cyz",
+    "itemLocation": {
+      "postalCode": "OX12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HicAAOSw6kxl~Yoa/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "277284443357",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-22T11:05:59.000Z",
+    "itemCreationDate": "2025-07-22T11:05:59.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

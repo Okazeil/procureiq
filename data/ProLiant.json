@@ -1,0 +1,484 @@
+[
+  {
+    "itemId": "v1|187414361719|0",
+    "title": "HP Proliant ML310e Gen8 V2 PC Tower Server E3-1220 V3 Quad Core 3.1GHZ XEON 16GB",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/hAUAAeSwiG9odgWg/s-l225.jpg"
+    },
+    "price": {
+      "value": "80.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C187414361719%7C0",
+    "seller": {
+      "username": "computer_warehouse",
+      "feedbackPercentage": "99.9",
+      "feedbackScore": 1844,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hAUAAeSwiG9odgWg/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "1258202962",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/187414361719?_skw=ProLiant&hash=item2ba2c43677:g:hAUAAeSwiG9odgWg",
+    "itemLocation": {
+      "postalCode": "TF7***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9AAAAeSwE7lodgWp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Z48AAeSwgmRodgWz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fBsAAeSwc6VodgXB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vvMAAeSw-KRodgXI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/700AAeSwRVRodgXP/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~EoAAeSwk6xodgXW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ossAAeSwy3lodgXd/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9p0AAeSwoOpodgXl/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/v8YAAeSw-KRodgXq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4pUAAeSwFm9odgVu/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cwgAAeSwRyVodgVu/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rvYAAeSwC91odgVu/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Up4AAeSwBOdodgX4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9l0AAeSwk3BodgYA/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/p7MAAeSwFMNodgYG/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "80.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "187414361719",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-15T07:44:05.000Z",
+    "itemCreationDate": "2025-07-15T07:44:05.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|388672865603|0",
+    "title": "HPE ProLiant DL360 Gen9 \u2013 2x 2680v4 14-Core CPUs, 32GB RAM, 4x900GB",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/yHYAAOSwfnpoXkG2/s-l225.jpg"
+    },
+    "price": {
+      "value": "144.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388672865603%7C0",
+    "seller": {
+      "username": "solusecltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 76,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yHYAAOSwfnpoXkG2/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "19.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-31T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388672865603?_skw=ProLiant&hash=item5a7eb54543:g:yHYAAOSwfnpoXkG2&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UY8PFdJJvfXn%2BXO87A3YbBDjmEcbwW0FPyo294DMsKxYOjRghXBdKT2TlEl3nSsYDwqTutAZIc6cvHUGP2wcFyjU4AgYpxnShqNzK0qvwQsx%2FwtmlRTlNdq9%2BDzGDd0wDogYhCw14Jm8OdndbvW1zVN1MnsVR7wgeo1wgkx1AZqOmFdBbWdYRGYgAldvd81WWTcqIEON9FcISuUXerzl8VVqDzCyr%2B54mJ5pMMCWYKcXEALUaDTiVhqO%2FjtPavXwrqtk36MA6gyeX%2BTjsez0Q3pows0kMbfCaFNmd9te7YoUw%3D%3D",
+    "itemLocation": {
+      "postalCode": "WV7***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "388672865603",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-27T07:01:22.000Z",
+    "itemCreationDate": "2025-07-05T18:46:41.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|156744211205|0",
+    "title": "HPE ProLiant ML30 Gen9 Xeon E3-1270v6 32GB RAM P440 4x 4TB SAS HDD Hot Swap",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/9VsAAOSwgFZnva1a/s-l225.jpg"
+    },
+    "price": {
+      "value": "310.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156744211205%7C0",
+    "seller": {
+      "username": "compuwyze_ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 840,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9VsAAOSwgFZnva1a/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156744211205?_skw=ProLiant&hash=item247eaedb05:g:9VsAAOSwgFZnva1a&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UatZsQ8WL12rrdCxOf67jMiVNNFXeayM76MwKHY5k3YuVSAXBNgPqW%2FIpLqtoZiu25GzX9W2902RMff4%2B1OPPYMIXVuJUxSUjSfcM8wrNmmdhQPzWLEkvr3jA%2BqIEL2uSKOq7PUuF%2BH8Vvp1tcxUlCwzUqOn7NWEJN6PgyZ1Za73DFxD08b4ggjQGMofEoprdSECApLvlc8WekJw3nd%2BaTBt1NFdUPXrg6%2B%2Fd1pF7H18ZDrkdC%2BJ7NwEQf18n2PxoVeSADXf7NrJFS8O7dRKAhv",
+    "itemLocation": {
+      "postalCode": "PR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gbgAAOSwGgxnva1a/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dg4AAOSwF9xnva1Y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/suEAAOSw3Qpnva1Z/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fd0AAOSwBVJnva1Z/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/h8wAAOSw-bFnva1b/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hWcAAOSwGDFnva1Z/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ehkAAOSwnM1nva1b/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IlcAAOSwFfhnva1b/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UywAAOSwqzJnva1b/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/o~AAAOSwxxlnva1Z/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/aMgAAOSwzS5nva1b/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YvAAAOSwEp1nva1a/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qLwAAOSwBmRnva1b/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/G38AAOSwi1Bnva1b/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "310.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "156744211205",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-02-28T11:56:03.000Z",
+    "itemCreationDate": "2025-02-28T11:56:03.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|388696428526|0",
+    "title": "HPE ProLiant DL360 Gen9 \u2013 2x 2650v4 12-Core CPUs, 32GB RAM, 4x600GB SAS",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/yHYAAOSwfnpoXkG2/s-l225.jpg"
+    },
+    "price": {
+      "value": "114.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388696428526%7C0",
+    "seller": {
+      "username": "solusecltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 76,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yHYAAOSwfnpoXkG2/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "19.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-31T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388696428526?_skw=ProLiant&hash=item5a801ccfee:g:yHYAAOSwfnpoXkG2&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UauSaIcRcpACkQ25ARMzDJ7NbqMGpPx%2BeZNPlrT8KIhRWHey13Yx078x%2BNX71yeDdI6Kz4BNeQSaUJYNooOmO%2FKAKQkWhsjg7gT9eUcL%2FW9XGFfTtenQRptClDffDaYfib0L6ebovxzuchqpMdEsnr6FMd%2F4KA1nhb48qSHxqHeWAf9jJGj8H%2BB0NOxhIegufwOXEJREiT8HbuSxNTw6BKbDRDWGzysQX%2FrA7cYAFkvBbLMGSznEV%2BpLWmWq359A9rzFWNxwP6FxV3qXKJAY6xF",
+    "itemLocation": {
+      "postalCode": "WV7***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "388696428526",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-11T17:56:13.000Z",
+    "itemCreationDate": "2025-07-11T17:56:13.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|256886722731|0",
+    "title": "HP MicroServer ProLiant Gen8 G1610T /  4GB RAM / NO HDD / 4 x Caddies",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/6nwAAeSwEL9oekZd/s-l225.jpg"
+    },
+    "price": {
+      "value": "118.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256886722731%7C0",
+    "seller": {
+      "username": "enterpriseit",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 3052,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6nwAAeSwEL9oekZd/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/256886722731?_skw=ProLiant&hash=item3bcfa450ab:g:6nwAAeSwEL9oekZd",
+    "itemLocation": {
+      "postalCode": "LS23***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HgkAAeSwxBhoekZs/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FxYAAeSw0cJoekZ0/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "118.99",
+      "currency": "GBP"
+    },
+    "legacyItemId": "256886722731",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-04-08T14:31:04.000Z",
+    "itemCreationDate": "2025-04-08T14:31:04.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

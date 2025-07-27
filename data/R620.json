@@ -1,0 +1,465 @@
+[
+  {
+    "itemId": "v1|297473634573|0",
+    "title": "Dell PowerEdge R620 Intel Xeon E5-2640 64GB RAM Enterprise iDRAC",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/wkkAAeSwaVhod8Nu/s-l225.jpg"
+    },
+    "price": {
+      "value": "129.95",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C297473634573%7C0",
+    "seller": {
+      "username": "fixedasset-sales",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 8183,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wkkAAeSwaVhod8Nu/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/297473634573?_skw=R620&hash=item4542cf710d:g:wkkAAeSwaVhod8Nu",
+    "itemLocation": {
+      "postalCode": "RG40***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4-QAAeSwDGtod8N0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/k88AAeSwx1Rod8Aw/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QM0AAeSw3~pod8N7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7PcAAeSwLxRod8OC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GfsAAeSwk3Bod8OK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zn8AAeSwUONod8OR/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-94AAeSwaOtod8Ay/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ASIAAeSwDyRod8Az/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/o7EAAeSw9UJod8Or/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UMcAAeSwOXpod8Oz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FCkAAeSw1rtod8O8/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~6AAAeSw-dtod8PB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cbcAAeSwsH1od76j/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gcwAAeSwlV1od76j/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/I3MAAeSwYA9od76j/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~4YAAeSwWZ5od76j/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HTsAAeSw-Uhod76j/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HwAAAeSwRCRod76j/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2t8AAeSwstBod76j/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4gQAAeSwjuJod76j/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KlgAAeSw3Ixod76j/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IPIAAeSwBWpod76j/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xqkAAeSwv3Zod76j/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "129.95",
+      "currency": "GBP"
+    },
+    "legacyItemId": "297473634573",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-16T15:23:07.000Z",
+    "itemCreationDate": "2025-07-16T15:23:07.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|144604976847|444186476235",
+    "title": "Dell PowerEdge R620 Max 768GB RAM, 2x Twelve Core Xeon Server",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=144604976847",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/hAYAAeSwfGxoXXWL/s-l225.jpg"
+    },
+    "price": {
+      "value": "148.00",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C144604976847%7C444186476235",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hAYAAeSwfGxoXXWL/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/144604976847?_skw=R620&hash=item21ab20d6cf:g:hAYAAeSwfGxoXXWL&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZv8fF2Dd7uH9vhgD1WUJZEzR57GMqef8SLAlPa50WkV8ofSN9Z1wReLJNWCBX3XYIt6ohakXqYsViAY4Wo9a4Cg%2BScVPCBcjDODHZfqaEQcOD8uc4YD%2BUgyEpqUKl90rQZwH5D%2FJ6JD%2FzV02wD8o0K%2BNITG4bv0TAx9KQXSz%2FeBN0lpTpAcsAQYeWsymKUlKb5%2B1zuhMQb38kmbXYk4Rj8U5gJbxX11Ez8jA7kpfi%2B2MiTjZwsv065ji%2FccF%2BFsUE6RZ5IJd5fg3RN3PvKxn%2B2",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "144604976847",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-06-16T01:32:11.000Z",
+    "itemCreationDate": "2022-06-16T01:32:11.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|365203343281|0",
+    "title": "Dell PowerEdge R620 2x Xeon E5-2650 16GB H710 4x 2.5\" Bay SSF 1U Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/5eoAAOSwXaBmn3s9/s-l225.jpg"
+    },
+    "price": {
+      "value": "90.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C365203343281%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5eoAAOSwXaBmn3s9/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1758158076",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/365203343281?_skw=R620&hash=item5507d0c7b1:g:5eoAAOSwXaBmn3s9&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYt3aoGPVjjdVdrMpbdiCjFR3vq6%2FVN3FVNBUiNvt7ZuZotTsFQgCcBpW%2BU5jd2iPi7YTh94DuhOfk0L929vjTVHBkht%2F1f26BHAuI0kxxiu%2FzPCUnGJL1dFsQgR6heV8d7oVuLwqnj3WlPNU4fy6E7UbPSIQRJvhzpgpL8IPH%2F%2BzBdDaVHSZkB0proeReubylQ%2F1gr%2Bg5qVIsg2ye7HgqiI9NpLhqkmFSCDoPs6NhkfnwTa4ulo3bGDRWQTqDakS5UA4M3OfCDvmSD72mTt7nI",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "365203343281",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-11-02T10:23:28.000Z",
+    "itemCreationDate": "2024-11-02T10:23:28.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|125666478284|0",
+    "title": "Dell PowerEdge R620 2x Xeon E5-2660v2 3.00GHz 10-CORES 128GB DDR3 H710P 2.4TB HD",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/YEIAAOSwWjJd347L/s-l225.jpg"
+    },
+    "price": {
+      "value": "298.49",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C125666478284%7C0",
+    "seller": {
+      "username": "servershopping",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 4134,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YEIAAOSwWjJd347L/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-04T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/125666478284?_skw=R620&hash=item1d424e48cc:g:YEIAAOSwWjJd347L&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaHL3Q4aWX6WtQnp4RlFhCgr%2By5B9mk9jQt0Pr9TNeP6jfsvgHiMopiaauuUw9GG8EA52Q8cEcV%2BZw8foiwO3B%2B4GQWN5yX%2BQrf09mEgkjJGmPq7ny%2FvmAN6gCXNBZzKEcdCcYY4SNsd1td9s8E1%2BBWr1F%2FVU2ZrnOHTJQTBUhn9S4cJas%2FSAMzOhjNM6jRO%2F7nisUjGwzl8VsTW6OQiutGLWusscAQz7Q1o%2FmSPvzEn7at6K6JD1%2BoSxY4EiFtYIBJKWG5rqjjcHwhM24INCcw",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0hIAAOSwOXRd347L/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/P9sAAOSw8o9d347L/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LtUAAOSwTR9d347L/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Rl0AAOSwJRld347N/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hSUAAOSwoJhd347L/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "125666478284",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-12-16T04:57:46.000Z",
+    "itemCreationDate": "2022-12-16T04:57:46.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|173906848447|0",
+    "title": "DELL POWEREDGE R320, R420, R620,R630 SERVER RAILS SLIDING  II 1U RAIL KIT  A7",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/Z40AAOSwLAhbj-8m/s-l225.jpg"
+    },
+    "price": {
+      "value": "47.88",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C173906848447%7C0",
+    "seller": {
+      "username": "network-servers",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 11688,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Z40AAOSwLAhbj-8m/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "3034390270",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/173906848447?_skw=R620&hash=item287da7eabf:g:Z40AAOSwLAhbj-8m",
+    "itemLocation": {
+      "postalCode": "SS15***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "173906848447",
+    "availableCoupons": false,
+    "itemOriginDate": "2019-05-18T17:52:02.000Z",
+    "itemCreationDate": "2019-05-18T17:52:02.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

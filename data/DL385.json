@@ -1,0 +1,445 @@
+[
+  {
+    "itemId": "v1|146473772547|0",
+    "title": "HP 872971-001 ProLiant DL380/DL385 Gen10 8xSFF NVMe HDD Cage & Backplane 8265...",
+    "leafCategoryIds": [
+      "56092"
+    ],
+    "categories": [
+      {
+        "categoryId": "56092",
+        "categoryName": "Other Ent. Server Components"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/BTYAAeSwk0JofqxD/s-l225.jpg"
+    },
+    "price": {
+      "value": "95.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C146473772547%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BTYAAeSwk0JofqxD/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/146473772547?_skw=DL385&hash=item221a846603:g:BTYAAeSwk0JofqxD",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/D~sAAeSwI-JofqxD/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CAQAAeSwyuNofqxD/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BcsAAeSwvxpofqxD/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CrgAAeSw~GNofqxD/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BRYAAeSwf4BofqxD/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AlMAAeSwC-FofqxD/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "146473772547",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-25T15:57:56.000Z",
+    "itemCreationDate": "2025-03-25T15:57:56.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|275480305878|0",
+    "title": "HPE 867809-B21 ProLiant DL380 DL385 DL560 Gen10 D3610 D3710 2U Security Bezel",
+    "leafCategoryIds": [
+      "56092"
+    ],
+    "categories": [
+      {
+        "categoryId": "56092",
+        "categoryName": "Other Ent. Server Components"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/xh4AAOSwnERlSpU0/s-l225.jpg"
+    },
+    "price": {
+      "value": "60.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C275480305878%7C0",
+    "seller": {
+      "username": "intelligent_servers",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 5669,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Good - Refurbished",
+    "conditionId": "2030",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xh4AAOSwnERlSpU0/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "2185583161",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/275480305878?_skw=DL385&hash=item4023e7e0d6:g:xh4AAOSwnERlSpU0&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZ8pfmpUambRezMkaRdVwMM7X6EqkalkhOjau2Q3LDpxc%2FAeuIW71Qn58naXim%2BCN3QyRkBOCelWf64gFusTUH9Y%2BEMnd5zVHNMxVvk8Dh4D87BCTlL6MvGzVw4VgbvbfvZkRM3Vo%2BDCQ%2BCIwx4Brj%2FJGK8gD0Yv3R3OQD13yiyQwP%2FcXv2m2BQfdsanlcoysbDMFjXDnQBHUMRwuj%2Ffi4JphFTlRFT2vdADSFLDMlQMfkORHdnNXGlltdwnFCxY8C0ujLWpuW3mGi3VDZVPZZ2",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AasAAOSw-o9lSpU5/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "275480305878",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-09-29T15:49:37.000Z",
+    "itemCreationDate": "2022-09-29T15:49:37.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|187417545503|0",
+    "title": "HP PROLIANT DL385 G7 Server  .Have 4 Of Theses. Selling As One  Lot",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/r8oAAeSw14Bod7GL/s-l225.jpg"
+    },
+    "price": {
+      "value": "618.68",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C187417545503%7C0",
+    "seller": {
+      "username": "z7qmc_11",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 2,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/r8oAAeSw14Bod7GL/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "50.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "1963013187",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/187417545503?_skw=DL385&hash=item2ba2f4cb1f:g:r8oAAeSw14Bod7GL&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UY%2BJ%2FaIpXkDuHYahqj7BmwcvXucKcms8R9S1gX2WQUMTbLv7G0eijw6Lx4ef7RZFOOeZwJih6m15lfFFeAHRuXg2i1SXoqM2wecbhpxRd%2FahjzWI%2BZmQ1%2BfVyQfJg0MaNfZv6W4FwxKEe7b3uVNFyjLgQY2%2BvjIffF6wuxU%2BRUsqt3l9v4ZCcoJIZV%2BQjcumTk1Qc4kB%2Fg5OFDBgPkwhtEdDGckUmsJZIoEx8v4BldDKUAz1E8jQMhW7x4h0d7827gbsaJE9dXD9arpFYeH%2BIE6",
+    "itemLocation": {
+      "postalCode": "EH55***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mYoAAeSwBkFod7GM/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zPwAAeSwWZ5od7GM/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fNEAAeSw3Cdod7GM/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/v6kAAeSwtHBod7GM/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/61EAAeSwvEpod7GN/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9ZMAAeSwBbNod7GN/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "187417545503",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-16T14:11:31.000Z",
+    "itemCreationDate": "2025-07-16T14:11:31.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|125500944468|0",
+    "title": "HP DL380 G5 PSU HP 403781-001 1000W Power Supply FIT DL385 G2 ML370 G5 ML350 G5",
+    "leafCategoryIds": [
+      "56090",
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "56090",
+        "categoryName": "Server Power Supplies"
+      },
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/nmYAAOSwRWVZz~em/s-l225.jpg"
+    },
+    "price": {
+      "value": "48.76",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C125500944468%7C0",
+    "seller": {
+      "username": "servershopping",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 4134,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nmYAAOSwRWVZz~em/s-l960.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-04T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/125500944468?_skw=DL385&hash=item1d38707054:g:nmYAAOSwRWVZz~em&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UammQwA7MKa9IIr8NZvigDf8JB93SS6hzvjwzuJWZllgWASDTPV8zdXsxp8MElEImoxrt1OcWk8cM8txgLxVcP4wxlWw4KgXQeuLtA76uvtMO9nNjQFNkyspKHl2t9IpvR37INHcwwayyHN%2Fv%2B00Zsy%2BSqVTrknr1ZrFVmfjlfHX5CDRh3GDM0xGAClmIw1ScrkzAMP0VdPkJ1zKPfH%2Fok3jROB6iHUjUZIsu1%2B%2FIJZaOGiwNYiNAPt3gjZZw3FGfvcKN7gjDFXhOo9IrmE0jp%2F",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NmQAAOSwlitZz~en/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ypIAAOSwF7hZz~er/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-x0AAOSwCQtZz~ev/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "125500944468",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-09-07T08:07:23.000Z",
+    "itemCreationDate": "2022-09-07T08:07:23.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|401654874424|0",
+    "title": "HP 364678-001 Proliant DL360 DL380 DL385 Server 19\" Rack Mount Inner Rails",
+    "leafCategoryIds": [
+      "56092"
+    ],
+    "categories": [
+      {
+        "categoryId": "56092",
+        "categoryName": "Other Ent. Server Components"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/V3sAAOSwTxJcD3dy/s-l225.jpg"
+    },
+    "price": {
+      "value": "24.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C401654874424%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/V3sAAOSwTxJcD3dy/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1205138652",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/401654874424?_skw=DL385&hash=item5d847f0138:g:V3sAAOSwTxJcD3dy",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/98AAAOSwzCtcD3d9/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rsMAAOSw~odcD3eH/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "401654874424",
+    "availableCoupons": false,
+    "itemOriginDate": "2018-12-15T09:17:47.000Z",
+    "itemCreationDate": "2018-12-15T09:17:47.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

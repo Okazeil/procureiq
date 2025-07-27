@@ -1,0 +1,409 @@
+[
+  {
+    "itemId": "v1|275927589371|0",
+    "title": "HP ProLiant DL380 G10, 16bay SFF (8xNVME bays)",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/Q8wAAOSwN4NkntMV/s-l225.jpg"
+    },
+    "price": {
+      "value": "349.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C275927589371%7C0",
+    "seller": {
+      "username": "systemsupplyindustriesltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 26363,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Q8wAAOSwN4NkntMV/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/275927589371?_skw=DL380&hash=item403e90e1fb:g:Q8wAAOSwN4NkntMV",
+    "itemLocation": {
+      "postalCode": "OX12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZlEAAOSw0h1kntMc/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3hUAAOSw8S9kntMe/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tLsAAOSw9j1kntMh/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NT8AAOSww3VkntMj/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4TYAAOSwvlVgI81N/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "275927589371",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-06-30T09:38:49.000Z",
+    "itemCreationDate": "2023-06-30T09:38:49.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|388674716446|0",
+    "title": "HPE ProLiant DL380 Gen10 | 2 x Gold 6138 (40 Core) |  64 GB RAM | 4 x 900GB SAS",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/WUAAAeSwFudodehN/s-l225.jpg"
+    },
+    "price": {
+      "value": "544.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388674716446%7C0",
+    "seller": {
+      "username": "solusecltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 76,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WUAAAeSwFudodehN/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "19.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-31T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388674716446?_skw=DL380&hash=item5a7ed1831e:g:WUAAAeSwFudodehN&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZfwF30t7%2FpbwGxGX5OzdhrpRVJ3dMvwz7P9K8iuj3OY55nTK33Ra%2Fm7mijxuLJGjOZYdFyi2g74F8GMvA3uZYY1rhtJTdGhT1d8NFdFNgzyjhzLCyNiF6loThVdWzXT7BqYz4zeNcFIMHxEQWOLgPjOR5rXlAub6nlXz%2Fg%2BbjKI9tgf2ti94kYq4k1Z8LRoLKhV4%2Fo1HjawJpGjqgLyIEL2jZv6DVoPfE8GqJcLpu%2FHLNv9X6DfORNO%2Bk5i%2F%2BEJJoKOdIIt89zAFDwGniVEO9x",
+    "itemLocation": {
+      "postalCode": "WV7***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iScAAeSwZLZodeho/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "388674716446",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-17T05:19:10.000Z",
+    "itemCreationDate": "2025-07-06T06:45:40.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|388695581854|0",
+    "title": "HPE DL380 Gen9 | 4 x 900GB SAS | 32 GB | 6 x NVMe | 2x 2680v4 (14 core) | P240ar",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/U54AAeSwdmVodK0f/s-l225.jpg"
+    },
+    "price": {
+      "value": "199.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388695581854%7C0",
+    "seller": {
+      "username": "solusecltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 76,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/U54AAeSwdmVodK0f/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "19.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-31T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388695581854?_skw=DL380&hash=item5a800fe49e:g:U54AAeSwdmVodK0f&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UY7Xygywa4osOApFpFPx%2FEgrz6JtHqEGqV4ERY3zFE2sN9B14Rfwwbi8LudArUjmbo4cgIdAKVJyxu%2FCA7kEtw1y7wDlVJHX3JS9NUJoq777mR0%2Fi2YeqTcYSiOCdmpSM5cdOo83gnrQBpLegnMOEKct0jzmzyXzDROqzICSHVJ4y4uSKXRXeVpFo7wqfofNvNz%2BSl6tp2gqH6bE9BU0jbKNSYv218bwPsi0qAT4EP9qVFD2qiuXW5Oa6vtF9e4XCR64c4QG1cvL8o8kQsDioOE",
+    "itemLocation": {
+      "postalCode": "WV7***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "388695581854",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-11T13:29:45.000Z",
+    "itemCreationDate": "2025-07-11T13:29:45.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|226818993692|0",
+    "title": "HPE ProLiant DL380 Gen9 2x Xeon E5-2673V3 128GB RAM P840 12x2TB+2x900GB 2x1400W",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/6HEAAeSwl8loUKEU/s-l225.jpg"
+    },
+    "price": {
+      "value": "399.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226818993692%7C0",
+    "seller": {
+      "username": "dr.memory",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 179577,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6HEAAeSwl8loUKEU/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/226818993692?_skw=DL380&hash=item34cf772e1c:g:6HEAAeSwl8loUKEU&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYShqg8evP6AGCbCysdS3D648LXAesW%2F%2BOlpb4n43sCf0guavaWfJSI1xdRLnFxC1v%2B9wrT4J4z4OgPMOhxwKM%2FDyRM9ApCCWKfUSLoqPoLMrs3ZN8jCt%2BW%2F8Xxf%2FGiFm8%2F37dOcTqXjGGg02wdc37KI%2FN3Qw49TYvG9%2FPh9AX0YKDvLPpIem5Bo0zlHHBS%2FkqgvPFzOUB%2BMCWZL5Mgmnyawx%2Bzniuw4zGswbGrN%2FC9KxAxEHUj7BmemzPwdJ5D%2FbkIxkQXUY3xz20%2FC6MtHEmT",
+    "itemLocation": {
+      "postalCode": "M17***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ePoAAeSwHp9oUKEU/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XTMAAeSwIidoUKET/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "226818993692",
+    "availableCoupons": true,
+    "itemOriginDate": "2025-06-16T22:54:54.000Z",
+    "itemCreationDate": "2025-06-16T22:54:54.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|286723343073|0",
+    "title": "HP DL380 G9 24x 900gb SAS,64GB RAM,2x e5-2640v4,1x P840, 1x P440, 2x800w psu",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/z0MAAOSwpFZlw5tk/s-l225.jpg"
+    },
+    "price": {
+      "value": "199.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286723343073%7C0",
+    "seller": {
+      "username": "systemsupplyindustriesltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 26363,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/z0MAAOSwpFZlw5tk/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/286723343073?_skw=DL380&hash=item42c20b02e1:g:z0MAAOSwpFZlw5tk",
+    "itemLocation": {
+      "postalCode": "OX12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tlYAAOSwFrlmxLRt/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "286723343073",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-22T07:00:58.000Z",
+    "itemCreationDate": "2025-07-22T07:00:58.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

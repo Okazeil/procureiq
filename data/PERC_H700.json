@@ -1,0 +1,435 @@
+[
+  {
+    "itemId": "v1|364435353847|0",
+    "title": "Dell 1THG8 PERC H700 512MB 8-Port 6Gbps PCI-E 2.0 x8 SAS RAID Controller Card",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/AMIAAOSwyGZk5JV3/s-l225.jpg"
+    },
+    "price": {
+      "value": "90.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C364435353847%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AMIAAOSwyGZk5JV3/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "930741770",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/364435353847?_skw=PERC+H700&hash=item54da0a30f7:g:AMIAAOSwyGZk5JV3",
+    "itemLocation": {
+      "postalCode": "WC1B***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vtgAAOSwsPRk5JWI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YckAAOSwBeZk5JWT/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sdEAAOSwmddk5JWe/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KBkAAOSwO2hk5JWq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DaUAAOSw-X9k5JWz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GWUAAOSwwbNk5JW9/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GkcAAOSw08Vk5JXI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/y4cAAOSwpQ1k5JXQ/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "364435353847",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-08-23T05:18:06.000Z",
+    "itemCreationDate": "2023-08-23T05:18:06.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|135763976851|0",
+    "title": "DELL PERC H700 512MB RAID CONTROLLER for POWEREDGE R510 R610 R710 R810 R910",
+    "leafCategoryIds": [
+      "90715"
+    ],
+    "categories": [
+      {
+        "categoryId": "90715",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      },
+      {
+        "categoryId": "182088",
+        "categoryName": "Interface/Add-On Cards"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/3mIAAOSwflhkwmP6/s-l225.jpg"
+    },
+    "price": {
+      "value": "21.46",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C135763976851%7C0",
+    "seller": {
+      "username": "lsqin525",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 1389,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3mIAAOSwflhkwmP6/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/135763976851?_skw=PERC+H700&hash=item1f9c29e293:g:3mIAAOSwflhkwmP6",
+    "itemLocation": {
+      "country": "CN"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CngAAOSw67JkwmQA/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oRsAAOSwMkdkwmQI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5F8AAOSwZAtkwmQP/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "135763976851",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-05T13:20:33.000Z",
+    "itemCreationDate": "2025-05-05T13:20:33.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|256300451298|0",
+    "title": "Dell PowerEdge PERC H700 6 Gbs 512MB SAS RAID Controller 01THG8 1THG8",
+    "leafCategoryIds": [
+      "90715"
+    ],
+    "categories": [
+      {
+        "categoryId": "90715",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      },
+      {
+        "categoryId": "182088",
+        "categoryName": "Interface/Add-On Cards"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/6uUAAOSwpkFlVdaB/s-l225.jpg"
+    },
+    "price": {
+      "value": "13.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256300451298%7C0",
+    "seller": {
+      "username": "pro-avit.london",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 70829,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6uUAAOSwpkFlVdaB/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "930741770",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/256300451298?_skw=PERC+H700&hash=item3bacb285e2:g:6uUAAOSwpkFlVdaB",
+    "itemLocation": {
+      "postalCode": "RG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CGQAAOSwtgRlVdaB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/j7gAAOSw0xhlVdaC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/c5AAAOSwUm9lVdaB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/L3UAAOSwMGVlVdaB/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "256300451298",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-11-16T08:42:59.000Z",
+    "itemCreationDate": "2023-11-16T08:42:59.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|256110642958|0",
+    "title": "Dell PowerEdge R410 PERC H700 Integrated SAS SATA RAID Controller 0XXFVX XXFVX",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/eq4AAOSwwyNkiwOl/s-l225.jpg"
+    },
+    "price": {
+      "value": "12.94",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256110642958%7C0",
+    "seller": {
+      "username": "pro-avit.london",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 70829,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/eq4AAOSwwyNkiwOl/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "15011463074",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/256110642958?_skw=PERC+H700&hash=item3ba162470e:g:eq4AAOSwwyNkiwOl&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ubw49AgT2Jheo7hJXEX0ImCMLxzLr8SrZ8ZaJ3EOF5PEWIJjp3jbkvXcH614V53F%2F%2B9qLkIjsFpJIeby4pfRLvToPQANkeNXGQwqcudyDAY27W3N%2BsHkaEaYcDOdmRNo2GXSJCmTw4n3GJrfly2cYx5XIoOWpODk1baalwC3VRrUq1KFr%2F20wQcOl203m2pKmrcZLg3ihWiD%2BuEr7V2VJVfWb2s4Wj7ZnDwix0hO6q5aD6EZeLb%2FtAONYxUmdyAepAve5nADrpnH8zTsfLVb7mI",
+    "itemLocation": {
+      "postalCode": "RG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/opMAAOSwempkiwOp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JhoAAOSweo5kiwOt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FAIAAOSwObJkiwOw/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "256110642958",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-06-15T12:27:30.000Z",
+    "itemCreationDate": "2023-06-15T12:27:30.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|404445942057|0",
+    "title": "Dell (1PPY7) PERC H700 10G 512MB - RAID Controller Card (F2WGY)",
+    "leafCategoryIds": [
+      "90715"
+    ],
+    "categories": [
+      {
+        "categoryId": "90715",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      },
+      {
+        "categoryId": "182088",
+        "categoryName": "Interface/Add-On Cards"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/7nEAAeSw7hVofmY5/s-l225.jpg"
+    },
+    "price": {
+      "value": "23.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C404445942057%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7nEAAeSw7hVofmY5/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/404445942057?_skw=PERC+H700&hash=item5e2adb5129:g:7nEAAeSw7hVofmY5&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaFuO%2FbcwWVOJ%2FYwF3O%2FAnJWKsNZ%2FEQEMI6YMuU6pn7bT9n5Bh1Soz8lkMAUSk3H7dxjDHkbGU43lqrFYAToCAI1JZAKseuNnkjCgp8mCodMrKPRBEwFzxcWKB3pQwyIBrxMOvvGrk3YFQFGezkl1nH7qbGe0VIjGM6Vs%2FwI%2FfrYLrMNkY%2Far7rYUjfXAfcKtoAiHUmMrguiTwPC5F5ZNtoWQDS5neItRbjJ2O40zxP1%2FPbH2CpU%2FVCJJFcxlT76n719U8Synbhy3f7Se9HDD3L",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-44AAeSw8CFofmY5/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "404445942057",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-08-17T18:23:45.000Z",
+    "itemCreationDate": "2023-08-17T18:23:45.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

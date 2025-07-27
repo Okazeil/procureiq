@@ -1,0 +1,450 @@
+[
+  {
+    "itemId": "v1|233354579751|0",
+    "title": "2.5\"SAS SATA HDD Drive Tray Caddy for IBM x3850 X6 x3550 x3650 M5 00E7600 L38552",
+    "leafCategoryIds": [
+      "158816"
+    ],
+    "categories": [
+      {
+        "categoryId": "158816",
+        "categoryName": "Drive Bay Caddies"
+      },
+      {
+        "categoryId": "165",
+        "categoryName": "Drives, Storage & Blank Media"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/tYQAAOSwZd9dkGlq/s-l225.jpg"
+    },
+    "price": {
+      "value": "4.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C233354579751%7C0",
+    "seller": {
+      "username": "powersubmarine",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 42529,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tYQAAOSwZd9dkGlq/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/233354579751?_skw=IBM+x3550&hash=item3655044f27:g:tYQAAOSwZd9dkGlq",
+    "itemLocation": {
+      "postalCode": "M8***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0gsAAOSwMJNdkGlt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nQYAAOSwlP9dkGlw/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iP0AAOSwpA9dkGly/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HksAAOSwkwhdkGl1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LNwAAOSwGbJdkGl7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yBwAAOSwLEldkGl-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wUIAAOSwWktdkGmD/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "4.99",
+      "currency": "GBP"
+    },
+    "legacyItemId": "233354579751",
+    "availableCoupons": false,
+    "itemOriginDate": "2019-09-30T10:06:22.000Z",
+    "itemCreationDate": "2019-09-30T10:06:22.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|401576058199|0",
+    "title": "IBM System x3550 M3 7944-KLG Quad-Core E5640 2.66GHz 16GB Ram 4x 500GB 1U Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/nGYAAOSwYSBbYyFK/s-l225.jpg"
+    },
+    "price": {
+      "value": "270.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C401576058199%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nGYAAOSwYSBbYyFK/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/401576058199?_skw=IBM+x3550&hash=item5d7fcc5d57:g:nGYAAOSwYSBbYyFK&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaCG7Dn%2FqLhLj%2FkwpKMBspHvsRnsne3kHOa3%2FQK85RrpRf8Ar9KHo1AUimIkHPDXGZjPldEw--%2FPRUfgZ%2F2UhK9%2BPWNV4objE11%2BRmBWm8q%2FN51PAEza%2BW0o6YA%2B%2F8nVlA%2BXpXtjpbeTdfOKc%2F0UvnDJqztKHopKrM%2BOHVCZUkm1bYjhQ8LECr3tRuWbx00O7K%2BWOXG4td%2F7irsCxEFmz04APXAN4Zjhdt6neNp9lcxDqUfmgEzNnJSEvtJlRUKYE1p07TahwevZV91S6AH9T3m",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SaEAAOSwYq5bYyFj/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BLUAAOSwqQBbYyFS/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "401576058199",
+    "availableCoupons": false,
+    "itemOriginDate": "2018-08-05T09:25:44.000Z",
+    "itemCreationDate": "2018-08-05T09:25:44.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|403575969580|0",
+    "title": "IBM System x3550 M3 7042-CR6 4-C E5630 2.53GHz 16GB Ram 4x Bay 1U RAID Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/aEYAAOSwXhFiRarm/s-l225.jpg"
+    },
+    "price": {
+      "value": "288.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C403575969580%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/aEYAAOSwXhFiRarm/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1730301334",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/403575969580?_skw=IBM+x3550&hash=item5df700972c:g:aEYAAOSwXhFiRarm&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYYFI2t9k3GQZSWqNkPQ0jJ2eFtM4gb74T7uLdKmvVG0H3aTUPjoBdTsVV4SzyqojE0YBon8i5ND2YRK2UeggeDU1ENBiRbMyU3077A8f3GnDM8J8cn2ra2vVmpCQn3lfpu7qVVzHFSgpCirOwYmzVeRwqsMziyIHVOftQ94TOADJNHI46TNUcRjkdr6QMISkc%2F9TbXGMioyISG8Tn8ILFq4Nixi%2B1XrNZ1krqCjus4mDHYzqEYWOD9HLNDjzd6MudS25BBnPd9O5Sf9gXF9T8C",
+    "itemLocation": {
+      "postalCode": "WC1B***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SVAAAOSwNm5iRarp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bFwAAOSwyd9iRarn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dfgAAOSwL0piRaro/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "403575969580",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-04-02T08:36:56.000Z",
+    "itemCreationDate": "2022-04-02T08:36:56.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|204060107052|0",
+    "title": "IBM System x3550 M5 5463-AC1 2x 8C E5-2640v3 64GB 4-Bay 600GB SAS 2.5\" 1U Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/PNMAAOSw0Ohi6jFK/s-l225.jpg"
+    },
+    "price": {
+      "value": "480.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C204060107052%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PNMAAOSw0Ohi6jFK/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "28054952128",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/204060107052?_skw=IBM+x3550&hash=item2f82ee212c:g:PNMAAOSw0Ohi6jFK&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYX%2BiClK4RQjszTxGc%2BgGZxU0TWbPJOLOo0D9t8q9%2FVSs65462FmDRPSSBWA7Mn1vXbvJilaIPH1UrH4nHbrI%2Fxod3p1MhKmDUrFTlSyYLcJdw5QnvG%2Be2cbSc2eXLcCruIiR6etukWMoNJa1w9i1Bwyip0t8HNU%2FuzcnTU3XPTsKVdtbSW%2FJvcdNQSBIL6evIGljQYpXLnzVQzzF2BUl5oYcllDdIIFh6EjYSFGwHAgw%2BmKNKbocRjpeOWmzqMDAfRru8SYaGRcprQ7YnBXUIt",
+    "itemLocation": {
+      "postalCode": "WC1B***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/l2IAAOSwg81i6iWx/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OowAAOSwTYBi6iWf/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/u1YAAOSwm71i6iWU/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QVAAAOSwYali6iXQ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ue0AAOSwt0hi6iuU/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WjMAAOSwJs5i6iud/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/8O4AAOSwcNFi6jFX/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JRYAAOSwjKRi6jFo/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "204060107052",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-08-06T21:00:22.000Z",
+    "itemCreationDate": "2022-08-06T21:00:22.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|236002426901|0",
+    "title": "IBM System X3550 M5 Screw Down Heatsink",
+    "leafCategoryIds": [
+      "168074"
+    ],
+    "categories": [
+      {
+        "categoryId": "168074",
+        "categoryName": "Server Fans & Cooling Systems"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/X5AAAeSwz~Zn0sV5/s-l225.jpg"
+    },
+    "price": {
+      "value": "18.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236002426901%7C0",
+    "seller": {
+      "username": "towlersltd",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 10704,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/X5AAAeSwz~Zn0sV5/s-l225.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "1755737975",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/236002426901?_skw=IBM+x3550&hash=item36f2d74015:g:X5AAAeSwz~Zn0sV5",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9YgAAeSwzQBn0sV8/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/kFAAAeSwveRn0sV5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KHwAAeSwGg9n0sV5/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "236002426901",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-13T11:42:57.000Z",
+    "itemCreationDate": "2025-03-13T11:42:57.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

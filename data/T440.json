@@ -1,0 +1,484 @@
+[
+  {
+    "itemId": "v1|197559834844|0",
+    "title": "Lenovo Thinkpad T440s I5-4200U 4GB RAM, 128GB SSD W10 Pro",
+    "leafCategoryIds": [
+      "177"
+    ],
+    "categories": [
+      {
+        "categoryId": "177",
+        "categoryName": "PC Laptops & Netbooks"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175672",
+        "categoryName": "Laptops & Netbooks"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/mwYAAeSws11ogjK7/s-l225.jpg"
+    },
+    "price": {
+      "value": "69.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C197559834844%7C0",
+    "seller": {
+      "username": "renewit",
+      "feedbackPercentage": "99.3",
+      "feedbackScore": 2295,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mwYAAeSws11ogjK7/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/197559834844?_skw=T440&hash=item2dff7bd8dc:g:mwYAAeSws11ogjK7",
+    "itemLocation": {
+      "postalCode": "PE1***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/proAAeSwH~logjMi/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/kJ4AAeSwf01ogjLW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9lcAAeSwyMBogjMb/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gd4AAeSwMGNogjLq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jAUAAeSwi35ogjL6/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oT8AAeSwsDZogjMU/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "197559834844",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-24T13:23:48.000Z",
+    "itemCreationDate": "2025-07-24T13:23:48.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|326500500101|0",
+    "title": "Lenovo T440P Laptop: Core i7-4600M 8GB RAM, 240GB SSD, 14\" Screen, VAT, Warranty",
+    "leafCategoryIds": [
+      "177"
+    ],
+    "categories": [
+      {
+        "categoryId": "177",
+        "categoryName": "PC Laptops & Netbooks"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175672",
+        "categoryName": "Laptops & Netbooks"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/dMgAAOSwsmJn4Trt/s-l225.jpg"
+    },
+    "price": {
+      "value": "159.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326500500101%7C0",
+    "seller": {
+      "username": "cruisetechstore",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 2032,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dMgAAOSwsmJn4Trt/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326500500101?_skw=T440&hash=item4c04f24285:g:dMgAAOSwsmJn4Trt&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZe0sLLRObqvkfjZVT3TUf5NMWw1SsCnSeh7FddpP2SJuLaSO8n8ZsCCut73ObQzzA1u63dl4u4tJ%2BQ77VZXfUswYOBGIyhR7%2FcLyrlunqtRzMlHKeP7zabGw4VHzo1jZ2A1eOQzQaMH%2BxwoyTwv0C4zqkSAunbFMlloSiHc01cbBSrRUQIV8V6%2BacLMQqOYLM%2BllK8Zni%2FytHRLm4Ycey3BHzEDlPa5CnLoqKnudDbOa1FT377K5HZYsMZheTjimRrqzune9Le57v5Sk9HWVoS",
+    "itemLocation": {
+      "postalCode": "ST1***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/x6gAAOSw6e9n4Try/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2tkAAOSwd7Zn4Tr0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/uIoAAOSw4KRn4Tr1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1lkAAOSwJORn4Tr2/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4ocAAOSwXotn4Tr3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9cEAAOSwr7Bn4Tr5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/8~8AAOSw4GVn4Tr6/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qy0AAOSw~-Rn4Tr7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/H3gAAOSw46Zn4Tr8/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nGwAAOSwyeBn4Tr9/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "159.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "326500500101",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-24T10:59:11.000Z",
+    "itemCreationDate": "2025-03-24T10:59:11.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|177079683577|0",
+    "title": "Lenovo ThinkPad T440 Core i5-4300U 8GB RAM 240GB SSD 1600x900 Windows 10 Laptop",
+    "leafCategoryIds": [
+      "177"
+    ],
+    "categories": [
+      {
+        "categoryId": "177",
+        "categoryName": "PC Laptops & Netbooks"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175672",
+        "categoryName": "Laptops & Netbooks"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/Y-4AAOSwvqNoHdZg/s-l225.jpg"
+    },
+    "price": {
+      "value": "119.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C177079683577%7C0",
+    "seller": {
+      "username": "pcrenewed",
+      "feedbackPercentage": "99.3",
+      "feedbackScore": 1899,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Y-4AAOSwvqNoHdZg/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/177079683577?_skw=T440&hash=item293ac589f9:g:Y-4AAOSwvqNoHdZg&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaXx%2BNRONIVAy6SOHxs0QSzus3agiQbdxaQPTCIHRwzn7V5ELDTpuAAqVBSle1phu3AQIHVg8EG7aZidXSdeuoUdvSgLqTaqbB1Yl2ImGNqkcOCaO24ZTUbMCylIitE4EHqRpLy4323nKRpD2CkRZJsrAT0KbrR9rzV%2FkinDu6mEv%2Fqqd8hw%2FjaDc1Oia%2Fbwbs2AhmVKyLdQgV6krXwOoiinCkKME29E6TRq6UkSdb9JUVmrqzLni3h%2BHvlbpiH%2B0UWkTuvwOGo%2BtdupHOJNXKm",
+    "itemLocation": {
+      "postalCode": "CV4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gCgAAOSwKfFoHdZg/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YaYAAOSwLGloHdZg/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "177079683577",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-09T10:36:57.000Z",
+    "itemCreationDate": "2025-05-09T10:36:57.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|326675252429|0",
+    "title": "Lenovo ThinkPad T440P Laptop: i5-4300M, 14\", 4GB RAM, 500GB HDD, Warranty",
+    "leafCategoryIds": [
+      "177"
+    ],
+    "categories": [
+      {
+        "categoryId": "177",
+        "categoryName": "PC Laptops & Netbooks"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175672",
+        "categoryName": "Laptops & Netbooks"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/rqsAAeSwfGhoa7aO/s-l225.jpg"
+    },
+    "price": {
+      "value": "149.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326675252429%7C0",
+    "seller": {
+      "username": "cruisetechstore",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 2032,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rqsAAeSwfGhoa7aO/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326675252429?_skw=T440&hash=item4c0f5cc4cd:g:rqsAAeSwfGhoa7aO&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uak7wt8%2FnmELZsZZyW48tsAuT1m3tSo%2BPw%2BdqEgZghaJAc%2Fmt%2BqqIxm9pARAijHDkXFzY00SyNWmKBO5CXJQtv70K9%2B43YcU8wpwEzBn378uLkb4t2%2BcuESgd4z%2B4%2BMMgPIwMwz6vFVbMAHa2gcIxOiQLWCkE9dWZwkhWXw%2FtzDGWIpA%2BtW22aVYVm3SnW5dKegsCgpDi4pqCkyFkvdVsNa0wwQfNrERqDjUz5O6Xh8i31QC%2FnW9xF5hraK8mevPKyubNzUSuV%2FkOwYcwC7a%2Ban",
+    "itemLocation": {
+      "postalCode": "ST1***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CcwAAeSwRploa7aP/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ebkAAeSw6aZoa7aQ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/8mgAAeSw1Axoa7aQ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FvoAAeSwUYpoa7aR/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tycAAeSwFSJoa7aS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JhgAAeSw6SRoa7aS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ksIAAeSwyU1oa7aT/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "149.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "326675252429",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-07T11:59:17.000Z",
+    "itemCreationDate": "2025-07-07T11:59:17.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|205635526002|0",
+    "title": "Lenovo Thinkpad T440 Core i5-4300U 8GB Ram 180GB SSD Windows 10 Pro Laptop",
+    "leafCategoryIds": [
+      "177"
+    ],
+    "categories": [
+      {
+        "categoryId": "177",
+        "categoryName": "PC Laptops & Netbooks"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175672",
+        "categoryName": "Laptops & Netbooks"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/1joAAeSwMRlog7fU/s-l225.jpg"
+    },
+    "price": {
+      "value": "78.67",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C205635526002%7C0",
+    "seller": {
+      "username": "allmoneyinnomoneyout",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 143,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1joAAeSwMRlog7fU/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/205635526002?_skw=T440&hash=item2fe0d51d72:g:1joAAeSwMRlog7fU",
+    "itemLocation": {
+      "postalCode": "B23***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IXcAAeSwy5FoWH3C/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LpsAAeSwf21oK3Xf/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sBYAAeSw21hoWH2Z/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zZ4AAeSwhB5oK3Xg/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sOQAAeSwd1JoK3Xh/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6ewAAeSwcYVog7eJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2yAAAeSw6Z5og7eK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6jkAAeSwL1tog7eL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2yQAAeSw6Z5og7eL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QncAAeSwzwtog7eM/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6rEAAeSwlp9og7eN/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/71sAAeSwD6dog7eN/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/42IAAeSw1~1og7eO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5DcAAeSwl-Bog7eP/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "205635526002",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-19T18:37:21.000Z",
+    "itemCreationDate": "2025-07-25T17:01:13.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

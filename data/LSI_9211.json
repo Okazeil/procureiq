@@ -1,0 +1,480 @@
+[
+  {
+    "itemId": "v1|326088190913|515196638714",
+    "title": "LSI 9211-8i  IT Mode SAS HBA Card Unraid TrueNAS Proxmox JBOD NAS ZFS - NO BIOS",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=326088190913",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/EOIAAeSw1Axoak4t/s-l225.jpg"
+    },
+    "price": {
+      "value": "39.99",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326088190913%7C515196638714",
+    "seller": {
+      "username": "it-cards",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 2234,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/EOIAAeSw1Axoak4t/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326088190913?_skw=LSI+9211&hash=item4bec5eebc1:g:EOIAAeSw1Axoak4t",
+    "itemLocation": {
+      "postalCode": "PR7***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NhIAAeSwZHRoZ3DC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6acAAeSw~v1oZ3BS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5GMAAeSwRyVoZ3BZ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tr4AAeSwUidoZ3Bn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6gwAAeSwGLloZ3Bt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FAoAAeSwA~xoZ3Bz/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "326088190913",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-04-13T09:12:50.000Z",
+    "itemCreationDate": "2024-04-13T09:12:50.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|304009309531|0",
+    "title": "LSI 9211-4i IT Mode HBA SAS SATA 6Gbps Mini-SAS PCI-e 2.0 x4 TrueNAS unRAID ZFS",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/pQIAAOSw8GVnflts/s-l225.jpg"
+    },
+    "price": {
+      "value": "34.95",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C304009309531%7C0",
+    "seller": {
+      "username": "russ_armst",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 2200,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/pQIAAOSw8GVnflts/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/304009309531?_skw=LSI+9211&hash=item46c85ded5b:g:pQIAAOSw8GVnflts&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ub%2Bd8djx8xvcqytsZkIImcUVb9TbkcVqwehR%2BkjYpP0zS%2BTmKZ%2BNzfrZCkhm2zZwoMmyQQi84aK4fPXtL1im%2BT%2BNKwU0BK%2Bp0LSycNQ9B6dUe9kL7ntGxzvz3b6tVGQfNSo2Qj4bilU%2BR5O75riwjhgobY%2F92pkT2ELXIOIFyEslEZvbetN2hMgV9BYsyX3OP5LQ4udc654ViAIZXqTPcRr36ns5%2FftPcHTYrFIbHpPogVdNkLmDWFmDaTDgmPw%2F%2BwDVlit1hKIlFWU7h%2F5GCp5",
+    "itemLocation": {
+      "postalCode": "PE6***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9osAAOSwMqVnfltt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/miwAAOSwcK1nfltt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~wUAAOSwBuRnfltt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AyIAAOSwKFNnfltt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Dk0AAOSwgC1nfltt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YgwAAOSwTqVnfltt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4B4AAOSwY2xnfltt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZFUAAOSw~B5nfltt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/G0sAAOSw9wpnfluT/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Mq4AAOSwAbNnfluT/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7DAAAOSwdaNnfluT/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NiwAAOSw6KJnfluT/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/kiAAAOSw8ANnfluT/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WD8AAOSwWYZnfluT/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "304009309531",
+    "availableCoupons": false,
+    "itemOriginDate": "2021-05-25T08:35:11.000Z",
+    "itemCreationDate": "2021-05-25T08:35:11.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|326249534679|0",
+    "title": "LSI 9211-4i / 9211-8i SAS HBA - IT Mode Unraid TrueNAS Proxmox - SATA Cable Inc",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/whMAAOSw27dnR1sV/s-l225.jpg"
+    },
+    "price": {
+      "value": "39.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326249534679%7C0",
+    "seller": {
+      "username": "it-cards",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 2234,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/whMAAOSw27dnR1sV/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326249534679?_skw=LSI+9211&hash=item4bf5fcd4d7:g:whMAAOSw27dnR1sV&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ubu1d1YLNnVd9ssMN7TxmxQdBEEFLpwyr2NsqqkxRTg5a1mIoPeEN0arppGvhCfZ1HJ98nsqiPKt5TXy%2FMwL%2Ba2GBm0rVghjoG%2FhhsWlTmGCrOZpiqKT3nHjnN3q3cAWDwwj96yinRqTgZ42L%2FNYQI7exRI8uqf%2FkqvuR7GRJTrUMP20koXPhcDlZqVF44LPjCMqx23TDaLtZhaWjnsHBsXX5QI1Mgpab7DKQ09DtgkqXaAHSgE3dPST7r0ZPcFczp4BZdCKcNpIZM%2B%2B85gPpH2",
+    "itemLocation": {
+      "postalCode": "PR7***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/l50AAOSwx7lmzwTT/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/p0MAAOSwE25mzxdK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LL4AAOSwtnJmzxdK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wBsAAOSwEXlmzxdK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KBQAAOSwqKFmzxdK/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "326249534679",
+    "availableCoupons": true,
+    "itemOriginDate": "2024-08-28T11:12:50.000Z",
+    "itemCreationDate": "2024-08-28T11:12:50.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|124178148650|0",
+    "title": "LSI 6Gbps SAS HBA LSI 9200-8i IT Mode ZFS FreeNAS unRAID + 2*SFF8087 SATA",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/9wUAAOSwX1dgglqc/s-l225.jpg"
+    },
+    "price": {
+      "value": "29.98",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C124178148650%7C0",
+    "seller": {
+      "username": "xuanwen-2011",
+      "feedbackPercentage": "99.6",
+      "feedbackScore": 11309,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9wUAAOSwX1dgglqc/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/124178148650?_skw=LSI+9211&hash=item1ce9982d2a:g:9wUAAOSwX1dgglqc&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaBXNY5%2BNY%2BKLBw45VBL4lRn6E55%2FR5k9DqbZ5vi2WfePO%2B0wcgS7VV5x7VWtmVk%2BNjDiF3Hzr5XhjQedSeygjigZX83KeESl9sejEQ8bmR6S1BW9WXNdka6IJlQG8bKvq7zYZpd0Sxf57ptqBVjDyucUiEjxHI%2FJmWZgvv%2F9vhLBFxrAyO5mUEfphYMnZe4GSxqGtlk%2FPCUXsOsWgZSRKJ8mIjQ0viIwITKWig%2FxdxhJZ8Hum1FCb4rDSw%2BjP4f1ZfkDcTdLUkmEOhH8P60U4L",
+    "itemLocation": {
+      "postalCode": "******",
+      "country": "CN"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oo4AAOSwVulgglqe/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CkEAAOSwsZpgglqg/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PGkAAOSwN3lcdOXt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gr0AAOSwu4JcdOXk/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/760AAOSwh0NcdOXn/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "124178148650",
+    "availableCoupons": false,
+    "itemOriginDate": "2020-05-06T14:52:02.000Z",
+    "itemCreationDate": "2020-05-06T14:52:02.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|125141682364|0",
+    "title": "LSI 9240-8i = (LSI 9211-8i) 6Gbps SAS HBA FW:P20 IT Mode ZFS FreeNAS unRAID",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/BQYAAOSwa2xiBLyY/s-l225.jpg"
+    },
+    "price": {
+      "value": "22.66",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C125141682364%7C0",
+    "seller": {
+      "username": "xuanwen-2011",
+      "feedbackPercentage": "99.6",
+      "feedbackScore": 11309,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BQYAAOSwa2xiBLyY/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/125141682364?_skw=LSI+9211&hash=item1d230688bc:g:BQYAAOSwa2xiBLyY",
+    "itemLocation": {
+      "postalCode": "******",
+      "country": "CN"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oRMAAOSw0-liBLyJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/P6IAAOSw91hiBLxc/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vN0AAOSw6RRiBLxw/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Qh4AAOSwCetiBLyo/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "125141682364",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-02-10T07:23:28.000Z",
+    "itemCreationDate": "2022-02-11T07:23:30.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

@@ -1,0 +1,433 @@
+[
+  {
+    "itemId": "v1|236193807547|0",
+    "title": "Dell Compellent 4CMD9-CL Hard Drive 3TB 3.5inch 7.2K SAS 6Gbps HDD",
+    "leafCategoryIds": [
+      "56083"
+    ],
+    "categories": [
+      {
+        "categoryId": "56083",
+        "categoryName": "Internal Hard Disk Drives"
+      },
+      {
+        "categoryId": "165",
+        "categoryName": "Drives, Storage & Blank Media"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "182085",
+        "categoryName": "Hard Drives (HDD, SSD & NAS)"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/IfMAAeSw4v1ocJrN/s-l225.jpg"
+    },
+    "price": {
+      "value": "17.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236193807547%7C0",
+    "seller": {
+      "username": "towlersltd",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 10704,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IfMAAeSw4v1ocJrN/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/236193807547?_skw=Dell+Compellent&hash=item36fe3f7cbb:g:IfMAAeSw4v1ocJrN",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UHgAAeSwNSJocJrN/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SWMAAeSw5zJocJrN/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/K2sAAeSw1sJocJrN/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "236193807547",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-11T05:01:32.000Z",
+    "itemCreationDate": "2025-07-11T05:01:32.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|286364240825|0",
+    "title": "Dell 436D2 Compellent 900GB 12G SAS 15K rpm SFF (2.5-inch) Hard Drive",
+    "leafCategoryIds": [
+      "56083"
+    ],
+    "categories": [
+      {
+        "categoryId": "56083",
+        "categoryName": "Internal Hard Disk Drives"
+      },
+      {
+        "categoryId": "165",
+        "categoryName": "Drives, Storage & Blank Media"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "182085",
+        "categoryName": "Hard Drives (HDD, SSD & NAS)"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/bskAAOSwbkBnvy~P/s-l225.jpg"
+    },
+    "price": {
+      "value": "225.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286364240825%7C0",
+    "seller": {
+      "username": "intelligent_servers",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 5669,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bskAAOSwbkBnvy~P/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "23063266484",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/286364240825?_skw=Dell+Compellent&hash=item42aca38bb9:g:bskAAOSwbkBnvy~P&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ub3GST5j3qCLVOzjw3vnRq0GbW7uWK0cXwHuchbI24iTWHPs2JqONHnf52FOj5Nh6QJTw3VvtugO%2FecJM2KQJ%2F5sKDLjC9Tr31Vlo8WY4o4CEQ5K1s780H1X%2BYegLvzCsU3YfQ6yHM5pa18KiaqCOnij6jEp4LMMpiKjdAb%2Bah%2BpUp3a5BtY99T8Kd8ohNnDcYwiRQUT5Ux2A%2FoJQ6aYypUSU%2BNXiZTC7sMogujRnf%2BWw56U%2BsgYKEUEFzCyitOPzCSNIs2VoPH1MMeI2qSio6j5VhzaOLidYn08PctLmqCeg%3D%3D",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/E7cAAOSwHg5nvy~P/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yCMAAOSwE4pnvy~P/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "225.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "286364240825",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-02-26T15:19:05.000Z",
+    "itemCreationDate": "2025-02-26T15:19:05.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|126689494817|0",
+    "title": "Dell Compellent SC220 Storage Disk Array 24 x 2.5\" SAS *No HDD*",
+    "leafCategoryIds": [
+      "64069"
+    ],
+    "categories": [
+      {
+        "categoryId": "64069",
+        "categoryName": "NAS Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/5xQAAOSwUBNmYrtq/s-l225.jpg"
+    },
+    "price": {
+      "value": "116.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126689494817%7C0",
+    "seller": {
+      "username": "computerhive",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 58306,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5xQAAOSwUBNmYrtq/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/126689494817?_skw=Dell+Compellent&hash=item1d7f484721:g:5xQAAOSwUBNmYrtq&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaEyZtFdC78nSgrP%2BvW%2F54b2mSrX%2FbOO3C06aKJnOxq5MMvXAW0hDLVFeWYCKnW87XOlEGKwDqcESpi5TuWmGmB56f9ogjdEJ%2BC%2FQnUnVYkGiD%2FakHRKZqg2aQVOUuWGoqBZpuqGZag%2F9VDgGAKwgfcrJ%2BlceAZs2aOafsVXoOkz3pEtWzsuy3nMqmIo2lhzC3xsZseXnvwFsgRH%2FsS1GnkVNcTmEDhqNo1c9jOx9K6fjeiw6k29%2BcvXEgZfhj8qTdcOxFeGlBmkHjc2TNdjp4O03SEpjcZbpBbqpsvZHSkTg%3D%3D",
+    "itemLocation": {
+      "postalCode": "LS7***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wdEAAOSww71mYrts/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-PUAAOSwDxFmYrto/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iMUAAOSwTDFmYrtr/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/8xEAAOSwwclmYrtt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nxwAAOSwFBBmYrto/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "kg",
+    "unitPrice": {
+      "value": "2.34",
+      "currency": "GBP"
+    },
+    "legacyItemId": "126689494817",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-06-10T09:38:56.000Z",
+    "itemCreationDate": "2024-09-24T09:48:32.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|205473432397|0",
+    "title": "Dell Compellent SC200 0VDDDG 12 x 3.5\" HDD Bays 2 x EMM 2 x 700W PSU",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/Us4AAOSwUKBgpSK6/s-l225.jpg"
+    },
+    "price": {
+      "value": "180.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C205473432397%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Us4AAOSwUKBgpSK6/s-l640.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "23057558532",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/205473432397?_skw=Dell+Compellent&hash=item2fd72bc34d:g:Us4AAOSwUKBgpSK6&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ub9PcJeK1eQLH0CHevt06NOJVp4SBLzaW6htyCiyiXY7EN1kdIStf1pcDLQlqlC3oqVfgPPyv62uxRaXoMmqwkFTBmYpTThNmxoTOncS1pI%2BOmRVekxXOsmkjQqR6GYCGY3EeED1d8as2ZEveegnNuw%2FQuMrXyc4oq5x1mwQxMoRqi74%2F%2BqjzsYaF033Epw%2F0Rtvn%2B00xk6IhVpOwYWxcW9MXIn7ukYOkWW8x2neRFVvXpX5jfr129BUWJTlkym85ezGfjTdSFaOqzOM4VsxnX%2BzEGWzRR3Kfww9haQ7XJ2eQ%3D%3D",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DU8AAOSwbihZ3IcI/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "205473432397",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-09T05:33:41.000Z",
+    "itemCreationDate": "2025-05-09T05:33:41.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|226808467597|0",
+    "title": "Dell SC220-CHASSIS Compellent SC220 Expansion Enclosure",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/0vYAAeSwmGNoSRFw/s-l225.jpg"
+    },
+    "price": {
+      "value": "38.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226808467597%7C0",
+    "seller": {
+      "username": "towlersltd",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 10704,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Good - Refurbished",
+    "conditionId": "2030",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0vYAAeSwmGNoSRFw/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "1355876289",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/226808467597?_skw=Dell+Compellent&hash=item34ced6908d:g:0vYAAeSwmGNoSRFw",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zkMAAeSwRGJoSRFx/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/agQAAeSwkVFoSRFw/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WdAAAeSwHO9oSRFx/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "226808467597",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-11T05:12:51.000Z",
+    "itemCreationDate": "2025-06-11T05:12:51.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

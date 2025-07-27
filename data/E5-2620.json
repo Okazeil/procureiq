@@ -1,0 +1,533 @@
+[
+  {
+    "itemId": "v1|326404251539|0",
+    "title": "Intel Xeon E5 2620V4 CPU Processor LGA2011-3 SR2R6 8Cores 20MB Cache 3.00GHz",
+    "leafCategoryIds": [
+      "164",
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/XcIAAOSw0exnhRjx/s-l225.jpg"
+    },
+    "price": {
+      "value": "4.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326404251539%7C0",
+    "seller": {
+      "username": "dr.memory",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 179577,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "originalPrice": {
+        "value": "5.00",
+        "currency": "GBP"
+      },
+      "discountPercentage": "0",
+      "discountAmount": {
+        "value": "0.01",
+        "currency": "GBP"
+      },
+      "priceTreatment": "LIST_PRICE"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XcIAAOSw0exnhRjx/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "22065532022",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326404251539?_skw=E5-2620&hash=item4bff359f93:g:XcIAAOSw0exnhRjx",
+    "itemLocation": {
+      "postalCode": "M17***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4V0AAOSwyB9nhRjw/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "326404251539",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-01-13T13:42:45.000Z",
+    "itemCreationDate": "2025-01-13T13:42:45.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|127013126659|0",
+    "title": "Dell PowerEdge R730 2x E5-2620v4 2.10Ghz 16-Cores NO RAM NO HDD 8x3.5\" caddies",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/I38AAOSwbnxjHQIE/s-l225.jpg"
+    },
+    "price": {
+      "value": "201.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C127013126659%7C0",
+    "seller": {
+      "username": "servershopping",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 4134,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/I38AAOSwbnxjHQIE/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-04T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/127013126659?_skw=E5-2620&hash=item1d92928203:g:I38AAOSwbnxjHQIE&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ub0%2F0YjdzgJP%2FTQWfb3GpW23arQu2Xq0e2hxqI5T8Hz6%2B1AxwY1VeOB2J4uQiXBJxttUU%2BBpQVvJVWuEu3WwqCK8VQWPjr7tOohtUPpAZIhhoV2WatnhWFAONBsrSTOpfoxOR4XSH6%2BaehGaEFfJpIHUtfoeOeTZb3qaXIMdhTxfn0ZkdhojrCUC%2Fi%2Bg6SIXBPYJKPcHjt7KceQgvuu2h80v2BO6%2FsF0Fd1SbL4HUxq%2FtUjlsXf1GxyypxQEYWfhW3JoRUbdVEmJlJ9IoWrL448",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3gMAAOSwtJ5iBV49/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DEsAAOSwb79iBV6E/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ACIAAOSwr2pmavft/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "127013126659",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-25T05:40:44.000Z",
+    "itemCreationDate": "2025-03-25T05:40:44.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|127263650341|0",
+    "title": "Cleversafe Slicestor 2212 Server Intel E5-2620 32GB RAM 120GB SSD - NO HDDs",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/hIoAAeSwnDVog3Zp/s-l225.jpg"
+    },
+    "price": {
+      "value": "159.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C127263650341%7C0",
+    "seller": {
+      "username": "protechcity",
+      "feedbackPercentage": "99.3",
+      "feedbackScore": 2865,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hIoAAeSwnDVog3Zp/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/127263650341?_skw=E5-2620&hash=item1da1813225:g:hIoAAeSwnDVog3Zp&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UanK%2BbOMko0CaQcW60tNWp9gbuZnaMLx5khoCzqma2DhQb4NFUFzgUpuIAm1%2BrzzxRZS3BHHzA1Ys8zlYCNXRYddQCkugFQbmlfgxe2B8Sl0j%2FVyFMKYyjqLSsial%2FKb6zaWvikvD6l6%2FdAPBmC0M%2FNonBQUJXiR8tAdcCyuq72E92XS6p91eBYmr1Cv5h5PvS4nK0Ta9fIhw6uMk%2BLEv2LeBPc37eq9AL75cOngi%2Bj%2BRTOB2z997ApL8K%2BdhDXNkkOeaONprDjJeV%2B82O3oG7i",
+    "itemLocation": {
+      "postalCode": "SR8***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oW4AAeSwCPNog3aa/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fmwAAeSwatJog3aP/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/p58AAeSw0iJog3aL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mqYAAeSwyB5og3aL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jcsAAeSwWfVog3aL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nt0AAeSwqAxog3aK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qk4AAeSw31log3aL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oQ8AAeSw5CJog3aL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nTAAAeSwV2pog3an/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/N-gAAeSwTTVog3aL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jFcAAeSwXadog3aL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mfUAAeSw1~1og3aL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/eJIAAOSwCfpnEpau/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BnQAAOSwCEBnEpau/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "127263650341",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-25T12:22:13.000Z",
+    "itemCreationDate": "2025-07-25T12:22:13.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|297485148017|0",
+    "title": "Dell PowerEdge R720 6-Core E5-2620v2 2.00GHz 256GB RAM H710P 2U Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/gLQAAOSwUZxoUYbs/s-l225.jpg"
+    },
+    "price": {
+      "value": "129.95",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C297485148017%7C0",
+    "seller": {
+      "username": "fixedasset-sales",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 8183,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gLQAAOSwUZxoUYbs/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "7.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "2256184369",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/297485148017?_skw=E5-2620&hash=item45437f1f71:g:gLQAAOSwUZxoUYbs&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYPQYxiRNHMs9xvSWIKpHw0OrEuNup8my2kGoA06fIJqSWKPW%2Fg%2BE8IjDG1JLke3Zv0aoj04fpzkm5DUYZ3vXD0AlE%2FoLTo8GrSL7UpLYC5kM1fzkOZBmGDHkP12yDuiLPYRpMwbBTosVaW7ENmGdtk5YFI7p59QlDIKYyAafk8QINVDxiah4Y6Rl5AQtLcscUpejjGi1lG02e86lnUDHmHxG3NRRmlfJFM6aGWvvdY2da7QV25MJkwmfTwMSkm%2BiN9uMa5WMF%2B%2FY0hssN8mRFF",
+    "itemLocation": {
+      "postalCode": "RG40***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UUEAAOSwIWZoUYby/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YUcAAOSwkEBoUYb3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9tAAAOSwEItoUYb~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dM8AAOSwxWloUYcC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KEQAAOSwA-VoUYcU/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oBwAAOSwW55oUYcW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FMcAAeSw7H5oUYYx/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CPkAAeSwuxhoUYYy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nwIAAOSwR-9oUYci/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LoIAAOSwaFRoUYcr/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/S9IAAOSwMwhoUYcy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wWsAAOSwunpoUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RIcAAOSw1rBoUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Na4AAOSwgxloUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OFcAAOSw2CVoUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~uIAAOSwSo5oUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rk8AAOSwDmloUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5hoAAOSwMdloUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qsMAAOSw6QJoUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zYYAAOSw09hoUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wecAAOSwkl5oUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/f2oAAOSw3gZoUUsB/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "297485148017",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-17T15:29:22.000Z",
+    "itemCreationDate": "2025-07-21T13:59:18.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|326008294611|0",
+    "title": "Intel Xeon E5 2620V2 CPU Processor LGA2011 SR1AN",
+    "leafCategoryIds": [
+      "164",
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/YF0AAOSwqg1ly3Do/s-l225.jpg"
+    },
+    "price": {
+      "value": "5.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326008294611%7C0",
+    "seller": {
+      "username": "dr.memory",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 179577,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YF0AAOSwqg1ly3Do/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "932437191",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326008294611?_skw=E5-2620&hash=item4be79bccd3:g:YF0AAOSwqg1ly3Do",
+    "itemLocation": {
+      "postalCode": "M17***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "326008294611",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-02-13T13:37:44.000Z",
+    "itemCreationDate": "2024-02-13T13:37:44.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

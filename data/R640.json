@@ -1,0 +1,438 @@
+[
+  {
+    "itemId": "v1|156738432259|0",
+    "title": "Dell PowerEdge R640 10*SFF 2x 4110 64GB H730 2x1.2TB HDD iDRAC Enterprise",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/cxoAAOSwftZnpKT3/s-l225.jpg"
+    },
+    "price": {
+      "value": "375.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156738432259%7C0",
+    "seller": {
+      "username": "compuwyze_ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 840,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cxoAAOSwftZnpKT3/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "28026963407",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156738432259?_skw=R640&hash=item247e56ad03:g:cxoAAOSwftZnpKT3",
+    "itemLocation": {
+      "postalCode": "PR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/quYAAOSw33pnpKT3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Jw8AAOSwf5NnpKT3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/awYAAOSwENZnpKT3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gqUAAOSw8cZnpKT2/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Y2UAAOSwZ71npKT4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/unIAAOSwTJtnpKT2/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MlgAAOSwsDpnpKT4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/C6oAAOSwK-ZnpKT4/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "375.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "156738432259",
+    "availableCoupons": true,
+    "itemOriginDate": "2025-02-26T12:23:43.000Z",
+    "itemCreationDate": "2025-02-26T12:23:43.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|127000574604|0",
+    "title": "Dell PowerEdge R640 2x 4114 CPU 64GB DDR4 H730 2x1.2TB HDD 10 Bays 2.5\"",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/52kAAOSwPS9n2XPF/s-l225.jpg"
+    },
+    "price": {
+      "value": "377.33",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C127000574604%7C0",
+    "seller": {
+      "username": "servershopping",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 4134,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/52kAAOSwPS9n2XPF/s-l960.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-04T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "28026963407",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/127000574604?_skw=R640&hash=item1d91d2fa8c:g:52kAAOSwPS9n2XPF&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZq4%2BkGP2DIuBRROeksWSdkBCGH9wU9GCXHnd0skVPKgKXRFYdYG%2BAW9Yx7yUm1VBy%2FstsUyAY%2BodGGjWUihylHp7ck%2F4RtSOFiu6TBE%2Blwxm9MXGplJC72GQ3qYBRDXUNvYoU%2B5f%2Bz86PRetvJWkmME%2F8fl98ZrREYcUy%2FSibkH66MyEveyMT%2B9z%2BZbsfSgjLVM0R1nCyt2gn4XWo7RmheZ8gsakIL5KpQNAelUUeXB81h120z1fW%2BEMCLSmDnM8JqiTSHt20%2B4Mzq3iEszGJS",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/R5IAAOSwfghn2XOI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4n4AAOSw3Vdn2XOH/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "377.33",
+      "currency": "GBP"
+    },
+    "legacyItemId": "127000574604",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-18T13:27:40.000Z",
+    "itemCreationDate": "2025-03-18T13:27:40.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|388687434664|0",
+    "title": "Dell PowerEdge R640 2 x Intel Xeon Gold 6240 2.60Ghz 18 Core 512GB RAM H730P",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/AJoAAOSwSIthsgFG/s-l225.jpg"
+    },
+    "price": {
+      "value": "770.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388687434664%7C0",
+    "seller": {
+      "username": "itbaron001",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 3683,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AJoAAOSwSIthsgFG/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388687434664?_skw=R640&hash=item5a7f9393a8:g:AJoAAOSwSIthsgFG&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaijxRAwjgW2MEQshj40zNc5e6UQZbBqIv3HQqL88xQOfLSKsNkQrbvyltcoMAGz06KyJeZ%2BXky%2Fk1Aov26M1S8unJd914%2BZmtxfPYjqKKaegnaHdi5BbPAkWbx2qKsOSZ%2FNu6flVKIEwX7Mqp4d9CkP2SHQk049Cp0vgJPtx3DvdAKx31pOMdpBZogZVFYSyap4xLz91%2B9BaijqYPaF41f2CiYj8k67m--WPSy9paeI9lVLc3qxQoWJRGfGk9UIudwYcl%2B1OzrP1mqKDnCZYc%2B",
+    "itemLocation": {
+      "postalCode": "HP11***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "388687434664",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-09T10:07:46.000Z",
+    "itemCreationDate": "2025-07-09T10:07:46.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|126987138388|0",
+    "title": "Dell PowerEdge R640 10*SFF 2x 4110 CPU 64GB DDR3 H730 2x1.2TB HDD",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/e00AAOSwUzJnyUvH/s-l225.jpg"
+    },
+    "price": {
+      "value": "361.33",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126987138388%7C0",
+    "seller": {
+      "username": "servershopping",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 4134,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/e00AAOSwUzJnyUvH/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-04T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "28026963407",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/126987138388?_skw=R640&hash=item1d9105f554:g:e00AAOSwUzJnyUvH&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uac73d8gepORDXFX8auxvRSWOQS97HX0FigtU8V%2FhHSldXkxG78GO8OoNCxKDEVAayaGH3nhnVYlCVVHuUICQNpfdFWDMgN405w6vxOzH%2F%2Bmoyi3SDBNk%2F8yc6pgQsnyE8ydG7%2B%2F8gRY6P4aTz%2BjVRsZV%2B%2BjndlmEIteNUEPAAEBbo%2B%2F3d1jjNGdmna5qOscMUkmxQqdhQ9AifjRyxU4%2FghjhSzZRizaw0ykSl8HBA7T8igVwClNshU2VKeZ6KU%2B8cEMpOi%2BnfgCXddH9cqUhwF",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "361.33",
+      "currency": "GBP"
+    },
+    "legacyItemId": "126987138388",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-11T05:30:24.000Z",
+    "itemCreationDate": "2025-03-11T05:30:24.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|116525203104|0",
+    "title": "Dell PowerEdge R640 2x 4114 CPU 128GB DDR4 H730 2x1.2TB HDD 10 Bays 2.5\"",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/52kAAOSwPS9n2XPF/s-l225.jpg"
+    },
+    "price": {
+      "value": "433.33",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C116525203104%7C0",
+    "seller": {
+      "username": "servershopping",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 4134,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/52kAAOSwPS9n2XPF/s-l960.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-04T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "28026963407",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/116525203104?_skw=R640&hash=item1b21717ea0:g:52kAAOSwPS9n2XPF&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua%2FekJRKHa6DzhUOftwZQoVHLpXFM4BaHZtZ8vgwBO0GYH0YOB0vFqDNUOWAjFLObI2%2FHDOLan2L5w4LJx63cmEPXCAgel1bjyW%2BXjB6dULGbPC%2BOvvmtgjoBgFiC%2BMIQDp5tQrTvO%2BkvWfyS4rqI7xOOCjudt2I8alEjcb%2Bq3EB91iKHPMZVnAISVGqqUskUGBAhz3HRqWVFnDszWbsUGMExdNQL9asve9%2B8dT4AcvBxV%2F8Zacrlp35GRGW0Y2%2By%2FT8VnZtjlolNp3eLnmz%2BHK",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/R5IAAOSwfghn2XOI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4n4AAOSw3Vdn2XOH/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "433.33",
+      "currency": "GBP"
+    },
+    "legacyItemId": "116525203104",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-18T13:42:40.000Z",
+    "itemCreationDate": "2025-03-18T13:42:40.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

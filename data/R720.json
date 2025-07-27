@@ -1,0 +1,545 @@
+[
+  {
+    "itemId": "v1|286729812321|0",
+    "title": "Dell PowerEdge R720 Rackmount Kit -2U R530 R720XD R730 R730XD R740XD - 061KCY B6",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/Cs0AAeSw6zBog1qb/s-l225.jpg"
+    },
+    "price": {
+      "value": "34.85",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286729812321%7C0",
+    "seller": {
+      "username": "server-and-networking-store",
+      "feedbackPercentage": "99.3",
+      "feedbackScore": 1077,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Cs0AAeSw6zBog1qb/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/286729812321?_skw=R720&hash=item42c26db961:g:Cs0AAeSw6zBog1qb",
+    "itemLocation": {
+      "postalCode": "ME14***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0gYAAeSwTadog1kL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4uoAAeSwJLJog1kK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0x4AAeSwnVZog1kK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6JUAAeSwqwxog1kK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7moAAeSwh-5og1kK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/96QAAeSw1~1og1kK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6woAAeSwNzdog1kK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-g8AAeSwGftog1kK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LNUAAeSwrDBog1kW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7rsAAeSwh-5og1kW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-moAAeSwFt1og1kW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6b4AAeSwWYZog1kW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3f8AAeSwR5tog1kW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5LoAAeSwaltog1kW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/8NoAAeSw9R1og1kW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9Y8AAeSwqAxog1kW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/88EAAeSwjApog1ql/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-j4AAeSwzqxog1ql/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/81UAAeSwaRZog1ql/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~A8AAeSw6Z5og1ql/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/8fYAAeSwXjxog1ql/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UuoAAeSw-KNog1ql/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5-UAAeSw7Khog1ql/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "34.85",
+      "currency": "GBP"
+    },
+    "legacyItemId": "286729812321",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-25T10:22:55.000Z",
+    "itemCreationDate": "2025-07-25T10:22:55.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|297485148017|0",
+    "title": "Dell PowerEdge R720 6-Core E5-2620v2 2.00GHz 256GB RAM H710P 2U Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/gLQAAOSwUZxoUYbs/s-l225.jpg"
+    },
+    "price": {
+      "value": "129.95",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C297485148017%7C0",
+    "seller": {
+      "username": "fixedasset-sales",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 8183,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gLQAAOSwUZxoUYbs/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "7.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "2256184369",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/297485148017?_skw=R720&hash=item45437f1f71:g:gLQAAOSwUZxoUYbs&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYPQYxiRNHMs9xvSWIKpHw0OrEuNup8my2kGoA06fIJqSWKPW%2Fg%2BE8IjDG1JLke3Zv0aoj04fpzkm5DUYZ3vXD0AlE%2FoLTo8GrSL7UpLYC5kM1fzkOZBmGDHkP12yDuiLNufOw%2FUxaCGi4IJUbu8GC58WSQyzcnDUW4EJDuzMeQrnFTi%2BKkrSn9%2FUKGi1XG1i1SHABxi5v288mqHChuNHEVqm6Vry6%2BLvMCoVsdbNqblfImakezsL2b%2FUzUYeIlw4KfGrIhzGBKJ7PGnb0BpZAF",
+    "itemLocation": {
+      "postalCode": "RG40***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UUEAAOSwIWZoUYby/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YUcAAOSwkEBoUYb3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9tAAAOSwEItoUYb~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dM8AAOSwxWloUYcC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KEQAAOSwA-VoUYcU/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oBwAAOSwW55oUYcW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FMcAAeSw7H5oUYYx/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CPkAAeSwuxhoUYYy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nwIAAOSwR-9oUYci/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LoIAAOSwaFRoUYcr/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/S9IAAOSwMwhoUYcy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wWsAAOSwunpoUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RIcAAOSw1rBoUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Na4AAOSwgxloUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OFcAAOSw2CVoUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~uIAAOSwSo5oUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rk8AAOSwDmloUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5hoAAOSwMdloUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qsMAAOSw6QJoUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zYYAAOSw09hoUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wecAAOSwkl5oUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/f2oAAOSw3gZoUUsB/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "297485148017",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-17T15:29:22.000Z",
+    "itemCreationDate": "2025-07-21T13:59:18.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|405456557334|0",
+    "title": "Dell PowerEdge R720xd Xeon E5-2650v2 2.6GHz 32GB H710 26x 2.5\" Bay 2U Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/HfIAAOSwS5dnI0cG/s-l225.jpg"
+    },
+    "price": {
+      "value": "228.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C405456557334%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HfIAAOSwS5dnI0cG/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "10031188285",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/405456557334?_skw=R720&hash=item5e67181516:g:HfIAAOSwS5dnI0cG&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua1D0KK%2BOxKFzn9vbtcaS5J4DbB5X%2Bv7gwYNVc0LPHtIntwq%2FPmG8lnVjQZy9Ex3prk7gRGB0L8HT7qMdHSfY%2FawbXusl3SMd2gr0iG5JRQMPQradgZ99feM2sONvn2T6lclj1VFjR5F9TW3k3AoLsN27U0KbV%2FnV4Klr2%2FLUJW2NK3FiO5frwJu%2B6Qi7DgMHrVxx97yULJERG26dVmjVVKm2S9kvcPKAcClybugfRFQ3%2BwjAkyAVBJKAwLi1%2FEcHYgSY1hjKKOP%2FqqaTfs0551",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "405456557334",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-11-02T09:08:04.000Z",
+    "itemCreationDate": "2025-01-04T08:24:28.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|155737663818|0",
+    "title": "DELL Poweredge R720XD 2x E5-2690v2 20-Core 3.00Ghz 96GB RAM H710P 24x 2.5\" CADDY",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/gpkAAOSwc61g8FkS/s-l225.jpg"
+    },
+    "price": {
+      "value": "359.89",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C155737663818%7C0",
+    "seller": {
+      "username": "anisatech",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 10344,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gpkAAOSwc61g8FkS/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-03T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/155737663818?_skw=R720&hash=item2442b0294a:g:gpkAAOSwc61g8FkS&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbefPDZFe8ZmLtt%2B3ddOaeZYtxyxuam3DJKezH%2FHvbDLAe9o4FXLEXwehJHktTKwGostXUzdK37ifzx10n0yeiOzfnWH7fJNJL5fGXJl0E8tcPOLHxnHPM%2FP39bCTXmxuvdvfXqJsb7xbGizqfLr54VnmEh0RS9dxH%2B6XyNBRl2%2F%2BlOoN0zjgcD8BWrIB1MDoOoAV24h40pKsmgrUT1DKZqAXw4Hpb7rK%2F9l%2FASgMvk62%2B5Oj8PTeA7ydQ4eTD%2FrIzPhKUNvYYQLoI4S31ZbMiC",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PMsAAOSwbl9g8Fll/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yBIAAOSwDTxg8FkJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PPgAAOSwTK5g8FkM/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/eGwAAOSwlYVhOQHJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~RIAAOSwubNg8FlI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WnoAAOSwybZk6PQ0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fAAAAOSwEFRk6PQ9/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/8SEAAOSwEIVk6PRG/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "155737663818",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-08-25T18:36:38.000Z",
+    "itemCreationDate": "2023-08-25T18:36:38.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|205200848348|0",
+    "title": "Dell 2U B6 Rails For PowerEdge R740 R740xd R730 R830 R720 R520 R510 R720XD R820",
+    "leafCategoryIds": [
+      "80216"
+    ],
+    "categories": [
+      {
+        "categoryId": "80216",
+        "categoryName": "Other Ent. Networking Racks"
+      },
+      {
+        "categoryId": "51197",
+        "categoryName": "Racks, Chassis & Patch Panels"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/BYcAAOSwml5ndk-S/s-l225.jpg"
+    },
+    "price": {
+      "value": "60.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C205200848348%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BYcAAOSwml5ndk-S/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/205200848348?_skw=R720&hash=item2fc6ec75dc:g:BYcAAOSwml5ndk-S",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/n88AAOSwzO5ndk-S/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "205200848348",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-01-03T06:43:15.000Z",
+    "itemCreationDate": "2025-01-03T06:43:15.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

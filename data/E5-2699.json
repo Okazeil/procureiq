@@ -1,0 +1,423 @@
+[
+  {
+    "itemId": "v1|156406586147|0",
+    "title": "Intel Xeon E5-2699 V4 22 Core 2.20Ghz 55MB 145W CPU Processor - SR2JS",
+    "leafCategoryIds": [
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/WSkAAOSw7OFm5E08/s-l225.jpg"
+    },
+    "price": {
+      "value": "139.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156406586147%7C0",
+    "seller": {
+      "username": "compuwyze_ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 840,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WSkAAOSw7OFm5E08/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-27T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156406586147?_skw=E5-2699&hash=item246a8f1b23:g:WSkAAOSw7OFm5E08",
+    "itemLocation": {
+      "postalCode": "PR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ma0AAOSwhKVm5E08/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "139.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "156406586147",
+    "availableCoupons": true,
+    "itemOriginDate": "2024-09-13T14:38:36.000Z",
+    "itemCreationDate": "2024-09-13T14:38:36.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|402890797864|0",
+    "title": "Intel Xeon E5-2699 V3 (SR1XD) 2.30GHz 18-Core LGA2011-3 CPU",
+    "leafCategoryIds": [
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/6XMAAeSwfTBoZemF/s-l225.jpg"
+    },
+    "price": {
+      "value": "37.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C402890797864%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6XMAAeSwfTBoZemF/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "727660598",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/402890797864?_skw=E5-2699&hash=item5dce29b328:g:6XMAAeSwfTBoZemF&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYo3gCBqu1WzvT7Vap8Ar2bZm%2F5r3t6cbUjNZN9TF4WV3mt2l9EExelZ45kSiXHzIwwWbpmjb5ewoTyL54mNUt3%2Bm9Qp5lNK5IYG9Dgj4QP66rYjGa3ml%2FD27IAMQcbpuCJ1bGFo%2BMhnQ2Ki%2BuK139oTpoNMptFS7j2P3pN6rvRShrvOCb8aoiwlnNDGQpJm7rFVXZA47X9Bdfq12mqCw1JmEGbPQVoyDHmG%2FG1VfRnXkOC8rZBwFE2KKfUWhcLZ7wsF7P9zWVyA2%2FOBjI0MHxf",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "402890797864",
+    "availableCoupons": true,
+    "itemOriginDate": "2021-06-01T16:19:29.000Z",
+    "itemCreationDate": "2021-06-01T16:19:29.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|296174868189|0",
+    "title": "Intel E5-2699v3 2.3Ghz 18C 45MB 145W CPU - SR1XD",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/vhcAAOSwfj1jMYpD/s-l225.jpg"
+    },
+    "price": {
+      "value": "45.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C296174868189%7C0",
+    "seller": {
+      "username": "procurrieurope",
+      "feedbackPercentage": "99.6",
+      "feedbackScore": 2684,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vhcAAOSwfj1jMYpD/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "727660598",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/296174868189?_skw=E5-2699&hash=item44f565d6dd:g:vhcAAOSwfj1jMYpD&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua7EyFqo6EkPFzcxn5Uq5bU3LjVYEiwAWQu79PeYxs%2F1dUgBZRWn4OZ89RIfqTqbfvAiCIFabruEeaiK7yTRXAb2OJ8W%2BbkgyOlPS%2FpieqDdvH%2FQ%2FUvV0nmCNZ20oUEloOA1OujQeI7bTme9ccx7iXFJchOT203AQShMSP%2B0%2F3NA7OLoQtiNwRbOgAEKlywifva6lap4nE%2FulUbEHoQUdVQkJiDwgr5Gvr2Sw3WIQbKztU7z1CH6vUqEfBOc3HDP%2ByxboUREHaFU0P5KnOPG5h%2F",
+    "itemLocation": {
+      "postalCode": "GL7***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "45.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "296174868189",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-09-26T11:21:58.000Z",
+    "itemCreationDate": "2024-01-19T17:42:33.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|235906669264|0",
+    "title": "Intel Xeon E5-2699-V4 CPU Processor 2.2 GHz 55MB Cache SR2JS FCLGA2011",
+    "leafCategoryIds": [
+      "164",
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/g00AAOSwfepnf7HW/s-l225.jpg"
+    },
+    "price": {
+      "value": "144.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C235906669264%7C0",
+    "seller": {
+      "username": "dr.memory",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 179577,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "originalPrice": {
+        "value": "210.00",
+        "currency": "GBP"
+      },
+      "discountPercentage": "31",
+      "discountAmount": {
+        "value": "65.01",
+        "currency": "GBP"
+      },
+      "priceTreatment": "LIST_PRICE"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/g00AAOSwfepnf7HW/s-l640.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/235906669264?_skw=E5-2699&hash=item36ed221ad0:g:g00AAOSwfepnf7HW&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYmsjKro6kXKBX7dm%2Fk8JjtfvTaoQCd8byCXrrH5ZduTovbwNz2Qca1zjYAoxETzTy%2Bjb%2FfNt6XI6Je0oZh4MH8mQTfU02KwVBniEpqbbe3QtC6wbvmPqsIfM1CSOalWCrMQ2%2F9fU8M9OIqnlLAsi1R4yzDbW2kCP7GjqMDp1D3F%2BugmQ258FnAH9Y71peC1F5ywr65D2pMovtAiF8GrIyCeoANDS3hORNaWoFiYYOo7q8keruBauusID5RB%2FRbqisLDXDuXG0Ms1Kij45lveMY",
+    "itemLocation": {
+      "postalCode": "M17***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/H58AAOSw-IRnf7HW/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "235906669264",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-01-09T11:20:49.000Z",
+    "itemCreationDate": "2025-01-09T11:20:49.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|326483191358|0",
+    "title": "Intel Xeon E5-2699 v3  SR1XD 2.3GHz 18-Core FCLGA2011 145W 45MB CPU",
+    "leafCategoryIds": [
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/DMQAAeSweWJoHI0g/s-l225.jpg"
+    },
+    "price": {
+      "value": "32.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326483191358%7C0",
+    "seller": {
+      "username": "towlersltd",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 10704,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DMQAAeSweWJoHI0g/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "727660598",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326483191358?_skw=E5-2699&hash=item4c03ea263e:g:DMQAAeSweWJoHI0g",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UiYAAeSwUzRoHI0g/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "326483191358",
+    "availableCoupons": true,
+    "itemOriginDate": "2025-03-12T12:42:33.000Z",
+    "itemCreationDate": "2025-03-12T12:42:33.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

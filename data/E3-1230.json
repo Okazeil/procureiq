@@ -1,0 +1,364 @@
+[
+  {
+    "itemId": "v1|256667161011|0",
+    "title": "Intel Xeon E3-1230v5 CPU 3.40GHz LGA1151",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/ESYAAOSw4rRm-YfU/s-l225.jpg"
+    },
+    "price": {
+      "value": "9.71",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256667161011%7C0",
+    "seller": {
+      "username": "thumperand2cats",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 782,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ESYAAOSw4rRm-YfU/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/256667161011?_skw=E3-1230&hash=item3bc28e11b3:g:ESYAAOSw4rRm-YfU",
+    "itemLocation": {
+      "postalCode": "NE12***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "256667161011",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-09-29T17:03:12.000Z",
+    "itemCreationDate": "2024-10-06T14:57:10.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|267343118567|0",
+    "title": "Intel Xeon E3-1230 V6 3.5 GHz LGA1151 CPU Processor SR328",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/3YUAAOSwalBn6RlJ/s-l225.jpg"
+    },
+    "price": {
+      "value": "10.78",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C267343118567%7C0",
+    "seller": {
+      "username": "dwsounds",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 357,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3YUAAOSwalBn6RlJ/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "2.72",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "17005707701",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/267343118567?_skw=E3-1230&hash=item3e3ee440e7:g:3YUAAOSwalBn6RlJ&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaB7q1OWodsD2AsG3L8Y3DJw5gP44REdb4JbBLUQalkliigjTV%2B5j0ah4lwZY0t--D%2FWHYvP1HhIH0hTis6%2Bw8M%2BV6VDPHtiClA5KUoKJqPAMETyCKBxIvHtZv3hQrsT9uVcI3SlcA6eZF%2FuJiNsEqRV5FpEZAz2Jtol1nkoMQ3RMfR7tFdVZPsNojsvdagXrlpK8cq%2F%2BWBLvk7jqkGUs09PreNWfwE0jPb2jlg%2BlNu4Aw6%2FThH3gXsl3kSu2pZPpcuycjrMExMqYhnaw6%2FaUMM",
+    "itemLocation": {
+      "postalCode": "IP20***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "267343118567",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-26T08:37:01.000Z",
+    "itemCreationDate": "2025-07-26T08:37:01.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|363112562323|0",
+    "title": "Fujitsu Primergy TX140 S2 Tower Server Quad-Core E3-1230v3 32GB Ram",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/ABsAAOSwOxBfOk2E/s-l225.jpg"
+    },
+    "price": {
+      "value": "228.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C363112562323%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ABsAAOSwOxBfOk2E/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/363112562323?_skw=E3-1230&hash=item548b31fe93:g:ABsAAOSwOxBfOk2E&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYPiXDa6cIhp2RSLY9xhqdITbDLjs5ywEt7zgNfYvqnPcVCE9Zi%2BoC4%2B0CyntGjSkzghkAvphwR%2FkaBqOBmUoUuEC98jnyZ5JDEyubx1XfCFUqwtay5zHuWQmHHGvqfYOrNMBofh4e4%2B4EG7XqetV6X5z5VZRHBUQ%2F7HYlkkiLintXp1UQA6lw9SfGf3FsOhMri%2FAu7LZgqZUo6KAnW%2FvbF4yicZNZrb2Pyvr1lCD4u0EXMTezgbrFg9hANYNMOYRheGqVdB2DFQM5u8mhDWRDQ",
+    "itemLocation": {
+      "postalCode": "WC1B***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "363112562323",
+    "availableCoupons": false,
+    "itemOriginDate": "2020-09-19T19:01:54.000Z",
+    "itemCreationDate": "2020-09-19T19:01:54.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|396630977478|0",
+    "title": "Intel Xeon E3-1230v2 SR0P4 3.30GHZ-Used",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/gfsAAOSws9BoJ~5d/s-l225.jpg"
+    },
+    "price": {
+      "value": "10.03",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C396630977478%7C0",
+    "seller": {
+      "username": "qinmeina",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 179,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gfsAAOSws9BoJ~5d/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/396630977478?_skw=E3-1230&hash=item5c590c6bc6:g:gfsAAOSws9BoJ~5d&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbYD8t6ZQOzZ7bZnY0hitiur%2FDajGE%2Fziu0LG5CzcyK%2BHw6ENmoZhvwlbRltH%2FuV4nOntJlq3jRMJcM%2FgKcVf%2BxPIHqBG5WFJwBi9%2Fkbt7ogvwE3ZC1h1zRcJe%2BhmPMhEDfeqxT8PBZ5aPEPjFufaz2SGA8KlPhcExaYplKCK9bKBDHbn8NV7N1eoy0%2Fs1sDNH%2Fpcztq9nl8Vk%2BzdUbbr0hhYzonGV1RN2VWwmmuj6%2BxyprsJIAYXU3LJm2fTu0Y8YRs5Wll8--Yn4LMisUV%2BB7",
+    "itemLocation": {
+      "postalCode": "******",
+      "country": "CN"
+    },
+    "adultOnly": false,
+    "legacyItemId": "396630977478",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-20T07:15:45.000Z",
+    "itemCreationDate": "2025-05-20T07:15:45.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|388114927917|0",
+    "title": "Intel Xeon Processor E3-1230V6. 8M Cache, 3.50 GHz",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/yywAAOSwnXBn2si5/s-l225.jpg"
+    },
+    "price": {
+      "value": "5.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388114927917%7C0",
+    "seller": {
+      "username": "benyoxall",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 89,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yywAAOSwnXBn2si5/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "6.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388114927917?_skw=E3-1230&hash=item5a5d73d12d:g:yywAAOSwnXBn2si5",
+    "itemLocation": {
+      "postalCode": "RH10***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mVwAAOSwNa9n2si4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/K38AAOSwksZn2si5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/F-0AAOSw0bhn2si4/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "0.13",
+      "currency": "GBP"
+    },
+    "legacyItemId": "388114927917",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-19T15:52:03.000Z",
+    "itemCreationDate": "2025-03-19T15:53:04.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

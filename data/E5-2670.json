@@ -1,0 +1,416 @@
+[
+  {
+    "itemId": "v1|256676915880|557012108501",
+    "title": "Matched Pair Intel Xeon E5-2697 V2 E5-2690 V2 E5-2680 V2 E5-2670 V2 LGA 2011 CPU",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=256676915880",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/G-QAAOSw5hFkShBO/s-l225.jpg"
+    },
+    "price": {
+      "value": "27.59",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256676915880%7C557012108501",
+    "seller": {
+      "username": "9hk9026",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 15669,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/G-QAAOSw5hFkShBO/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/256676915880?_skw=E5-2670&hash=item3bc322eaa8:g:G-QAAOSw5hFkShBO",
+    "itemLocation": {
+      "postalCode": "******",
+      "country": "CN"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5voAAOSwsR1kD8Xa/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jPkAAOSwp-lkD8Xf/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/L2MAAOSwTqVkD8Xm/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "256676915880",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-10-15T02:16:19.000Z",
+    "itemCreationDate": "2024-10-16T02:16:26.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|326400785190|0",
+    "title": "Intel Xeon E5 2670 CPU Processor LGA2011 SR0KX 8Cores 20MB Cache 3.30GHz",
+    "leafCategoryIds": [
+      "164",
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/PP4AAOSwT1xngTTG/s-l225.jpg"
+    },
+    "price": {
+      "value": "6.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326400785190%7C0",
+    "seller": {
+      "username": "dr.memory",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 179577,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "originalPrice": {
+        "value": "9.00",
+        "currency": "GBP"
+      },
+      "discountPercentage": "22",
+      "discountAmount": {
+        "value": "2.01",
+        "currency": "GBP"
+      },
+      "priceTreatment": "LIST_PRICE"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PP4AAOSwT1xngTTG/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "21003304316",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326400785190?_skw=E5-2670&hash=item4bff00bb26:g:PP4AAOSwT1xngTTG&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZT6%2FLl7WQT0cukBMH8lYhLB7nAylavLpssdhV%2BvCwqvfP90QJkGSoD0wUeXIu0Y2C4XZIDV3NvW8PVdZ2ZpfEUBhSpyyVz3RQ2xJQWBH2JzMRG9aatI5YVMEIh1s1lBuZdSkQ1MPfsOz%2Bck5OR0rNPE9pdp0XKMw4ffzamApYeC5rhZ1kP6Z75Kqm%2BRR%2BtY5X0Kx%2F7FeYXzGfN9wb93sKXHW5XHGZ9Ap8izO%2BAhuFLK5voxc34pzdB4PQ%2BV5Jl1zRxcmOZIdGrdP4mUueVXFWZ",
+    "itemLocation": {
+      "postalCode": "M17***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "326400785190",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-01-10T14:45:54.000Z",
+    "itemCreationDate": "2025-01-10T14:45:54.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|154244260350|0",
+    "title": "Matching Pair Intel Xeon E5-2670v2 10-Core 2.50GHz FCLGA2011 CPU Processor SR1A7",
+    "leafCategoryIds": [
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/NU0AAOSwD9Vf15iV/s-l225.jpg"
+    },
+    "price": {
+      "value": "194.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C154244260350%7C0",
+    "seller": {
+      "username": "anisatech",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 10344,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NU0AAOSwD9Vf15iV/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/154244260350?_skw=E5-2670&hash=item23e9aca1fe:g:NU0AAOSwD9Vf15iV&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbdXLc98vPPLOJHHu%2Bq0X7LMuBjxiSwM6F1mPLBWeVg7X2lGY%2BGhjsveJkX%2FW7aaYT417ZZn35nXzba%2Bob6Z9T%2FmzQ6O9pAEM0XSxtsVEHtOlun9iLxIsCxeVykfAJAkUGSDIKwW5wDXDFdwrM1%2BBg3bXFSGf1bRattNDnPtzXoixaeOnE5z5jxCQnzPxI6e%2FAmoE2IliROPQjyFIm7YKwSxKdMyK3SuQHVXTVYQnlBWIpiadh5oianpAZe5ttcBRKoqo0KEIxpoU4RxYMiku9W",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ef8AAOSwLttf15iW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OjIAAOSwjmFfuCPo/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "154244260350",
+    "availableCoupons": false,
+    "itemOriginDate": "2020-12-14T17:07:30.000Z",
+    "itemCreationDate": "2020-12-14T17:07:30.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|165836671225|0",
+    "title": "Intel Xeon E5-2670 v3 12-Core 3.10GHz 30MB 9.6GT/s LGA2011-3 CPU-Processor SR1XS",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/kh4AAOSwVJJf1ESq/s-l225.jpg"
+    },
+    "price": {
+      "value": "49.12",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C165836671225%7C0",
+    "seller": {
+      "username": "anisatech",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 10344,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/kh4AAOSwVJJf1ESq/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/165836671225?_skw=E5-2670&hash=item269ca2c8f9:g:kh4AAOSwVJJf1ESq&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYw08fy9kBCHr0DPq3M01fQKy0ssUcgO0G9MOYsHlzjI5gyvOzto7uT9QtzoffWoxvzVmdhmGuIMAz9XOX6CBuQHGTrWcNJJdj8fSgwd9RhUQ1EHBmY8sih91fKr9iEqtKWEFIQNBEQcnYUsXYQ1JZViHeL0XcBTqeW1x4wwLYaNv9%2F%2B9NgV8lVcxXSNMn2BSXWL38gYg84t2WkGMq4W31V%2B4bZd6d7x%2FfhVZhGoJDhA15Xe5Q65oDRmtAZz9evkQJ%2BGAeR3l3Ul%2Fi%2BhgTuHt%2Bq",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JWgAAOSwQPVf1ESs/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OjIAAOSwjmFfuCPo/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "165836671225",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-12-16T06:04:13.000Z",
+    "itemCreationDate": "2022-12-16T06:04:13.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|276366744769|0",
+    "title": "Intel Xeon CPU SR1A7 E5-2670 v2 25MB L3 Cache 2.5GHz 10C 8GT/s 115w",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/FqgAAOSwKkhl5yvs/s-l225.jpg"
+    },
+    "price": {
+      "value": "9.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276366744769%7C0",
+    "seller": {
+      "username": "systemsupplyindustriesltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 26363,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FqgAAOSwKkhl5yvs/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/276366744769?_skw=E5-2670&hash=item4058bddcc1:g:FqgAAOSwKkhl5yvs",
+    "itemLocation": {
+      "postalCode": "OX12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6REAAOSw8tBl5yvr/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yRYAAOSwwOVl5yvr/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "276366744769",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-03-05T14:28:26.000Z",
+    "itemCreationDate": "2024-03-05T14:28:26.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

@@ -1,0 +1,474 @@
+[
+  {
+    "itemId": "v1|277267330075|0",
+    "title": "Data Center GPU Server \u2013 2x NVIDIA A100 40GB, HPC & Gen AI Performance, HPC, ML",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/AiMAAOSwIDNoBPyd/s-l225.jpg"
+    },
+    "price": {
+      "value": "12593.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C277267330075%7C0",
+    "seller": {
+      "username": "contitel",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 2765,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AiMAAOSwIDNoBPyd/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-03T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/277267330075?_skw=Data+Center+Server&hash=item408e6bb41b:g:AiMAAOSwIDNoBPyd",
+    "itemLocation": {
+      "postalCode": "HX2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5fAAAOSw6v9oBPyc/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rOYAAOSwpCRoBPyj/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IfgAAOSwaMFoBPyd/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QIwAAOSwgiloBPyc/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/e2kAAOSwAyddG6u1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OHQAAOSwJHlf0TTW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qHkAAOSwnclf0TTa/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NaIAAOSwi3Bf0TTg/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WmkAAOSwUwFZ9bB1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5R0AAOSwsBloBPpF/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cbYAAOSw16xoBPpF/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IocAAOSwyuRoBPpF/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "277267330075",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-13T04:04:20.000Z",
+    "itemCreationDate": "2025-07-13T04:04:20.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|205421791155|0",
+    "title": "Microsoft Windows Server 2022 Datacenter 16 Core DVD",
+    "leafCategoryIds": [
+      "11226"
+    ],
+    "categories": [
+      {
+        "categoryId": "11226",
+        "categoryName": "Operating Systems"
+      },
+      {
+        "categoryId": "18793",
+        "categoryName": "Software"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/gikAAeSwKVRodjyk/s-l225.jpg"
+    },
+    "price": {
+      "value": "34.95",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C205421791155%7C0",
+    "seller": {
+      "username": "dost_1159",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 16,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gikAAeSwKVRodjyk/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/205421791155?_skw=Data+Center+Server&hash=item2fd417c7b3:g:gikAAeSwKVRodjyk&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ua1LCyal561sIcQWH9lDLmeEA60ai%2Bb75mbtnVBFlA1ZXJuWSsnPVWSlQ85vnwgm%2FIDfx%2Fts0sdArEtBautS9dXuMJPrkuJ4wD9UwWk3uy5vblqOQoLyqnGlKFVWm5yJ7DJ6JHCfsmenEaJVkpLZnohW%2FoFCXAHnlGeoYnuD1rD9h9oJxASAH6qILpi0LrqarDdBKqndhSUHGu9FGPM38nKHdlfqr6HM2vdgyhnlVVSvcIr25YiaoKPps2aT8ltuCGra5Rav%2F1ELu8TdwuddU37Ecv%2BF6ZZHXa5EPt0moYiSQ%3D%3D",
+    "itemLocation": {
+      "postalCode": "NR3***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "205421791155",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-04-04T18:28:27.000Z",
+    "itemCreationDate": "2025-04-15T11:32:37.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|256850537083|0",
+    "title": "Microsoft Windows server 2022 datacenter 48 Core Unlimited Cals COA & DVD PACK",
+    "leafCategoryIds": [
+      "11226"
+    ],
+    "categories": [
+      {
+        "categoryId": "11226",
+        "categoryName": "Operating Systems"
+      },
+      {
+        "categoryId": "18793",
+        "categoryName": "Software"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/ytsAAOSw7PBnxiFZ/s-l225.jpg"
+    },
+    "price": {
+      "value": "52.67",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256850537083%7C0",
+    "seller": {
+      "username": "mrbargains-97",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 237,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ytsAAOSw7PBnxiFZ/s-l960.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "20052965009",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/256850537083?_skw=Data+Center+Server&hash=item3bcd7c2a7b:g:ytsAAOSw7PBnxiFZ&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYA7YPEDZ2BMQQXnWZTQm086wfe9T8DcvDpX%2BMvsr4SIei0CtWnxuHdzgaRbFry7AjT8bBKOK03Mf1D3xebuYeytR%2F6sWUclv%2FS%2BrKGKkV0eNkG97XiUg5ntHHKltKXkJzv3xtz3UrroE3eyK1sw3FK3weDB6DxkwdoffZPZhIxfSv7bMBDJdspZdrzicsZ9x18KfEhGYzcmQO6fCwzTY3xWy94x%2B6hcQ%2FwIURl1AEsYiGDdc%2Bbns5s%2FGSTwQO8bTvsvp3KUaxLmvwTc0xxuGCCppGK9c6%2FfoGCUKeHYJ5D2Q%3D%3D",
+    "itemLocation": {
+      "postalCode": "OL8***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "256850537083",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-09T22:48:06.000Z",
+    "itemCreationDate": "2025-03-09T22:48:06.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|116467426466|0",
+    "title": "Data Center Server, Supermicro 5017C-URF 1U, 16GB RAM, Rack-mount",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/6ZUAAeSwRFtoEhZB/s-l225.jpg"
+    },
+    "price": {
+      "value": "27.95",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C116467426466%7C0",
+    "seller": {
+      "username": "nomorewaste",
+      "feedbackPercentage": "97.9",
+      "feedbackScore": 4028,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6ZUAAeSwRFtoEhZB/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "110.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/116467426466?_skw=Data+Center+Server&hash=item1b1dffe4a2:g:6ZUAAeSwRFtoEhZB&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZF4TXDId%2BlwDTerQ%2BDJM4CsrUKbu53UBGSakDnEdW%2Fav5YGOhODROkyHSprwryBrAVcReJp9dZuMW8FgxNTUZwMWA%2Fi2xdwzhjfhKspSmWwJaO%2F%2Bcor4VWNt2Fnx3HRorHSl7wCJla8GWfzNTHySsciwgASDADxS5SoZgLwVXawVab70oM7NsiU04eaWNYlGpIqWJ2yydZDyHLWkOhIwCDKjHHbQjfnOcBBPbUMOX9iZ0kf5RNS0bpTHZPBKITkoyzcP6JJtqwHTGYqUP9MbUJl6GH5rFteua5ASc2PmwFsg%3D%3D",
+    "itemLocation": {
+      "postalCode": "CR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TykAAeSwKcFoEhZB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PnAAAeSwpt5oEhZB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zMEAAeSwfMxoEhZB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vrYAAeSwGOZoEhZB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/uBAAAeSwOTBoEhZB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nZQAAeSwWXpoEhZB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Lh8AAeSwFstoEhZB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TKQAAeSweBRoEhZB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/uBEAAeSwOTBoEhZB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/t6kAAeSwvaVoEhZB/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "27.95",
+      "currency": "GBP"
+    },
+    "legacyItemId": "116467426466",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-12-19T13:29:32.000Z",
+    "itemCreationDate": "2025-02-04T16:44:29.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|277048538217|0",
+    "title": "NVIDIA T4 data center GPU Server AI machine learning deep learning CUDA RT cores",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/0fAAAOSw2LNoA33V/s-l225.jpg"
+    },
+    "price": {
+      "value": "1395.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C277048538217%7C0",
+    "seller": {
+      "username": "contitel",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 2765,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0fAAAOSw2LNoA33V/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-03T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/277048538217?_skw=Data+Center+Server&hash=item4081613469:g:0fAAAOSw2LNoA33V",
+    "itemLocation": {
+      "postalCode": "HX2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iQkAAOSw75NoA34C/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4i4AAOSwtx1mjhl4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/pbIAAOSwBo5mj6Tw/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MjkAAOSw7mJmj6Sb/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/y-EAAOSw8Mhmj6Sb/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QZsAAOSwJ4FmjWFG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zw0AAOSwDb5fYyaq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dZMAAOSw16xoA33n/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/F3oAAOSwuVFoA32v/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/70wAAOSwID9oA32v/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9UQAAOSwQY1oA32v/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DvQAAOSwngJoA4MA/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "277048538217",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-04-19T11:13:49.000Z",
+    "itemCreationDate": "2025-04-19T11:13:49.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "itemId": "v1|376390398497|0",
+    "title": " Server RAM Samsung 16GB DDR4-2133 RDIMM PC4-17000P-R ",
+    "leafCategoryIds": [
+      "11210"
+    ],
+    "categories": [
+      {
+        "categoryId": "11210",
+        "categoryName": "Server Memory (RAM)"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/K3QAAeSwOohobMaW/s-l225.jpg"
+    },
+    "price": {
+      "value": "10.78",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C376390398497%7C0",
+    "seller": {
+      "username": "weee-37",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 3,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/K3QAAeSwOohobMaW/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "2.70",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "906180547",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/376390398497?_skw=Server+RAM&hash=item57a29db221:g:K3QAAeSwOohobMaW",
+    "itemLocation": {
+      "postalCode": "NN16***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "376390398497",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-08T07:24:11.000Z",
+    "itemCreationDate": "2025-07-08T07:25:12.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|187312756595|0",
+    "title": "4X Samsung  16GB 2400 Server RAM M393A2G40EB1-CRC PC4 Memory Module | 64GB TOTAL",
+    "leafCategoryIds": [
+      "170083"
+    ],
+    "categories": [
+      {
+        "categoryId": "170083",
+        "categoryName": "Memory (RAM)"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/4fIAAOSwM9Fn9QkO/s-l225.jpg"
+    },
+    "price": {
+      "value": "49.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C187312756595%7C0",
+    "seller": {
+      "username": "anisatech",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 10344,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4fIAAOSwM9Fn9QkO/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/187312756595?_skw=Server+RAM&hash=item2b9cb5d773:g:4fIAAOSwM9Fn9QkO&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbJrpLS%2FiCSo5s%2F23N1ND%2Bb1K9OOLOhV9vjiz%2BP7E130X1ewzV2x4%2B8HNrTY8hfeQ%2FqbJqfRrzFyNAu8KY531i70EfkfZkUVJbM8SqPiXBFN9yB9ECGg3K0PBR6hvSiUJqFvFss5loWRvoOI6RWAubOpecUNlyGRsbbtLYRkLgubM5JX4IQdPCJ2m9FMZ9Um%2BcPzkBBI8lRyfJGLSH2UD4vpWJmg4J0BjMQ0Uxb8d0fXfGCb0NehjF%2BFuAhC96kvTgGSPvM2nGIdf6HDNC5dc0ZBAopSCGHqak0Br%2FsM3abeg%3D%3D",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Oa0AAOSwgYxn9QkX/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "187312756595",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-09T11:54:15.000Z",
+    "itemCreationDate": "2025-06-09T11:54:15.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|376226010625|644938241181",
+    "title": "Genuine SAMSUNG 16GB/32GB/64GB DDR3 Server RAM ( M393B2G70BH0-CK0Q9 ) PC3-12800R",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=376226010625",
+    "leafCategoryIds": [
+      "170083"
+    ],
+    "categories": [
+      {
+        "categoryId": "170083",
+        "categoryName": "Memory (RAM)"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/uTUAAOSwXw5oGfhB/s-l225.jpg"
+    },
+    "price": {
+      "value": "11.95",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C376226010625%7C644938241181",
+    "seller": {
+      "username": "think_tech_it",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 1704,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/uTUAAOSwXw5oGfhB/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/376226010625?_skw=Server+RAM&hash=item5798d15601:g:uTUAAOSwXw5oGfhB&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ub43DnAN8qhOJ8cuRuVvB14ocRUw6APN0rUTNFSm1%2FczVpdsxVJVZB8wYEpiLvxozCUwbbSllbRZUCORxVfOI8KS0HrY25IFIs45FdBPawVKLUd%2BnCWtVjhbWE5at1v6FnPtTBxUjAtcApWLbh9JOYFQ9GtM0foNZLeXZHrcL%2FTrWpMupBrQiGI5z6AGmVSXrrpW%2FmnfKtx4Algxb0HnpvusBL5Mz4E4vOeAw55DokpemvzaZWwa1S44qgbYN9U1oTAARePk5hdf9kVAdxC79CYiofOLeGu0MFp--e3EsEyBw%3D%3D",
+    "itemLocation": {
+      "postalCode": "DE14***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "376226010625",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-06T11:59:40.000Z",
+    "itemCreationDate": "2025-05-06T11:59:40.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|177227263872|0",
+    "title": "32GB Kit (2x 16GB) DDR3 1600MHZ ECC SERVER RAM PLEASE READ DESCRIPTION HP",
+    "leafCategoryIds": [
+      "11210"
+    ],
+    "categories": [
+      {
+        "categoryId": "11210",
+        "categoryName": "Server Memory (RAM)"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/wCMAAeSwTiZoJP23/s-l225.jpg"
+    },
+    "price": {
+      "value": "15.06",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C177227263872%7C0",
+    "seller": {
+      "username": "westlands95",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 156,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wCMAAeSwTiZoJP23/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "2.70",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/177227263872?_skw=Server+RAM&hash=item2943916f80:g:wCMAAeSwTiZoJP23&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uazz0renwzkd7q8weuPFLe9mg%2BMZ7HpwkI6rXITerNoGiZxzZH54QIG96hszv5MhLZxr%2F1hlqaGj%2F1ffppOOnNYdk%2Fupts0Vfma1GLWM4j7b0jIVHI0jgSJIDEEAamUc8FRDCjgxVXFC6Zgv3lpqr%2BuBBNyCAbdOWdio1Up%2B4B8f30ZSrdGEwJd99oPgV7A4PcHYLRwlxCqPwha0BLrhsdWjdJF1FA9iLd6CEBa9Ky8ks9%2Bfja0yZn9eMP6zabNpMp8WrlKFco0HRvhvv30l3M7",
+    "itemLocation": {
+      "postalCode": "RH13***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nigAAeSw7OVoJP22/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "15.06",
+      "currency": "GBP"
+    },
+    "legacyItemId": "177227263872",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-14T20:42:55.000Z",
+    "itemCreationDate": "2025-06-27T17:01:37.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|256996653735|0",
+    "title": "SK Hynix 32GB 2Rx4 PC4-2400T HMA84GR7MFR4N - UH TD AA Server RAM",
+    "leafCategoryIds": [
+      "11210"
+    ],
+    "categories": [
+      {
+        "categoryId": "11210",
+        "categoryName": "Server Memory (RAM)"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/LJIAAeSw7DloYnP5/s-l225.jpg"
+    },
+    "price": {
+      "value": "21.48",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256996653735%7C0",
+    "seller": {
+      "username": "it-rebourne",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 1359,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LJIAAeSw7DloYnP5/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "2173258993",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/256996653735?_skw=Server+RAM&hash=item3bd631baa7:g:LJIAAeSw7DloYnP5",
+    "itemLocation": {
+      "postalCode": "BN12***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "256996653735",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-30T11:26:48.000Z",
+    "itemCreationDate": "2025-06-30T11:26:48.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "itemId": "v1|335833979265|0",
+    "title": "Brake Pads For Mercedes M-Class W166 ML 350 BlueEfficiency Bosch Rear 0064203320",
+    "leafCategoryIds": [
+      "57357"
+    ],
+    "categories": [
+      {
+        "categoryId": "57357",
+        "categoryName": "Brake Pads"
+      },
+      {
+        "categoryId": "6030",
+        "categoryName": "Car Parts & Accessories"
+      },
+      {
+        "categoryId": "33559",
+        "categoryName": "Brakes & Brake Parts"
+      },
+      {
+        "categoryId": "131090",
+        "categoryName": "Vehicle Parts & Accessories"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/xGwAAOSwcXJnvsx7/s-l225.jpg"
+    },
+    "price": {
+      "value": "33.80",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C335833979265%7C0",
+    "seller": {
+      "username": "red..line",
+      "feedbackPercentage": "99.1",
+      "feedbackScore": 414453,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xGwAAOSwcXJnvsx7/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/335833979265?_skw=ML350&hash=item4e3143d981:g:xGwAAOSwcXJnvsx7",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SY4AAOSwH4tnvsx8/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XsEAAOSwBLFnrc~E/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dw0AAOSwd25nqcp6/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9PsAAOSwNlJnqcp8/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PfUAAOSwEUFnqcp-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zEsAAOSwn9RnqcqB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bdwAAOSwJgpnqcqD/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TGIAAOSwsUxnqcqF/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "335833979265",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-02-26T21:14:43.000Z",
+    "itemCreationDate": "2025-02-26T21:14:43.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|187368095904|0",
+    "title": "2015 MERCEDES-BENZ M CLASS ML 350 400 550 63 AMG OWNERS MANUAL Set",
+    "leafCategoryIds": [
+      "183718"
+    ],
+    "categories": [
+      {
+        "categoryId": "183718",
+        "categoryName": "Owner & Operator Manuals"
+      },
+      {
+        "categoryId": "6000",
+        "categoryName": "eBay Motors"
+      },
+      {
+        "categoryId": "6028",
+        "categoryName": "Parts & Accessories"
+      },
+      {
+        "categoryId": "6029",
+        "categoryName": "Manuals & Literature"
+      },
+      {
+        "categoryId": "36085",
+        "categoryName": "Car & Truck Manuals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/aSwAAeSwul1oXavN/s-l225.jpg"
+    },
+    "price": {
+      "value": "58.79",
+      "currency": "GBP",
+      "convertedFromValue": "79.00",
+      "convertedFromCurrency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C187368095904%7C0",
+    "seller": {
+      "username": "truckbedbooks",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 21316
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/aSwAAeSwul1oXavN/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "CALCULATED",
+        "shippingCost": {
+          "value": "19.33",
+          "currency": "GBP",
+          "convertedFromValue": "25.98",
+          "convertedFromCurrency": "USD"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/187368095904?_skw=ML350&hash=item2ba00240a0:g:aSwAAeSwul1oXavN",
+    "itemLocation": {
+      "city": "Cortland",
+      "stateOrProvince": "OH",
+      "postalCode": "444**",
+      "country": "US"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7PoAAeSwAk9oXavN/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BAEAAeSwp8ZoXavO/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "187368095904",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-26T20:21:57.000Z",
+    "itemCreationDate": "2025-06-26T20:21:57.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false
+  },
+  {
+    "itemId": "v1|236168731850|0",
+    "title": "X2 PCS FRONT BRAKE DISC SET LEFT AND RIGHT 92260405 TEXTAR I",
+    "leafCategoryIds": [
+      "33564"
+    ],
+    "categories": [
+      {
+        "categoryId": "33564",
+        "categoryName": "Brake Disc Rotors"
+      },
+      {
+        "categoryId": "6030",
+        "categoryName": "Car Parts & Accessories"
+      },
+      {
+        "categoryId": "33559",
+        "categoryName": "Brakes & Brake Parts"
+      },
+      {
+        "categoryId": "131090",
+        "categoryName": "Vehicle Parts & Accessories"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/~o4AAeSwexZoY6YT/s-l225.jpg"
+    },
+    "price": {
+      "value": "168.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236168731850%7C0",
+    "seller": {
+      "username": "koratrade_autoteile",
+      "feedbackPercentage": "99.1",
+      "feedbackScore": 4287,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~o4AAeSwexZoY6YT/s-l640.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-03T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "249397499",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/236168731850?_skw=ML350&hash=item36fcc0dcca:g:~o4AAeSwexZoY6YT",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4EwAAeSwJhFoY6YT/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wk8AAeSws~toY6YT/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "236168731850",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-26T20:22:42.000Z",
+    "itemCreationDate": "2025-06-26T20:22:42.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|294034977980|0",
+    "title": "1x SACHS Rear SHOCK ABSORBER for MERCEDES M-Class ML350 BlueTEC 4matic 2011-on",
+    "leafCategoryIds": [
+      "33590",
+      "262228"
+    ],
+    "categories": [
+      {
+        "categoryId": "33590",
+        "categoryName": "Shocks, Struts & Assemblies"
+      },
+      {
+        "categoryId": "262228",
+        "categoryName": "Shock & Strut Mounts"
+      },
+      {
+        "categoryId": "6030",
+        "categoryName": "Car Parts & Accessories"
+      },
+      {
+        "categoryId": "33579",
+        "categoryName": "Steering & Suspension"
+      },
+      {
+        "categoryId": "131090",
+        "categoryName": "Vehicle Parts & Accessories"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/MWQAAOSw8exieoMF/s-l225.jpg"
+    },
+    "price": {
+      "value": "183.91",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C294034977980%7C0",
+    "seller": {
+      "username": "a2zmotorspares",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 58355,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "originalPrice": {
+        "value": "239.99",
+        "currency": "GBP"
+      },
+      "discountPercentage": "23",
+      "discountAmount": {
+        "value": "56.08",
+        "currency": "GBP"
+      },
+      "priceTreatment": "LIST_PRICE"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MWQAAOSw8exieoMF/s-l640.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-31T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/294034977980?_skw=ML350&hash=item4475d9b4bc:g:MWQAAOSw8exieoMF",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NrQAAOSwLcBiepk3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qpwAAOSw19JeKDn4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6sIAAOSwS8Ziepk3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2JIAAOSw4DxgFUQF/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1kcAAOSwuwtgFUPl/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QMAAAOSwXuFgFUPp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yWsAAOSwABdgFUP2/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "294034977980",
+    "availableCoupons": false,
+    "itemOriginDate": "2021-02-26T21:23:34.000Z",
+    "itemCreationDate": "2021-02-26T21:23:34.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|294034979084|0",
+    "title": "1x SACHS BOGE Rear SHOCK ABSORBER for MERCEDES M-Class ML350 4matic 2011-on",
+    "leafCategoryIds": [
+      "33590",
+      "262228"
+    ],
+    "categories": [
+      {
+        "categoryId": "33590",
+        "categoryName": "Shocks, Struts & Assemblies"
+      },
+      {
+        "categoryId": "262228",
+        "categoryName": "Shock & Strut Mounts"
+      },
+      {
+        "categoryId": "6030",
+        "categoryName": "Car Parts & Accessories"
+      },
+      {
+        "categoryId": "33579",
+        "categoryName": "Steering & Suspension"
+      },
+      {
+        "categoryId": "131090",
+        "categoryName": "Vehicle Parts & Accessories"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/MWQAAOSw8exieoMF/s-l225.jpg"
+    },
+    "price": {
+      "value": "183.91",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C294034979084%7C0",
+    "seller": {
+      "username": "a2zmotorspares",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 58355,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "originalPrice": {
+        "value": "239.99",
+        "currency": "GBP"
+      },
+      "discountPercentage": "23",
+      "discountAmount": {
+        "value": "56.08",
+        "currency": "GBP"
+      },
+      "priceTreatment": "LIST_PRICE"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MWQAAOSw8exieoMF/s-l640.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-31T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/294034979084?_skw=ML350&hash=item4475d9b90c:g:MWQAAOSw8exieoMF",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/q6MAAOSwHSxiepk8/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qpwAAOSw19JeKDn4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/za4AAOSwlPpiepk9/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2JIAAOSw4DxgFUQF/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1kcAAOSwuwtgFUPl/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QMAAAOSwXuFgFUPp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yWsAAOSwABdgFUP2/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "294034979084",
+    "availableCoupons": false,
+    "itemOriginDate": "2021-02-26T21:24:06.000Z",
+    "itemCreationDate": "2021-02-26T21:24:06.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

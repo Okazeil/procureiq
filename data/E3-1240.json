@@ -1,0 +1,433 @@
+[
+  {
+    "itemId": "v1|356165743175|0",
+    "title": "INTEL XEON E3-1240 V2 - QUAD CORE CPU - 3.40GHZ - SR0P5",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/5nYAAOSwRAVnH3JM/s-l225.jpg"
+    },
+    "price": {
+      "value": "15.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C356165743175%7C0",
+    "seller": {
+      "username": "parts_4_it_uk",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 6698,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5nYAAOSwRAVnH3JM/s-l640.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1739436828",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/356165743175?_skw=E3-1240&hash=item52ed21f247:g:5nYAAOSwRAVnH3JM",
+    "itemLocation": {
+      "postalCode": "RH19***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "356165743175",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-10-18T14:40:43.000Z",
+    "itemCreationDate": "2024-10-18T14:40:43.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|257010437461|0",
+    "title": "Intel Xeon E3-1240 v3 3.40 GHz Socket LGA1150 Processor CPU (SR152)",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/bn8AAeSwlxtob3JP/s-l225.jpg"
+    },
+    "price": {
+      "value": "12.74",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C257010437461%7C0",
+    "seller": {
+      "username": "pro-avit.london",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 70829,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "originalPrice": {
+        "value": "14.99",
+        "currency": "GBP"
+      },
+      "discountPercentage": "15",
+      "discountAmount": {
+        "value": "2.25",
+        "currency": "GBP"
+      },
+      "priceTreatment": "LIST_PRICE"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bn8AAeSwlxtob3JP/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "26051713638",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/257010437461?_skw=E3-1240&hash=item3bd7040d55:g:bn8AAeSwlxtob3JP&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaBLFeryGYgA0NsZBGRs8ps4xGPAg70Ok3UB0bvhA6lw9WUfqqRe8jKQ5JKozOwIY1Gi0TQhHXpKt%2F0IjzohgsPH98ntgTXI04MvU2mVrSL%2Fm04Vm5d1kPy3Toj4FYh%2Bssb7xTh9MLzTCpiGpifmE4HZuuLrVsXLDmTX0%2FOrYxcKFmQjdd0UgrCA6EpjHDDJeTm8X2Zk5w1mQ4DRaqGWhO4YTjxlJvwd1hSNq%2FvkVwSpPVxGg%2FVMCrtA4ACVtdUaZcjzyIUqm7luIIW6%2B4eN1N%2B",
+    "itemLocation": {
+      "postalCode": "RG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XQAAAeSw7Plob3JP/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "257010437461",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-10T07:54:28.000Z",
+    "itemCreationDate": "2025-07-10T07:54:28.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|225984178765|525085573993",
+    "title": "Intel Xeon E3-1225 / 1240 / 1245 / 1271 CPU @3.5Ghz LGA1151- SR00L SR2LD SR2LJ",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=225984178765",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/TaAAAOSwB4Zlu3-2/s-l225.jpg"
+    },
+    "price": {
+      "value": "19.99",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C225984178765%7C525085573993",
+    "seller": {
+      "username": "pcs4alluk-outlet",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 4042,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TaAAAOSwB4Zlu3-2/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/225984178765?_skw=E3-1240&hash=item349db4ea4d:g:TaAAAOSwB4Zlu3-2&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbmKViWOlW%2B3vflaO7b8t%2FdmenfdmReruD4ZHVwlz%2Ft6EjXyqJSbU5ZZmPS7Rzz0xelAlBAL23PT4FVR5JDJoT9KIDbf5XMSzlGovcBWV86ejynaMuuG8wuSPZ3R2u6s2D19bih%2BwTwX6m5ro5e4e%2FVN0%2Ff87SAETx%2BBqaoT9vyVQVVmIV65g%2FoGeiQwN93UcaJfjcnv0d0cYUCVGY8iPu0sfigj8UK%2BYcQ%2FwX71GdOjNOzd4mGJ0ZNvZL60BFGuvytLDsufshev%2F8H8q3NJ8tA",
+    "itemLocation": {
+      "postalCode": "B5***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GscAAOSwZz5lsP0R/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BlEAAOSw~e9lsP0W/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "225984178765",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-02-01T11:33:31.000Z",
+    "itemCreationDate": "2024-02-01T11:33:31.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|257034564288|0",
+    "title": "Dell Precision T1700 Windows 11 Xeon E3 1240 v3 16GB 256GB SSD Quadro K600 WiFi",
+    "leafCategoryIds": [
+      "179"
+    ],
+    "categories": [
+      {
+        "categoryId": "179",
+        "categoryName": "PC Desktops & All-in-Ones"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "171957",
+        "categoryName": "Desktops & All-in-Ones"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/~BYAAOSw43hnijC2/s-l225.jpg"
+    },
+    "price": {
+      "value": "84.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C257034564288%7C0",
+    "seller": {
+      "username": "bluecybercow",
+      "feedbackPercentage": "99.9",
+      "feedbackScore": 14039,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~BYAAOSw43hnijC2/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-27T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/257034564288?_skw=E3-1240&hash=item3bd87432c0:g:~BYAAOSw43hnijC2&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UahSPrnY73UliDz3VdGhI4ZivnP7GriJISM5O%2BmV6peUDGRPXGPRmNyNULII26rz63vk3k8ViiWIldjzCYBC58OwQ%2BpU9wuyCbjOcY7OSVN%2BqVaELJGePQFJADrEY9qtVX%2B02YIMmkJm1Ue2SitOsKWXThGURcCv0VHhDBdOpTtfXk2I6ibOR5ZTrpnoEeM3dFdiaVTuBvWUextiGHZmyTK%2F0XVqcE7z3pdo06eqiszMVAuyju%2BHOJhUvEAx3I8hTMoiCR3DYAB4886LqwhapTd",
+    "itemLocation": {
+      "postalCode": "CH3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/m74AAOSw~bpnijC3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZyIAAOSwVf5nijDM/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/J3YAAeSwQtlog311/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1LAAAeSwD6dog312/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xY0AAeSwTF1og32~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3HUAAeSwf-log32-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ryoAAeSw0eBog32-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/t4kAAeSwFM9og311/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZRsAAeSwTTVog311/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/t4UAAeSwFM9og310/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/090AAeSwWTRog311/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2YwAAeSwlItog311/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0qUAAeSwTwlog310/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zuAAAeSwToxog311/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Q-QAAOSwlz9nijC6/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TFsAAOSwzkFnijC7/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "84.99",
+      "currency": "GBP"
+    },
+    "legacyItemId": "257034564288",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-25T12:52:01.000Z",
+    "itemCreationDate": "2025-07-25T12:52:01.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|355833837659|0",
+    "title": "INTEL XEON E3-1240 V3 - QUAD CORE CPU - 3.40GHZ - SR152 - DISCOUNTS FOR BULK",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/7pkAAOSwOvZmgqH1/s-l225.jpg"
+    },
+    "price": {
+      "value": "15.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C355833837659%7C0",
+    "seller": {
+      "username": "parts_4_it_uk",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 6698,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7pkAAOSwOvZmgqH1/s-l640.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "26051713638",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/355833837659?_skw=E3-1240&hash=item52d959785b:g:7pkAAOSwOvZmgqH1",
+    "itemLocation": {
+      "postalCode": "RH19***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "355833837659",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-07-01T12:40:37.000Z",
+    "itemCreationDate": "2024-07-01T12:40:37.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

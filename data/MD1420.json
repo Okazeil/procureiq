@@ -1,0 +1,423 @@
+[
+  {
+    "itemId": "v1|326677679506|0",
+    "title": "Dell PowerVault MD1420 24xSFF Storage Array 2x SAS Controller - MD1420",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/N3AAAeSweN9obdgh/s-l225.jpg"
+    },
+    "price": {
+      "value": "367.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326677679506%7C0",
+    "seller": {
+      "username": "towlersltd",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 10704,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Good - Refurbished",
+    "conditionId": "2030",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/N3AAAeSweN9obdgh/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "26068665445",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326677679506?_skw=MD1420&hash=item4c0f81cd92:g:N3AAAeSweN9obdgh",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fW4AAeSwpg1obdgh/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/z1wAAeSw3tRobdgh/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/550AAeSwEZlobdgh/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "326677679506",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-09T02:42:26.000Z",
+    "itemCreationDate": "2025-07-09T02:42:26.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|406002046015|0",
+    "title": "Dell PowerVault 2U Rail Kit  For MD1200/MD1220/MD3200/MD1400/MD1420",
+    "leafCategoryIds": [
+      "80216"
+    ],
+    "categories": [
+      {
+        "categoryId": "80216",
+        "categoryName": "Other Ent. Networking Racks"
+      },
+      {
+        "categoryId": "51197",
+        "categoryName": "Racks, Chassis & Patch Panels"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/aFQAAOSw6wNnLJY0/s-l225.jpg"
+    },
+    "price": {
+      "value": "54.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C406002046015%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/aFQAAOSw6wNnLJY0/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/406002046015?_skw=MD1420&hash=item5e879b943f:g:aFQAAOSw6wNnLJY0",
+    "itemLocation": {
+      "postalCode": "WC1B***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/VHcAAOSwwWRnLJY0/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "406002046015",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-27T19:50:19.000Z",
+    "itemCreationDate": "2025-06-27T19:50:19.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|157095716987|0",
+    "title": "Dell PowerVault MD1420 24xSFF Storage Array 2x SAS Controller Rail Kit 24*600gb",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/cDsAAOSwtrtmfF6Z/s-l225.jpg"
+    },
+    "price": {
+      "value": "699.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C157095716987%7C0",
+    "seller": {
+      "username": "colindalerabbit",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 5818,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cDsAAOSwtrtmfF6Z/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "26068665445",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/157095716987?_skw=MD1420&hash=item2493a2687b:g:cDsAAOSwtrtmfF6Z",
+    "itemLocation": {
+      "postalCode": "NN15***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~~AAAOSwiYJmfF6Y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gMAAAOSwOMFmfF6a/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XbkAAOSwaalmfF6d/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/K5YAAOSw-yNmfF6d/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JX8AAOSwKWBmfF6e/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SYgAAOSwZzhmfF6e/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "157095716987",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-06-27T08:13:31.000Z",
+    "itemCreationDate": "2025-06-14T12:19:56.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|404964085752|0",
+    "title": "NEW Dell PowerVault MD1420 2U Front Bezel Faceplate With Key M3CD1 0M3CD1",
+    "leafCategoryIds": [
+      "56092"
+    ],
+    "categories": [
+      {
+        "categoryId": "56092",
+        "categoryName": "Other Ent. Server Components"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/VF8AAOSwtnlmOj54/s-l225.jpg"
+    },
+    "price": {
+      "value": "36.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C404964085752%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/VF8AAOSwtnlmOj54/s-l960.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/404964085752?_skw=MD1420&hash=item5e49bd8ff8:g:VF8AAOSwtnlmOj54&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ub1QQke45tAwvB67icYwyD5ePI%2ByScaZgan3BlcLUBpuxFwUNYBUnq5lxqXPusgVFRmyZJ7qLjM%2Bttw9cAB5Y0TI9w5COp%2BXI13v1P%2F9iFUsa%2BVI5hfKOFBYAQeBwPCrwi9BbWMCBMkB%2BX6MdOhOvv9fillg1eEpVvJGT1rXHVhHy8HGD0irsqzNAtwwGHdrYvLsC3JVgxzOqnbtK7AVtPK%2ByM7b8HbpH1p5nQ4D1FMLUmG0q35BM%2Bj1PwLbcI%2FWavgghVPwW7yy%2BZjwgfrZ1vI",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Mt0AAOSw6bBmOj2Q/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/lE8AAOSwPltmOj2E/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HUQAAOSwIWhmOj2Z/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "404964085752",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-05-11T08:02:13.000Z",
+    "itemCreationDate": "2024-05-11T08:02:13.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|203795003093|0",
+    "title": "Dell PowerVault MD1420 Storage Array 24x 300GB 10K HDD 2x 12G-SAS-4 2x PSU",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/d1IAAOSwAa5h5nb6/s-l225.jpg"
+    },
+    "price": {
+      "value": "1200.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C203795003093%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/d1IAAOSwAa5h5nb6/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "26068665445",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/203795003093?_skw=MD1420&hash=item2f7320f6d5:g:d1IAAOSwAa5h5nb6&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ub%2B%2FPeelie%2BJ1VAdl%2Bdz3z%2Fi%2Bi8YZ2QknIRsptWunlEmSpbA8DcigRQtCQhxq5rqfyC%2FjsgwrqIuFxuktQuc25053pM5sOGJHAOKmmPCIXPsXbDsVclHCXranpqU2CGlqIkrhK%2FvDrcoNao5Wf6ykdYd9XZvUT3o%2BV37vyTWJy3T9uFqpL3eauskI%2BC2fmw%2BRVBGyAUrJ5Uoif6FsFW%2FxLuCnG%2BFDsiNlruUHMIt%2BhHm%2BrAPfR4IE4SOaPHq5dZJCYfgM0E%2B8Tz3c9kve0hUBQq",
+    "itemLocation": {
+      "postalCode": "WC1B***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iOsAAOSwoa1h5ncC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/8CEAAOSwZXth5nby/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "203795003093",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-01-22T08:47:48.000Z",
+    "itemCreationDate": "2022-01-22T08:47:48.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

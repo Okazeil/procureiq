@@ -1,0 +1,404 @@
+[
+  {
+    "itemId": "v1|335946510144|0",
+    "title": "Intel Xeon E5-2690 v2 SR1A5 3GHz 10-core LGA2011 CPU Processor",
+    "leafCategoryIds": [
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/sE4AAOSwxFloGJR9/s-l225.jpg"
+    },
+    "price": {
+      "value": "9.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C335946510144%7C0",
+    "seller": {
+      "username": "eco-pc",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 41152,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sE4AAOSwxFloGJR9/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/335946510144?_skw=E5-2690&hash=item4e37f8ef40:g:sE4AAOSwxFloGJR9",
+    "itemLocation": {
+      "postalCode": "KA11***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "335946510144",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-05T10:36:17.000Z",
+    "itemCreationDate": "2025-05-05T10:36:17.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|156322742754|0",
+    "title": "Intel Xeon E5-2690 V2 10 Core 3.00Ghz 25MB 130W CPU Processor - SR1A5",
+    "leafCategoryIds": [
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/Ij8AAOSwfvVmo3cL/s-l225.jpg"
+    },
+    "price": {
+      "value": "15.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156322742754%7C0",
+    "seller": {
+      "username": "compuwyze_ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 840,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Ij8AAOSwfvVmo3cL/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "19002536762",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156322742754?_skw=E5-2690&hash=item24658fc1e2:g:Ij8AAOSwfvVmo3cL&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua1%2B0XvR%2Fi0gOfrOkc6ZPN0C8WMWYEpx6JCDq9T2b1sW2Re0TMTTVyEaUURMBm4pKXlIB05xuN8Ga3STxtU0qfMMhpWc4G%2F7KFUoXoCDmtz%2FOzCUs2MWl%2BtDku5jGTATa8ackN2cd5xQcWvSFrvRsuV%2FoNVVTgq%2FcI6cq%2FsLdtbLkbY6Ep99fF1FRLgJ1CDLTZ89WcwsoRmQF06IRpdIzmFJH7w0XGZ5QtSmQhENMCMsgfsoUnQCy5LemTogl5XqRSE%2BC2XbYyHq6KdAcg2PICU",
+    "itemLocation": {
+      "postalCode": "PR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/myIAAOSwksdmo3cL/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "15.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "156322742754",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-07-26T10:14:53.000Z",
+    "itemCreationDate": "2024-07-26T10:14:53.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|304932003564|0",
+    "title": "Intel E5-2690v2 3.0Ghz 10C 130W 25MB CPU - SR1A5",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/kxgAAOSwTcZi2V9X/s-l225.jpg"
+    },
+    "price": {
+      "value": "21.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C304932003564%7C0",
+    "seller": {
+      "username": "procurrieurope",
+      "feedbackPercentage": "99.6",
+      "feedbackScore": 2684,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/kxgAAOSwTcZi2V9X/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "1339371011",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/304932003564?_skw=E5-2690&hash=item46ff5d1eec:g:kxgAAOSwTcZi2V9X&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ubsvp7GxicN0wrXraPiq0Mumol7MqN7NGOq%2FbqGPQd5%2FMu0mKYpRmdw%2BQGPRRpnfY689MHmFbdNSbXS2e3tLF%2BhN9uLXwo%2F38GS1Hj2V1Ul%2FDMwme7IpKrzJTSU4opRiKEKN5qCrOP0OncWL4ztq21%2BLP8OK9peyBOGBZRr5s8x81I8Yb1R8H3npHPUTm4kwIFgBY3f1ATZMiSs3dw3ALwrc8mALZ7AwnY8FdKPlT0S2qgHydZxaKp1D0GgSYWouwsU2KCC9tV%2FLQnHmKb7exb2",
+    "itemLocation": {
+      "postalCode": "GL7***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "21.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "304932003564",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-07-21T15:23:14.000Z",
+    "itemCreationDate": "2023-05-10T15:23:21.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|156317889218|0",
+    "title": "Intel Xeon E5-2690 v4 14 Core 2.60GHz 35MB 135W CPU Processor - SR2N2",
+    "leafCategoryIds": [
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/Ah4AAOSwcqNmn8iA/s-l225.jpg"
+    },
+    "price": {
+      "value": "30.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156317889218%7C0",
+    "seller": {
+      "username": "compuwyze_ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 840,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Ah4AAOSwcqNmn8iA/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "928674683",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156317889218?_skw=E5-2690&hash=item246545b2c2:g:Ah4AAOSwcqNmn8iA&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbU8UWuGLbRtugUU7VkuyPfUwUOSqR8F%2B80p0kRefzGl9BiZFU95SNBkiQYbfCYL6D8J3lui6O7PbJD6DwsS0WLKRfP3e18gMhSgZjI%2BFXUTkJvVT8qW7yFt4%2BSKzn0LO9i27Jp99OuDvH5yFCLIt%2F6TvNHTF9VB5Ycow67yOpAhGMMybt1rYc%2FcSebuWY7t2IINF4COdCougkaXn87wJcDqucNquYwggnbDmMVaAn7gkTi%2BNj6p70FAaRDG6t6uT9Ge8NGQ%2FO1TqCAmeJHJssc",
+    "itemLocation": {
+      "postalCode": "PR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TgYAAOSwRl1mn8iA/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "30.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "156317889218",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-07-23T15:16:42.000Z",
+    "itemCreationDate": "2024-07-23T15:16:42.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|226808467467|0",
+    "title": "Intel Xeon 12-Core E5-2690v3 30M 2.60GHz Processor - SR1XN",
+    "leafCategoryIds": [
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/xK8AAeSw4UFoSREW/s-l225.jpg"
+    },
+    "price": {
+      "value": "15.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226808467467%7C0",
+    "seller": {
+      "username": "towlersltd",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 10704,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xK8AAeSw4UFoSREW/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "20054873699",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/226808467467?_skw=E5-2690&hash=item34ced6900b:g:xK8AAeSw4UFoSREW",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4~0AAeSwqa9oSREW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TbYAAeSwHXVoSREW/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "226808467467",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-11T05:12:42.000Z",
+    "itemCreationDate": "2025-06-11T05:12:42.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

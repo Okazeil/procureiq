@@ -1,0 +1,500 @@
+[
+  {
+    "itemId": "v1|376431559862|0",
+    "title": "HP Z4 Workstation G4 Intel Xeon W-2123 @ 3.60GHz 128GB 512GB NVMe Nvidia P2200",
+    "leafCategoryIds": [
+      "179"
+    ],
+    "categories": [
+      {
+        "categoryId": "179",
+        "categoryName": "PC Desktops & All-in-Ones"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "171957",
+        "categoryName": "Desktops & All-in-Ones"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/nzYAAeSwFqxog3za/s-l225.jpg"
+    },
+    "price": {
+      "value": "220.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C376431559862%7C0",
+    "seller": {
+      "username": "compsparestoyou",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 361,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nzYAAeSwFqxog3za/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "5.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "21057977897",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/376431559862?_skw=Xeon&hash=item57a511c4b6:g:nzYAAeSwFqxog3za",
+    "itemLocation": {
+      "postalCode": "SG18***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IKAAAeSwbw5og3za/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yQgAAeSwzjBog3zb/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vg4AAeSwLDNog3zb/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "376431559862",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-25T13:01:25.000Z",
+    "itemCreationDate": "2025-07-25T13:01:25.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|136211949903|0",
+    "title": "Dell Precision T3600 E5-1620 Quadro K2000 32GB 2TB+256GB Win 11 C",
+    "leafCategoryIds": [
+      "179"
+    ],
+    "categories": [
+      {
+        "categoryId": "179",
+        "categoryName": "PC Desktops & All-in-Ones"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "171957",
+        "categoryName": "Desktops & All-in-Ones"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/HNcAAeSwmvFoglUq/s-l225.jpg"
+    },
+    "price": {
+      "value": "124.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C136211949903%7C0",
+    "seller": {
+      "username": "helloklyk",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 1537,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HNcAAeSwmvFoglUq/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "5.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/136211949903?_skw=Xeon&hash=item1fb6dd694f:g:HNcAAeSwmvFoglUq&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZ1OjYnTLJVMqwA53hTv6j1XcbtvpuorjPRZesJSOSdN%2Fe5cf1SKhVyacZONL3JyyQF7C2wX%2FEyaaeWAKpwGgrGc3F%2FMYEHZvihaNzmaCgfVLg4YGHFUONT8iX828sgh55a%2FEpD3tagT8c87CA7%2FmAp4xj%2B9qUrQYCgpeZ0BYz4bIWQuFL65j76MsghB9KtCQnI46H5sKMs2UqxR7NOeQaJ5L2cl56Kll0gy4hYWkehpyTmM3wLL3snxqJIoCh7w1gYDxuczai7E2ZaGHu0d8OQ",
+    "itemLocation": {
+      "postalCode": "N1***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/E1oAAeSwJtpoglUr/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/F-cAAeSwXadoglUt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AXIAAeSw8n1oglUu/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NUgAAeSwguhoglUw/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "136211949903",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-24T15:45:53.000Z",
+    "itemCreationDate": "2025-07-24T15:45:53.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|167610075488|0",
+    "title": "18-CORE HP Z440 Workstation Xeon E5-2697v4 TURBO 3.60GHz incl 2x CADDY 3.5\" ONLY",
+    "leafCategoryIds": [
+      "179"
+    ],
+    "categories": [
+      {
+        "categoryId": "179",
+        "categoryName": "PC Desktops & All-in-Ones"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "171957",
+        "categoryName": "Desktops & All-in-Ones"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/O4sAAOSw9QhoWu0g/s-l225.jpg"
+    },
+    "price": {
+      "value": "99.97",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C167610075488%7C0",
+    "seller": {
+      "username": "anisatech",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 10344,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/O4sAAOSw9QhoWu0g/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "10.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "4058196762",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/167610075488?_skw=Xeon&hash=item270656c960:g:O4sAAOSw9QhoWu0g&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UY6ADd6jLFk33QZSZFCNZm06a4h3oQMP7OiovFSP0T1zDeWydMAOPVys8uCOTkZBKcQ5vhu3Gq7XlVFSSYb2%2BXTE9NoxaQgjDyJX%2BODTuNiLBH3m9HBQ0Dnz%2F4f7WUlnY1OogP1FdWCzA9fNsCck3UJfz82h68YWQ6n4jk4YfU11c56v8F6zpMH%2BNW3I%2BLVND%2B2IKavmdR4098PtRatwpeCScmDOLmaCzbQe%2F2b1rk2cm15owngGg42s5e2YqnoKU8f2QoVzX4NVPAk74eQS1mZ",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~bUAAOSwhQxoW59I/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AOwAAOSwompjcTw0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UqIAAOSwVVtjcTw0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GVQAAOSwqEhjcTw0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KOYAAOSw5ypjcTw0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SOUAAOSwuk1jcTw1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wGQAAOSwI91jcTw1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MPUAAOSwu9JjcTw1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/H5cAAOSwgBljcTw1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7RQAAOSwRA5lEgSZ/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "167610075488",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-25T07:11:14.000Z",
+    "itemCreationDate": "2025-06-25T07:11:14.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|116535309949|0",
+    "title": "Dell Precision T5810 E5-2680v3 2.50GHz 12-CORE 8GB DDR4 Nvidia NVS 310 NO DISKS",
+    "leafCategoryIds": [
+      "179"
+    ],
+    "categories": [
+      {
+        "categoryId": "179",
+        "categoryName": "PC Desktops & All-in-Ones"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "171957",
+        "categoryName": "Desktops & All-in-Ones"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/7HQAAOSwmvhiBvHG/s-l225.jpg"
+    },
+    "price": {
+      "value": "88.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C116535309949%7C0",
+    "seller": {
+      "username": "servershopping",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 4134,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7HQAAOSwmvhiBvHG/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "10.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-04T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/116535309949?_skw=Xeon&hash=item1b220bb67d:g:7HQAAOSwmvhiBvHG&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbYRamMXxlDmZ%2BxBP5Gx5MgOqZIdGr7qn%2F2EmZaXMlyDJOn3g8j24D0i3CYcE%2B78m6OzHthG09stiyIVy092ADlDekpLvEmReOWMzDOtY80grEXVGRZaQXIinxfdHrtd5%2BkVxSEkajNbqvU%2BojiMrjezbzx3Qw1H7tkB884ZSOXRNGfoxw5964GbSORjWWANO7%2FliTZECp5Jir50xDQipNo4uc7GIhwW3DFPbDzhxr7sy5pcjJbWDpCseidtON27kiY%2Fl28XPpUAJFwHf70snM8",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/q3QAAOSwkm9n47Hx/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qBAAAOSwGitiBvHo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QoQAAOSwUG9iBvHv/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YpoAAOSwdExiBvIR/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YQMAAOSwwN9iBvIg/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-OYAAOSwntZn47Mu/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Pw8AAOSwpa1n47IQ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IxEAAOSwqkViBvJH/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YzgAAOSwTTBiBvJ7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nZ8AAOSw3zpiBvLI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LhcAAOSwi6ZiBvLs/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "116535309949",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-26T08:04:18.000Z",
+    "itemCreationDate": "2025-03-26T08:04:18.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|257034564288|0",
+    "title": "Dell Precision T1700 Windows 11 Xeon E3 1240 v3 16GB 256GB SSD Quadro K600 WiFi",
+    "leafCategoryIds": [
+      "179"
+    ],
+    "categories": [
+      {
+        "categoryId": "179",
+        "categoryName": "PC Desktops & All-in-Ones"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "171957",
+        "categoryName": "Desktops & All-in-Ones"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/~BYAAOSw43hnijC2/s-l225.jpg"
+    },
+    "price": {
+      "value": "84.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C257034564288%7C0",
+    "seller": {
+      "username": "bluecybercow",
+      "feedbackPercentage": "99.9",
+      "feedbackScore": 14039,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~BYAAOSw43hnijC2/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-27T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/257034564288?_skw=Xeon&hash=item3bd87432c0:g:~BYAAOSw43hnijC2&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UahSPrnY73UliDz3VdGhI4ZivnP7GriJISM5O%2BmV6peUDGRPXGPRmNyNULII26rz63vk3k8ViiWIldjzCYBC58OwQ%2BpU9wuyCbjOcY7OSVN%2BqVaELJGePQFJADrEY9qtVU5JHghHKFmkVsh1iV%2B3sMfkEqJwj4OwNbR2BnETmgtlImDsGHG8jPpPVeFXenWO%2BKm8EGoVdtg%2BlmreVuG5MbP92RNEFEOmo6CLUeXfzs1NcMalyRlzWO6Ou96Avhijv%2F50BKfpbQilJUV2fR9kcEd",
+    "itemLocation": {
+      "postalCode": "CH3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/m74AAOSw~bpnijC3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZyIAAOSwVf5nijDM/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/J3YAAeSwQtlog311/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1LAAAeSwD6dog312/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xY0AAeSwTF1og32~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3HUAAeSwf-log32-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ryoAAeSw0eBog32-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/t4kAAeSwFM9og311/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZRsAAeSwTTVog311/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/t4UAAeSwFM9og310/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/090AAeSwWTRog311/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2YwAAeSwlItog311/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0qUAAeSwTwlog310/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zuAAAeSwToxog311/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Q-QAAOSwlz9nijC6/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TFsAAOSwzkFnijC7/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "84.99",
+      "currency": "GBP"
+    },
+    "legacyItemId": "257034564288",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-25T12:52:01.000Z",
+    "itemCreationDate": "2025-07-25T12:52:01.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

@@ -1,0 +1,393 @@
+[
+  {
+    "itemId": "v1|166717114969|0",
+    "title": "Dell  MD1400 Powervault SAS Storage Array 12 x 3.5\"  with Caddy's - Fully Tested",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/P3kAAOSwVCxmHj4L/s-l225.jpg"
+    },
+    "price": {
+      "value": "375.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C166717114969%7C0",
+    "seller": {
+      "username": "tekkybitz",
+      "feedbackPercentage": "99.9",
+      "feedbackScore": 31609,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/P3kAAOSwVCxmHj4L/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/166717114969?_skw=MD1400&hash=item26d11d4a59:g:P3kAAOSwVCxmHj4L",
+    "itemLocation": {
+      "postalCode": "KA11***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QsAAAOSwCBVmHj4L/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/X8IAAOSwir9mHj4L/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XkkAAOSwUoFmHj4L/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~oYAAOSwKlxmHj4M/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "166717114969",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-04-16T09:12:11.000Z",
+    "itemCreationDate": "2024-04-16T09:12:11.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|203082993029|0",
+    "title": "Dell PowerVault MD1400 Storage Array 6x 10TB 7.2K SAS HDD 2x 12G-SAS-4 2x PSU",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/rIYAAOSwDb5fPp-Q/s-l225.jpg"
+    },
+    "price": {
+      "value": "1920.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C203082993029%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rIYAAOSwDb5fPp-Q/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/203082993029?_skw=MD1400&hash=item2f48b08d85:g:rIYAAOSwDb5fPp-Q&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYdR70FXfzwAbjrijTVCmc%2FwQCOlCCkxa7vXIyZbh2%2BNewVnKkOzRL2FDvymasC4sAxVS0gddaMNvmKilssfPHaUYZYMrHPllR9t3WW0OMPw%2FbBjK3rAJrBtSfcIH1lvZamc1DuSNTHpeRZFst6sTVQSEp%2B%2Fuqwmc0xxjft7O5hTgq09SLkya45EBlJV8XyQfLqhTtAPJTm8OBUSFTSOI3afIGpEDtlpQyOAbcdXgfpNu5V2Jm7mKhgh9%2Bts%2Fgn812inMrp3UDb5jssNRorMC3V",
+    "itemLocation": {
+      "postalCode": "WC1B***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DtgAAOSwMMNfPo-V/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "203082993029",
+    "availableCoupons": false,
+    "itemOriginDate": "2020-08-22T19:50:56.000Z",
+    "itemCreationDate": "2020-08-22T19:50:56.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|286169483048|0",
+    "title": "Dell Powervault MD1400 12Gb/s SAS - 12x 10TB SAS 7.2k HDDs | 3 Year Warranty",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/l30AAOSwrc9nOyw1/s-l225.jpg"
+    },
+    "price": {
+      "value": "1878.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286169483048%7C0",
+    "seller": {
+      "username": "etb-technologies",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 8948,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/l30AAOSwrc9nOyw1/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/286169483048?_skw=MD1400&hash=item42a107c728:g:l30AAOSwrc9nOyw1",
+    "itemLocation": {
+      "postalCode": "DG5***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ysUAAOSwEb1nOyw1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MeUAAOSw355nOyw1/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "286169483048",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-11-18T11:58:20.000Z",
+    "itemCreationDate": "2024-11-18T11:58:20.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|405036446281|0",
+    "title": "Dell PowerVault MD1400 12G-SAS-4 4-Port EMM Enclosure Management Module JMNK7",
+    "leafCategoryIds": [
+      "58322"
+    ],
+    "categories": [
+      {
+        "categoryId": "58322",
+        "categoryName": "Disk Array Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/oR8AAOSwOylfPpOm/s-l225.jpg"
+    },
+    "price": {
+      "value": "180.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C405036446281%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oR8AAOSwOylfPpOm/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "26004305828",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/405036446281?_skw=MD1400&hash=item5e4e0db249:g:oR8AAOSwOylfPpOm&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYauo%2B8HlCWca4s45jdL7QHsO2jvq7rK6ZhbZI%2F11Op3f8W2FcZrFvaKb9xIO9yKaCHKA9PRlnPXh5IZau1aavUERg8I2pSh48t6hiRtvITQq7WGFGQ60JmIXWI2y2OYDJ7q4lps9Q1AAp%2Fmcoj7QgxqFWSvnxuNJSSWvIij3aYANWKBOYi%2FjO3ahV%2BmRbOVybuu9oAp4YxwA73iS1tCD%2BHcxsfmtD%2BW5xsmeQLZwZ2kLyX1rMu7mFFODuyM4uAqns55z3GJO%2FDRSwrPA2bnKv3",
+    "itemLocation": {
+      "postalCode": "WC1B***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "405036446281",
+    "availableCoupons": false,
+    "itemOriginDate": "2020-08-22T19:09:29.000Z",
+    "itemCreationDate": "2024-06-14T03:52:04.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|135503020288|0",
+    "title": "Bruhl MD1400 Single Turbine Dryer for Motorcycle Car Motorbike Pets Motocross",
+    "leafCategoryIds": [
+      "25645"
+    ],
+    "categories": [
+      {
+        "categoryId": "25645",
+        "categoryName": "Other Motorcycle Maintenance, Stands & Towing"
+      },
+      {
+        "categoryId": "25622",
+        "categoryName": "Motorcycle Maintenance, Stands & Towing"
+      },
+      {
+        "categoryId": "131090",
+        "categoryName": "Vehicle Parts & Accessories"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/HTQAAOSwzhZcAmZB/s-l225.jpg"
+    },
+    "price": {
+      "value": "129.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C135503020288%7C0",
+    "seller": {
+      "username": "sportouringltd",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 29724,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HTQAAOSwzhZcAmZB/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-31T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/135503020288?_skw=MD1400&hash=item1f8c9c0100:g:HTQAAOSwzhZcAmZB&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaWoS02U7cqGtku4wssRRtdRS2RYh6mYMGV57rj5jkIFnZwXB97yjdsN4jsdT9T4q9pb7ZQIzzJXM%2BlclB6alZA%2BdVphXppQZO2F%2BHU5F39j4Hqkm9acA5ll7gZSKMAHO6h55ZMEB4fsWDbFCc7fbyC8fT5xPweKh6npQJboUHWn4qC3Z9UijyYWmyNGwEtILgO%2Fbhj%2FV%2Bbq3gCP%2BHmi7vsH3%2BapimVCzq6EBowPXUuq3hrzvBDbpxIU6ks7%2B1X4ohXnihCntXnfQyry3mqAXPl",
+    "itemLocation": {
+      "postalCode": "CF45***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "135503020288",
+    "availableCoupons": false,
+    "itemOriginDate": "2018-12-01T10:53:33.000Z",
+    "itemCreationDate": "2025-01-17T13:21:13.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

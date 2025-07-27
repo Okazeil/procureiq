@@ -1,0 +1,473 @@
+[
+  {
+    "itemId": "v1|277286483813|0",
+    "title": "Supermicro CSE 847 - SSG-5048R-E1CR36L - E5-2695 V3,64Gb,36x 3.5\"+2x 2.5\", W/Cad",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/5uYAAeSwHb9ogNRK/s-l225.jpg"
+    },
+    "price": {
+      "value": "299.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C277286483813%7C0",
+    "seller": {
+      "username": "systemsupplyindustriesltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 26363,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5uYAAeSwHb9ogNRK/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/277286483813?_skw=Supermicro&hash=item408f8ff765:g:5uYAAeSwHb9ogNRK",
+    "itemLocation": {
+      "postalCode": "OX12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/c5sAAeSwoNZogNRN/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iUcAAeSwZnlogNRQ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5xkAAOSww11oI0n-/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "277286483813",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-23T12:23:55.000Z",
+    "itemCreationDate": "2025-07-23T12:23:55.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|236102628453|0",
+    "title": "Supermicro CSE-829U 2U Rackmount Server Chassis 12x Bay Caddies 2x 1000W PSU ",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/-HEAAeSw1iZod7Jq/s-l225.jpg"
+    },
+    "price": {
+      "value": "189.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236102628453%7C0",
+    "seller": {
+      "username": "dr.memory",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 179577,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-HEAAeSw1iZod7Jq/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/236102628453?_skw=Supermicro&hash=item36f8d03465:g:-HEAAeSw1iZod7Jq&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaITgjz24mN0VXVM0VO0o3xKS7y1k055ixw%2F7M3fZtCJ7IO%2B5YsPvvF3Hgyioy1LA0NsgDqHm5Fm4nHwJP70zil4V18INx3XCqseuLkupKcIUFg41qoSqYNMl19B%2Be7EyOAQztH%2F4cmz%2BNRahmLdY0%2FG0FBD5azioyiNBhX75bwmfJwqhFqgd0Nt0kAOz5SC5oZXRokp36HQuRBSj5sRcmgkIRTcrvCH3asbkUX8kcZsaMvmbAzWVBJiGPC4qQHqRsp9zR%2FNu2T%2BpPPvbA62rbieuDPtNLFQv1Nm%2FTaMi2qVg%3D%3D",
+    "itemLocation": {
+      "postalCode": "M17***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wQMAAeSwVhRod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/uc4AAeSw1tZod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ztYAAeSwr9dod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xnUAAeSw2lBod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xtwAAeSwdONod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7-wAAeSwpUVod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oY0AAeSwmFNod7Jq/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "236102628453",
+    "availableCoupons": true,
+    "itemOriginDate": "2025-05-15T00:34:27.000Z",
+    "itemCreationDate": "2025-05-15T00:34:27.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|388554754727|0",
+    "title": "Supermicro X11SPA-TF Motherboard",
+    "leafCategoryIds": [
+      "1244"
+    ],
+    "categories": [
+      {
+        "categoryId": "1244",
+        "categoryName": "Motherboards"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/E9EAAOSwGd1oRuop/s-l225.jpg"
+    },
+    "price": {
+      "value": "400.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388554754727%7C0",
+    "seller": {
+      "username": "benyoxall",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 89,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/E9EAAOSwGd1oRuop/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "6.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388554754727?_skw=Supermicro&hash=item5a77ab0aa7:g:E9EAAOSwGd1oRuop&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbyVKEyIs8Pi42HNtYqAbwcRXb8kRCG7OoSA%2Fl%2FIN%2BeonuA97fcPj1v2pIEKXEYGqpXkR3TobsnPeOE%2BwV69NWlw3WrKVNJ7EvAzJjOM63RKvIWMWUzyrwuMxHyNmieUECMiYfOMvBt8ZUmc6uX4C02Sx6hrTrEk9U4T9qPSJ25OFZ%2Bx6xQC2gROHzRZe%2FR%2FWNxo348nAV%2BbDN2Xlk%2BecWHM3KRocpFYC2I2UxBB3w1SC%2F4BMRemnkMvBGg0o4kDNj1MMWoGxzhhAd4gvLJBoBY",
+    "itemLocation": {
+      "postalCode": "RH10***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tzwAAOSwBfloRuop/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/8FIAAOSwnB5oRuop/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/awMAAOSw9BJoRuop/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "388554754727",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-09T14:09:40.000Z",
+    "itemCreationDate": "2025-06-09T14:09:40.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|256981265296|0",
+    "title": "Supermicro X10SRW-F LGA 2011 DDR4 Server Motherboard ",
+    "leafCategoryIds": [
+      "71509"
+    ],
+    "categories": [
+      {
+        "categoryId": "71509",
+        "categoryName": "Server Boards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/DgAAAOSwF7poUuiA/s-l225.jpg"
+    },
+    "price": {
+      "value": "99.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256981265296%7C0",
+    "seller": {
+      "username": "pro-avit.london",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 70829,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DgAAAOSwF7poUuiA/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "26030720937",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/256981265296?_skw=Supermicro&hash=item3bd546eb90:g:DgAAAOSwF7poUuiA&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYQFWwoSM2TnIUMSg3S6%2FgYm2m68FoFAsryt1cGuDEG1H27yNxFrFmbvDdpN3CTBvTq%2FIU0z5L3hYrx0jT63MAsVxmr41OWzGG1QuArLrFZsDwDxrlJAR8NL845cJvhX%2FmmFi4cYyOz7RFpfCdhAyRpMPTyLQYsKZLo3SbcprVbNYE6Eauc7t0UJ0gPPmwVX%2FoSitAFjAq0DDeNmi%2BCdMA6GXmrX2Dm%2FgXu0FvVBcSzmmm9xEf0mtqgkKDr%2F8VMNV%2BiEW1EmBXGvGvnmUYOgX7w",
+    "itemLocation": {
+      "postalCode": "RG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Ga4AAOSwQgFoUuiD/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nlgAAOSwd6BoUuiG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2dIAAOSwF1BoUuiI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3R0AAOSwUZxoUuiK/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "256981265296",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-18T16:25:49.000Z",
+    "itemCreationDate": "2025-06-18T16:25:49.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|236206387292|0",
+    "title": "Supermicro X11SSH-4LNF, Xeon E3-1220v6,32GB ECC RAM, Asus Prime Case",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/qqwAAeSwQx9oeT2A/s-l225.jpg"
+    },
+    "price": {
+      "value": "165.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236206387292%7C0",
+    "seller": {
+      "username": "chris021_in",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 86,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qqwAAeSwQx9oeT2A/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/236206387292?_skw=Supermicro&hash=item36feff705c:g:qqwAAeSwQx9oeT2A",
+    "itemLocation": {
+      "postalCode": "DA10***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/n24AAeSwygNoeTz1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qlQAAeSwUbloeTz1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3TYAAeSwYAZoeTz1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/G8UAAeSwY55oeT2N/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ChkAAeSwVx5oeT2T/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/n3EAAeSwygNoeTz2/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DM8AAeSwbhRoeTz2/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rAEAAeSwAMloeTz3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/m0wAAeSwmYdoeTz3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mfYAAeSwZb5oeTz3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3k0AAeSw~2xoeTz3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XG8AAeSwq9poeTz9/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/n1YAAeSwmdFoeTz4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/e00AAeSwccdoeTz4/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "236206387292",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-17T18:50:46.000Z",
+    "itemCreationDate": "2025-07-17T18:50:46.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

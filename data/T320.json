@@ -1,0 +1,561 @@
+[
+  {
+    "itemId": "v1|156841096497|0",
+    "title": "dell poweredge t420 t320 16 sff tray sas cable chassis 2.5\" pdu empty conversion",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/OEkAAeSw3~hn6ZnB/s-l225.jpg"
+    },
+    "price": {
+      "value": "144.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156841096497%7C0",
+    "seller": {
+      "username": "colindalerabbit",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 5818,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OEkAAeSw3~hn6ZnB/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "4007549977",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156841096497?_skw=T320&hash=item2484753531:g:OEkAAeSw3~hn6ZnB",
+    "itemLocation": {
+      "postalCode": "NN15***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/pdYAAOSwLURevaEh/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/f0AAAOSwwU1nYJNn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dV8AAOSwr8lnYJNs/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/N2sAAeSwJjhn6ZnB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/P0kAAeSwy21n6ZnB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/I70AAeSwkfln6ZnB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ohIAAeSwGodn6ZnC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/H~EAAeSwMbtn6ZnC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SqsAAeSwzrpn6ZnC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Ta8AAeSwQrtn6ZnC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/d2MAAeSwnuZn6ZnC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SPsAAeSwbVln6ZnD/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Oq8AAeSwT8Bn6ZnD/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GIQAAeSwcZRn6ZnD/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "144.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "156841096497",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-30T19:35:43.000Z",
+    "itemCreationDate": "2025-03-30T19:35:43.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|257029265861|0",
+    "title": "Dell poweredge t320 Intel Xeon E5-2420 32GB 3x 1TB, 1x 500GB",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/~JsAAeSwPRRof5kz/s-l225.jpg"
+    },
+    "price": {
+      "value": "99.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C257029265861%7C0",
+    "seller": {
+      "username": "hainault_treasures",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 18354,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~JsAAeSwPRRof5kz/s-l1600.jpg"
+      }
+    ],
+    "pickupOptions": [
+      {
+        "pickupLocationType": "ARRANGED_LOCATION"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "1840431881",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/257029265861?_skw=T320&hash=item3bd82359c5:g:~JsAAeSwPRRof5kz&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UY26CU0Uao%2FNA4K9yo2oIrurwI775kOVFdBa5nsJKNUp21Twqk0rLpfkgsZgfHTKQNY3Q7HRWvTCtF4ht9vKN%2FnBAECgkJ28X9JpTIwWk1aJunWtJxcc%2FwYA%2B5D%2FBKR7OXopxWjKaHqvSQx612rA%2F6CcBn4QBA%2BzM33vAbPktIMCAZOk6bvB69F1r%2BNp8WpRBexUGP%2BgYFraR0AK6j%2BvR%2FJyL2ZmeyzxpFbsrRV28exwfEiEaqZ3EDhAIID5JKieVvbB1iKT5ouCWh7O4F5hCfR",
+    "itemLocation": {
+      "postalCode": "RM8***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/E4oAAeSwcK5of5kz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/i98AAeSwiClof5kz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BkMAAeSwEN9of5ky/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zMkAAeSwJI5of5kz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DMMAAeSwYtdof5k0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-PUAAeSw7apof5k0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9zMAAeSwlOdof5kz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7IAAAeSwJztof5kz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DTAAAeSw4A9of5kz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Dy4AAeSwMK1of5kz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BesAAeSwCL1of5kz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5BIAAeSweM5of5k0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CHQAAeSw6kpof5k0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-FgAAeSwIpdof5k1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DdUAAeSwFYNof5k0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5QYAAeSwy2Rof5k0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CIsAAeSw3R1of5k2/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9oUAAeSw7PJof5k1/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "257029265861",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-22T13:54:11.000Z",
+    "itemCreationDate": "2025-07-22T13:54:11.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|187411868924|0",
+    "title": "Dell PowerEdge T320 Xeon E5-2470v2 2.40GHz 10CORE 64GB RAM 8TB SAS Turbo 3.20GHZ",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/WrcAAOSwRLRicXop/s-l225.jpg"
+    },
+    "price": {
+      "value": "444.06",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C187411868924%7C0",
+    "seller": {
+      "username": "anisatech",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 10344,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WrcAAOSwRLRicXop/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/187411868924?_skw=T320&hash=item2ba29e2cfc:g:WrcAAOSwRLRicXop&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ubz7I%2FJ8ey4T0RXPHFfv133cHnCs5sR29b0ABKajnlAxPu%2BOU0C89XTk9iw9APC9YD%2B7Oqb8BSrrMYiFzmicCQivoJP%2BTPF6zac45i0yx0Ob%2FyC%2FWdSWj%2BnI01I9%2FHix8Y9zJVx8ASU4bECepMYkLHG3jXfq9tudMCYtz4GXxJIpMRKlfYKfZTMD9BZCZ18CTXzhJqGASSG4ONIAZg8NXZiJ9%2FM7cCUrc5z6pM2r%2Bagz246wmLxs4zfRLneP%2B7sjbmPpx3ao293b3rToKpwcfIu",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/i2oAAOSwbSti0EAk/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SroAAOSwVOZi0EAm/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/pY8AAOSw~q9i0EAn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ppYAAOSw8Ddi0EAo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/obsAAOSww3Ri0EAq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oqsAAOSw4uFi0EAr/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GEUAAOSw335i0EAt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/z6sAAOSwBmti0EAu/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/c9UAAOSwoP1i0EAy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZegAAOSwttZi0EA0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fR8AAOSws1Ji0EA2/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "187411868924",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-14T08:56:10.000Z",
+    "itemCreationDate": "2025-07-14T08:56:10.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|167646056384|0",
+    "title": "Dell PowerEdge T320 Xeon E5-2450L 1.80GHz 8-CORE 64GB DDR3 9TB SAS Turbo 2.30GHZ",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/WrcAAOSwRLRicXop/s-l225.jpg"
+    },
+    "price": {
+      "value": "397.38",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C167646056384%7C0",
+    "seller": {
+      "username": "anisatech",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 10344,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WrcAAOSwRLRicXop/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/167646056384?_skw=T320&hash=item27087bcfc0:g:WrcAAOSwRLRicXop&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaaJeMlFFNgYJxlwMrNGHg2knRvzWPwluFCgLK0Eztd%2BkggAefAAE%2FXawf9KFj0hH6vIn8yZTQr2dU3oFtnfParbI%2FLk0XD4nVwubnBpfmep3pTNFDcPWFhKBD0lnWxeomaRzAi%2F5wO8%2FQ84rJcsIRQRbJUngokVvMED%2FIMC7sXdUrYs1AcJALJpUEUmDqx6kfIbq%2F0WheHObJuAAsgHJqiC78p%2FJKAm8unQsp%2F1WvRgxesHbSGwfcczhLumQaKK3vPj07fifxnygIMftShANaq",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/i2oAAOSwbSti0EAk/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SroAAOSwVOZi0EAm/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/pY8AAOSw~q9i0EAn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ppYAAOSw8Ddi0EAo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/obsAAOSww3Ri0EAq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oqsAAOSw4uFi0EAr/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GEUAAOSw335i0EAt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/z6sAAOSwBmti0EAu/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/c9UAAOSwoP1i0EAy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZegAAOSwttZi0EA0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fR8AAOSws1Ji0EA2/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "167646056384",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-14T08:56:21.000Z",
+    "itemCreationDate": "2025-07-14T08:56:21.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|365524149564|0",
+    "title": "Dell PowerEdge T320 Xeon NO RAM/HDD/OS DVD Dual PSU WinSVR 2008 COA Damaged case",
+    "leafCategoryIds": [
+      "179"
+    ],
+    "categories": [
+      {
+        "categoryId": "179",
+        "categoryName": "PC Desktops & All-in-Ones"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "171957",
+        "categoryName": "Desktops & All-in-Ones"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/ip4AAOSwzktn9-iH/s-l225.jpg"
+    },
+    "price": {
+      "value": "125.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C365524149564%7C0",
+    "seller": {
+      "username": "yomargo",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 4091,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ip4AAOSwzktn9-iH/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "12.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "11030549941",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/365524149564?_skw=T320&hash=item551aefe53c:g:ip4AAOSwzktn9-iH",
+    "itemLocation": {
+      "postalCode": "SN25***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ghIAAOSwOYRn9-iP/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oGgAAOSwvlxn9-iW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/L1cAAOSwI0tn9-im/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/s5AAAOSwaDNn9-i3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/J3IAAOSwsQ1n9-i~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bL4AAOSwlpln9-jL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/g4UAAOSwjFln9-jU/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "365524149564",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-04-10T15:46:13.000Z",
+    "itemCreationDate": "2025-04-10T15:46:13.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

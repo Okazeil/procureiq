@@ -1,0 +1,391 @@
+[
+  {
+    "itemId": "v1|277256218894|0",
+    "title": "HP DL360 G9,2x E5-2640v4, 32GB,P440AR,8x 900GB,2X 500W,331FLR",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/I3EAAOSw-WhoChKi/s-l225.jpg"
+    },
+    "price": {
+      "value": "129.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C277256218894%7C0",
+    "seller": {
+      "username": "systemsupplyindustriesltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 26363,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/I3EAAOSw-WhoChKi/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/277256218894?_skw=DL360&hash=item408dc2290e:g:I3EAAOSw-WhoChKi",
+    "itemLocation": {
+      "postalCode": "OX12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/z84AAOSwWEZoChKo/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "277256218894",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-07T08:41:46.000Z",
+    "itemCreationDate": "2025-07-07T08:41:46.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|388672865603|0",
+    "title": "HPE ProLiant DL360 Gen9 \u2013 2x 2680v4 14-Core CPUs, 32GB RAM, 4x900GB",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/yHYAAOSwfnpoXkG2/s-l225.jpg"
+    },
+    "price": {
+      "value": "144.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388672865603%7C0",
+    "seller": {
+      "username": "solusecltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 76,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yHYAAOSwfnpoXkG2/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "19.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-31T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388672865603?_skw=DL360&hash=item5a7eb54543:g:yHYAAOSwfnpoXkG2&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UY8PFdJJvfXn%2BXO87A3YbBDjmEcbwW0FPyo294DMsKxYOjRghXBdKT2TlEl3nSsYDwqTutAZIc6cvHUGP2wcFyjU4AgYpxnShqNzK0qvwQsx%2FwtmlRTlNdq9%2BDzGDd0wDobbIMccwdpaz0y3HvHOO%2B2DuGe2u6GHWyE8Vu429N%2FTzXWcHDujfxrz5akNb0hDuwQv7fMBfoqa2ZLdB5g12uFFyNIjhMaShOtW7QuPd0CiFD2jq1OBzDT6zYCy0cVX48PN6HAnLro%2BKzow4psmYNe",
+    "itemLocation": {
+      "postalCode": "WV7***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "388672865603",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-27T07:01:22.000Z",
+    "itemCreationDate": "2025-07-05T18:46:41.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|388696428526|0",
+    "title": "HPE ProLiant DL360 Gen9 \u2013 2x 2650v4 12-Core CPUs, 32GB RAM, 4x600GB SAS",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/yHYAAOSwfnpoXkG2/s-l225.jpg"
+    },
+    "price": {
+      "value": "114.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388696428526%7C0",
+    "seller": {
+      "username": "solusecltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 76,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yHYAAOSwfnpoXkG2/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "19.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-31T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388696428526?_skw=DL360&hash=item5a801ccfee:g:yHYAAOSwfnpoXkG2&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UauSaIcRcpACkQ25ARMzDJ7NbqMGpPx%2BeZNPlrT8KIhRWHey13Yx078x%2BNX71yeDdI6Kz4BNeQSaUJYNooOmO%2FKAKQkWhsjg7gT9eUcL%2FW9XGFfTtenQRptClDffDaYfibdy8Vp3QBvirX%2FbdGj0WlSroIfqyfPFpY0nbQmQH9PwQ%2BaqxrjXYTDM1%2Fe892fa57P6%2FVpGMSM82YXXnG%2FzU8pyn8550BeV7cA%2FDuoYxfAni9EYYhz1mTzIoMVvvkcCwgsWJQYiXq1L%2B4eTeTGrvYH",
+    "itemLocation": {
+      "postalCode": "WV7***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "388696428526",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-11T17:56:13.000Z",
+    "itemCreationDate": "2025-07-11T17:56:13.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|156180887743|0",
+    "title": "HP DL360 Gen9 8*SFF Server 2x2680V3 128GB 2x 900GB P440ar 2x 500W PSU 4x1Gb RJ45",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/hU0AAOSwhXlmKPHF/s-l225.jpg"
+    },
+    "price": {
+      "value": "175.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156180887743%7C0",
+    "seller": {
+      "username": "compuwyze_ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 840,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hU0AAOSwhXlmKPHF/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156180887743?_skw=DL360&hash=item245d1b38bf:g:hU0AAOSwhXlmKPHF&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZsoaV%2BDL%2FP0XNhJPuUXUxAQlwEiSSfQUP7elp9fVnDRdObhx0znyOEOIyza%2F3qjhbahGWFeZfSJx5NDERN3By91d2G1W%2FLApGwAgxcoOi5Jxw9%2FRxm7cZw2xUnr39JmApWYPeuEviAUp2AgaHZa6o2Uk94mFJ58sLVVibvJsdGTf2Bvr9RL7z%2BP%2FWegz2Vxn%2F0HgaX8T6kdGgWAtMeHgWyPTLtsZQnniRYp9DTDcNG1%2FJLpwVscUK1WpgsUAmvvId5gQ%2Bj%2FKISI%2FMFwnh3qgt%2B",
+    "itemLocation": {
+      "postalCode": "PR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gSEAAOSwxU1mKPHR/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ICwAAOSwiDxmKPGw/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "175.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "156180887743",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-04-24T11:51:18.000Z",
+    "itemCreationDate": "2024-04-24T17:52:39.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|126700627682|0",
+    "title": "HP ProLiant DL360 Gen9 Server 4LFF REFURBISHED - CTO G9 1U",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/9q4AAeSwRndoajyo/s-l225.jpg"
+    },
+    "price": {
+      "value": "64.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126700627682%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9q4AAeSwRndoajyo/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/126700627682?_skw=DL360&hash=item1d7ff226e2:g:9q4AAeSwRndoajyo",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "126700627682",
+    "availableCoupons": true,
+    "itemOriginDate": "2024-10-01T12:17:20.000Z",
+    "itemCreationDate": "2024-10-01T12:17:20.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

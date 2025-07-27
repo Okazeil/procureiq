@@ -1,0 +1,487 @@
+[
+  {
+    "itemId": "v1|388748304320|0",
+    "title": "Dell T340 - 1 x E-2124, 32GB RAM, 2 x 1TB HDDs | 3 Year Warranty",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/E60AAOSwnL9noNC6/s-l225.jpg"
+    },
+    "price": {
+      "value": "594.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388748304320%7C0",
+    "seller": {
+      "username": "etb-technologies",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 8948,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/E60AAOSwnL9noNC6/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "12064536233",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388748304320?_skw=T340&hash=item5a83345fc0:g:E60AAOSwnL9noNC6",
+    "itemLocation": {
+      "postalCode": "DG5***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7CgAAOSw-etnoNC6/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/J7kAAOSwUGlnoNC6/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "388748304320",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-10-03T10:55:57.000Z",
+    "itemCreationDate": "2025-07-23T15:50:26.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|297009974360|0",
+    "title": "DELL PowerEdge T340 Server Tower Xeon 3.4 GHz RAM 16GB 1TB HDD VH1JV",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/cf8AAeSwo0FnrIxO/s-l225.jpg"
+    },
+    "price": {
+      "value": "1080.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C297009974360%7C0",
+    "seller": {
+      "username": "trade-lists-uk",
+      "feedbackPercentage": "99.6",
+      "feedbackScore": 30774,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "originalPrice": {
+        "value": "1380.00",
+        "currency": "GBP"
+      },
+      "discountPercentage": "22",
+      "discountAmount": {
+        "value": "300.00",
+        "currency": "GBP"
+      },
+      "priceTreatment": "LIST_PRICE"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cf8AAeSwo0FnrIxO/s-l225.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/297009974360?_skw=T340&hash=item45272c8c58:g:cf8AAeSwo0FnrIxO&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYtIt1--t1RsJ5BCZMrEFhk%2B04Q199fiFmFsmfuTOynJDILwstY1NdGy4lsbPnsefTNipVivkkrTsmIW%2FaZnQz3qEVJTUTehtneeOx3JrSIitUSSXBNhZepagg0WmimnrSJaKFoe8uDFU50B0cUFKLMyxldeFmSrdKkKEXUs%2Fg3fm0WwlnL6MQ4g3IabRYVBRfg6tNjHk3g2W6YPp0gjZ7A95VQwPqKK36%2Fxlb%2BKuw8NZZT2BlqRUYLBHqCdg3sOU9msLZHyQoH54%2FhaOVJIRfe",
+    "itemLocation": {
+      "postalCode": "M23***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LW0AAeSwgh5nrIxO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dksAAeSwtllnrIxO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SLEAAeSwm1dnrIxO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/I-QAAeSwsqVnrIxO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oyQAAeSwN61nrIxO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/k84AAeSw2NJnrIxO/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "297009974360",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-02-12T11:50:56.000Z",
+    "itemCreationDate": "2025-02-12T11:50:56.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|156987004467|0",
+    "title": "Dell PowerEdge T340 8*LFF Xeon E-2124 16GB HBA330 2x 2TB SATA SSD Tower Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/6z4AAOSwjFRoJJjP/s-l225.jpg"
+    },
+    "price": {
+      "value": "525.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156987004467%7C0",
+    "seller": {
+      "username": "compuwyze_ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 840,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6z4AAOSwjFRoJJjP/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "12064536233",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156987004467?_skw=T340&hash=item248d279633:g:6z4AAOSwjFRoJJjP&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaangOO7mA9mDY26CDIRfADkxN9OVkZ2%2Bkk1IKMkLPqBT5NCiBnBE%2B1zbtV17eO7HIne79pk%2BeZFXBmMCHPOtpaoKZ6Pfx01%2FflrHxEoPt2fwFMHkOm1TTmRap2rvPiFxk5sJ0GrT9459nrdPTT66vzKLUdr2YfOiFJ7fOKHaDIB4hpTPiS0SfQ4F4I4rnFmHYl4jZeXNZTtgQsuIf6gehHAicry6gBE02tZT4oz2r0grRcJbgFi7wP9vml0vh7IDK4Dczakx51kGafmheXZ8nn",
+    "itemLocation": {
+      "postalCode": "PR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/u4cAAOSw6EdoJJjN/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iMAAAOSwAbxoJJjR/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Tw0AAOSwoJVoJJjS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ruQAAOSwhXtoJJjP/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/d7MAAOSwaedoJJjS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/s2YAAOSwSIZoJJjS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SLMAAOSw8ARoJJjS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SYwAAOSwO5poJJjO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/r-8AAOSwIKxoJJjO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ijgAAOSwzYhoJJjP/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9OwAAOSwQIFoJJjS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mb0AAOSwiqZoJJjU/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "525.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "156987004467",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-10-12T15:12:21.000Z",
+    "itemCreationDate": "2025-05-14T13:35:36.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|392307906853|0",
+    "title": "ATLAS COPCO QCM T 340 15 / QCMT34015 (USED)",
+    "leafCategoryIds": [
+      "124603"
+    ],
+    "categories": [
+      {
+        "categoryId": "124603",
+        "categoryName": "Servo Motors"
+      },
+      {
+        "categoryId": "12576",
+        "categoryName": "Business, Office & Industrial"
+      },
+      {
+        "categoryId": "42892",
+        "categoryName": "Industrial Automation & Motion Controls"
+      },
+      {
+        "categoryId": "181730",
+        "categoryName": "Electric Motors"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/LaMAAeSwm2Bn3Emn/s-l225.jpg"
+    },
+    "price": {
+      "value": "1259.47",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C392307906853%7C0",
+    "seller": {
+      "username": "radwelluk",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 9130,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LaMAAeSwm2Bn3Emn/s-l225.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "12.50",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-08T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "28013574790",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/392307906853?_skw=T340&hash=item5b575f9925:g:LaMAAeSwm2Bn3Emn&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbtJZfUaZJ2wPmM%2B80X6oY6sQ80G0I%2FabeB0XOC3QEJhE0x9YYpYfFAB1EC7%2FWWEPJNHvfe83uWmVGLJlBstjnIbq%2BCjpmw0KMBpqKm8JvuENpxU5Eeofyv9CuDWnhbHUP4Nv70VsN%2FtEV86YnPF%2BQyQx%2FRwB8M7wLsQttRJF2uYXcyOR5xfla9yB0Lyx6Osxk5R0uytHYZ25yNGX6nhSJ3p6a0HLB5vzxgO5tqkJabYU770VrqSQrCB19yUylWWSXPOIx%2FO8HuenyCN%2Fg%2BBCRO",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "392307906853",
+    "availableCoupons": false,
+    "itemOriginDate": "2019-06-03T11:33:36.000Z",
+    "itemCreationDate": "2019-06-03T11:33:36.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|267105582048|0",
+    "title": "CERATIZIT WNT MILLING INSERTS XDHT11T340FR-ALP CWK26 H216T ORIGINAL NEW 10 pcs.",
+    "leafCategoryIds": [
+      "258376"
+    ],
+    "categories": [
+      {
+        "categoryId": "258376",
+        "categoryName": "Indexable Inserts"
+      },
+      {
+        "categoryId": "11804",
+        "categoryName": "CNC, Metalworking & Manufacturing"
+      },
+      {
+        "categoryId": "12576",
+        "categoryName": "Business & Industrial"
+      },
+      {
+        "categoryId": "45017",
+        "categoryName": "Toolholding"
+      },
+      {
+        "categoryId": "185133",
+        "categoryName": "Workholding & Toolholding"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/JVYAAOSwKSRh4UuD/s-l225.jpg"
+    },
+    "price": {
+      "value": "100.46",
+      "currency": "GBP",
+      "convertedFromValue": "135.00",
+      "convertedFromCurrency": "USD"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C267105582048%7C0",
+    "seller": {
+      "username": "apis-07ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 1661
+    },
+    "marketingPrice": {
+      "originalPrice": {
+        "value": "111.62",
+        "currency": "GBP",
+        "convertedFromValue": "150.00",
+        "convertedFromCurrency": "USD"
+      },
+      "discountPercentage": "10",
+      "discountAmount": {
+        "value": "11.16",
+        "currency": "GBP",
+        "convertedFromValue": "15.00",
+        "convertedFromCurrency": "USD"
+      },
+      "priceTreatment": "MARKDOWN"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JVYAAOSwKSRh4UuD/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "8.04",
+          "currency": "GBP",
+          "convertedFromValue": "10.80",
+          "convertedFromCurrency": "USD"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/267105582048?_skw=T340&hash=item3e30bbbbe0:g:JVYAAOSwKSRh4UuD&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ubczs836SP3zSYjfB5V1kNgMPQOp2j%2BvbmsyYvk1IdO4RKYpNXfZj7X5iVVk7GaWWj6OlDOceu9F%2FINQIivNgIreEVC4ihSJc3dBQvMgjJ%2Fv%2Fc5CSrAl9FXnKELDauBNIJh6TPJ374rBQFWibkudO5WBm5Ts1DTGatHf2blyaHzHuY7N%2F5yDLsSCtE%2BzFxLaL4KZ59hLsL9YoVHgIFZ%2BhCW6eR25xwdnBOzX3YKqEH5yPBEWtH0pvJBjqG%2FuOcehLVt4hBkMZ3Fsf4pbnWGstjF",
+    "itemLocation": {
+      "country": "BG"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GCQAAOSwYn1nawVJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ySwAAOSwGG1nawVM/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LOAAAOSwDctnawVO/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "267105582048",
+    "availableCoupons": false,
+    "itemOriginDate": "2021-07-19T10:18:39.000Z",
+    "itemCreationDate": "2024-12-24T19:05:04.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_US"
+  }
+]

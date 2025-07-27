@@ -1,0 +1,382 @@
+[
+  {
+    "itemId": "v1|226808467160|0",
+    "title": "Intel Xeon 24-Core Platinum 8260 35.75MB 2.40GHz Processor - SRF9H",
+    "leafCategoryIds": [
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/aRAAAeSw4~RoSREK/s-l225.jpg"
+    },
+    "price": {
+      "value": "174.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226808467160%7C0",
+    "seller": {
+      "username": "towlersltd",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 10704,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/aRAAAeSw4~RoSREK/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "17034919666",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/226808467160?_skw=Platinum+8260&hash=item34ced68ed8:g:aRAAAeSw4~RoSREK",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bEEAAeSwOoRoSREK/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "226808467160",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-11T05:12:24.000Z",
+    "itemCreationDate": "2025-06-11T05:12:24.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|127160130647|0",
+    "title": "Intel Xeon Platinum 8260 (SRF9H) 2.40GHz 24-Core LGA3647 165W 35.75MB Cache CPU",
+    "leafCategoryIds": [
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/cv4AAeSw9S1oX07G/s-l225.jpg"
+    },
+    "price": {
+      "value": "229.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C127160130647%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cv4AAeSw9S1oX07G/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "17034919666",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/127160130647?_skw=Platinum+8260&hash=item1d9b559c57:g:cv4AAeSw9S1oX07G",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/N-QAAeSwDHxoX07G/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/V~kAAeSwtlpoX07G/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "127160130647",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-06T20:48:05.000Z",
+    "itemCreationDate": "2025-06-06T20:48:05.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|396255967543|0",
+    "title": "Intel Xeon Platinum 8260 CPU 24Cores 48Threads 3.9GHZ LGA3647 Server Processors",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/xuwAAOSw0PVnLyrb/s-l225.jpg"
+    },
+    "price": {
+      "value": "148.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C396255967543%7C0",
+    "seller": {
+      "username": "sunshine-digital",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 57,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xuwAAOSw0PVnLyrb/s-l960.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/396255967543?_skw=Platinum+8260&hash=item5c42b23937:g:xuwAAOSw0PVnLyrb",
+    "itemLocation": {
+      "postalCode": "******",
+      "country": "CN"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LjwAAOSwFVpnLyrc/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "396255967543",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-02-28T05:23:38.000Z",
+    "itemCreationDate": "2025-02-28T05:23:38.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|127084614688|0",
+    "title": "Intel Xeon Platinum 8260 CPU Processor 24 Core 2.40GHz 35.75MB Cache 165W SRF9H",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/ZrwAAOSwOIBkrl8z/s-l225.jpg"
+    },
+    "price": {
+      "value": "240.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C127084614688%7C0",
+    "seller": {
+      "username": "serversetc",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 4083,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZrwAAOSwOIBkrl8z/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "17034919666",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/127084614688?_skw=Platinum+8260&hash=item1d96d55420:g:ZrwAAOSwOIBkrl8z&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UattEo86uH4gNMf3ihk%2FqpIjWUMMCF5t2tXBTarRV%2BQkYAXMU46%2BgJDK4PZFrTBQGzHC%2FeceN7VzMsQgVl3SoYeaEa5EmcZJ37pEKRYhSYZh1SMiEhJXKu3kUecMADm4ajD2Xp8wQ0IbvcbShZdgX8ysGQNM2gzxDJNihz53%2B1tRMd3iVODDRMAH%2FE1ONDd7tEX%2FU4AAzSz2MSP80uZvehO%2F38E%2Fx25Q%2BXexICbLqV1vZhRWSG2htZ5j1uCCRam260w3i6FnVbCKTqOkDUwbzdI",
+    "itemLocation": {
+      "postalCode": "RG12***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "127084614688",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-04-30T13:39:55.000Z",
+    "itemCreationDate": "2025-04-30T13:39:55.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|374764237215|0",
+    "title": "Intel Xeon Platinum 8260 2.40GHz 24-Core CPU SRF9H | 3 Year Warranty",
+    "leafCategoryIds": [
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/pRMAAOSwvvNmA~F2/s-l225.jpg"
+    },
+    "price": {
+      "value": "240.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C374764237215%7C0",
+    "seller": {
+      "username": "etb-technologies",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 8948,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/pRMAAOSwvvNmA~F2/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "17034919666",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/374764237215?_skw=Platinum+8260&hash=item5741b0719f:g:pRMAAOSwvvNmA~F2&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZWvP5a5IEkyq5%2FzuWjtSGIdRME7KaLmLdGZ6Bmd5W3DfQZTiaXQj0dk%2FM5v%2Bz9ydKrtC8qBXbETEf%2B%2BZ2orxAnEBiKRufeKpmMWWCc13GkWe3BEFKsehSUEq%2F5wXsVgG7LEQNQmeoq9EuO7%2BrhcwOP1M8tqD3Qt3W91JoFhekser%2By6dCkWqhg3ZOyRuGz64Q3jnybVDrURaQfG41k1sVB87cvduszMi1aFaUjG1I%2BU0OY%2BQu2olKqZI6S0ke%2B0PmOvAyYXzLGVI67tUYSOzxwV7rMgtbrcI7Lj1dnhu3lsA%3D%3D",
+    "itemLocation": {
+      "postalCode": "DG5***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "374764237215",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-06-19T18:40:30.000Z",
+    "itemCreationDate": "2023-06-19T18:40:30.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

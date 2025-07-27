@@ -1,0 +1,478 @@
+[
+  {
+    "itemId": "v1|205499038004|0",
+    "title": "DVS 4U Rack mount Server Chassis + Alphacool LCD display, 2 x SSD slots, 3 fans",
+    "leafCategoryIds": [
+      "64061"
+    ],
+    "categories": [
+      {
+        "categoryId": "64061",
+        "categoryName": "Rackmount Cases & Chassis"
+      },
+      {
+        "categoryId": "51197",
+        "categoryName": "Racks, Chassis & Patch Panels"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/0PoAAeSwCnZoLJza/s-l225.jpg"
+    },
+    "price": {
+      "value": "70.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C205499038004%7C0",
+    "seller": {
+      "username": "av_equipment_sales",
+      "feedbackPercentage": "99.0",
+      "feedbackScore": 8496,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0PoAAeSwCnZoLJza/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "20.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/205499038004?_skw=Server+Chassis&hash=item2fd8b27934:g:0PoAAeSwCnZoLJza",
+    "itemLocation": {
+      "postalCode": "CR6***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/8bMAAeSw8vtoLJzZ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qncAAOSwS3xoLJ7I/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SoMAAeSwtLRoLJzl/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0doAAeSwlhxoLJzv/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fzEAAeSw52toLJzu/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mhAAAeSwPAdoLJ0A/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gcIAAeSwH7toLJz~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TbIAAeSwxnhoLJ0V/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/f6MAAeSwstJoLJ0b/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HE4AAeSwX7xoLJ0b/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "205499038004",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-20T15:25:20.000Z",
+    "itemCreationDate": "2025-05-20T15:25:20.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|365733268200|0",
+    "title": "Datto S4P 1U Rackmount Server Chassis, 4 Hot Swap Bays, PSU",
+    "leafCategoryIds": [
+      "64061"
+    ],
+    "categories": [
+      {
+        "categoryId": "64061",
+        "categoryName": "Rackmount Cases & Chassis"
+      },
+      {
+        "categoryId": "51197",
+        "categoryName": "Racks, Chassis & Patch Panels"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/QpIAAeSwGqxod3mr/s-l225.jpg"
+    },
+    "price": {
+      "value": "49.95",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C365733268200%7C0",
+    "seller": {
+      "username": "pcs4u-uk",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 3621,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QpIAAeSwGqxod3mr/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/365733268200?_skw=Server+Chassis&hash=item552766cae8:g:QpIAAeSwGqxod3mr&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbJF5%2BfOvh2LMbZu7K9oTPsngqfpFVxkpwB8FirzLs6z2zmsLfjl0e9VZcbPohNfRBQpxUPuvOT8nyKs2ZTZwxy3YuTe7QFpnM61asZ%2F5L8YhqvFEtTMSbzqRgyOZjgoOlgtMVv%2BuO8S69JUwgJS7sIjGvuij7sAwHzQO8R7BvggI0Znq21pHLb6OmpTG2J1v37rBuEUan1OYHr2NLPnmJs%2F7g2RLTDhilD6xV6f8PfdbQjbrj80vx4rNSRLWUkOn9UKMvPfwES6X7jOjAbqialTD6Z8N2dRa0dhuawwbB1Dw%3D%3D",
+    "itemLocation": {
+      "postalCode": "ST16***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-D8AAeSwtUxod3mr/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6BcAAeSw9~Bod3mr/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "365733268200",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-16T10:03:43.000Z",
+    "itemCreationDate": "2025-07-16T10:03:43.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|365710150235|0",
+    "title": "Datto S3P 1U Rackmount Server Chassis, 4 Hot Swap Bays, PSU",
+    "leafCategoryIds": [
+      "64061"
+    ],
+    "categories": [
+      {
+        "categoryId": "64061",
+        "categoryName": "Rackmount Cases & Chassis"
+      },
+      {
+        "categoryId": "51197",
+        "categoryName": "Racks, Chassis & Patch Panels"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/XjYAAeSw2epoZ60x/s-l225.jpg"
+    },
+    "price": {
+      "value": "49.95",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C365710150235%7C0",
+    "seller": {
+      "username": "pcs4u-uk",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 3621,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XjYAAeSw2epoZ60x/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/365710150235?_skw=Server+Chassis&hash=item5526060a5b:g:XjYAAeSw2epoZ60x&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaivHU5mnOwLEKIszFDYYQPzqd1fMPU6bb%2BHS5WuHf7y%2FPDMDgiV6v8K9ufNUccyBIJfyIKYNVpbm9K4Z2FcYqaAqQP5oGAiO0CCwo%2BwTU4hENNPr69Wv2pGe1llCF%2BGDOeMEbyAWNHPq%2Fxcb1dtVQnwRbHN%2FpzAUOMpzu6z%2B0F4zeY%2F792YWzD8HEum6C5lW8%2FSyOtlz7rm579aP9xCrI6djnrkdZA%2B1N69U35rN%2FScVugI4tqj3%2F9TVA6W%2BGfr1a0myazxSe6yv7gQq7q2Km981d8TNkDgsTYlPEcKj37PA%3D%3D",
+    "itemLocation": {
+      "postalCode": "ST16***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FkQAAeSwQGFoZ60w/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/eT4AAeSwf71oZ60x/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/VU8AAeSwKqBoZ60w/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "365710150235",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-04T10:25:58.000Z",
+    "itemCreationDate": "2025-07-04T10:25:58.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|376423426278|0",
+    "title": "4U Server Cabinet Case;4U Server Chassis Rackmount 7 x PCI Slot Rackmount",
+    "leafCategoryIds": [
+      "42014"
+    ],
+    "categories": [
+      {
+        "categoryId": "42014",
+        "categoryName": "Computer Cases"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      },
+      {
+        "categoryId": "175674",
+        "categoryName": "Computer Cases & Accessories"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/hJcAAeSwlWdof0xn/s-l225.jpg"
+    },
+    "price": {
+      "value": "90.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C376423426278%7C0",
+    "seller": {
+      "username": "hellocentero_a",
+      "feedbackPercentage": "98.9",
+      "feedbackScore": 628,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hJcAAeSwlWdof0xn/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/376423426278?_skw=Server+Chassis&hash=item57a495a8e6:g:hJcAAeSwlWdof0xn&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZ7STSew4W98sHb25bWudekVr2fT1%2B7DzjFG5GQ4TQ5vi%2Fzwwg5HfdRcTufIJDEbspalkecvNbjZChVs5l4zMf7Z%2FZxfgN06PsF5tyinB9VMVggtoi6G5Fv5kefBF0JmzgTLKhl1ioMh8hekrUHiOoe27hpcAbwahLGssFX9qXv8yC8Yx7MIpg%2BrZ%2BFuexZZjltnTnimB5U4Ypm4%2Bsu7a6SuX1GI4VLooDgaw3kavq0yQv6yFufpp1udRLmPa5buwz6RJTng9y8hP37on%2FiURHV",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/b4QAAeSwbAVof0xn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Z~AAAeSwnIFof0xn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/eR4AAeSwe01of0xn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/a9IAAeSwGcFof0xo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YOUAAeSwZ8Jof0xn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dPoAAeSw7oJof0xn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Y0MAAeSwKtNof0xn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bREAAeSwkTdof0xn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/aegAAeSwyb5of0xn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XLYAAeSwdgpof0xo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/c7EAAeSw2apof0xo/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "376423426278",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-22T08:33:14.000Z",
+    "itemCreationDate": "2025-07-22T08:33:14.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|236102628453|0",
+    "title": "Supermicro CSE-829U 2U Rackmount Server Chassis 12x Bay Caddies 2x 1000W PSU ",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/-HEAAeSw1iZod7Jq/s-l225.jpg"
+    },
+    "price": {
+      "value": "189.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236102628453%7C0",
+    "seller": {
+      "username": "dr.memory",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 179577,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-HEAAeSw1iZod7Jq/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/236102628453?_skw=Server+Chassis&hash=item36f8d03465:g:-HEAAeSw1iZod7Jq",
+    "itemLocation": {
+      "postalCode": "M17***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wQMAAeSwVhRod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/uc4AAeSw1tZod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ztYAAeSwr9dod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xnUAAeSw2lBod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xtwAAeSwdONod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7-wAAeSwpUVod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oY0AAeSwmFNod7Jq/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "236102628453",
+    "availableCoupons": true,
+    "itemOriginDate": "2025-05-15T00:34:27.000Z",
+    "itemCreationDate": "2025-05-15T00:34:27.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

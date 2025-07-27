@@ -1,0 +1,457 @@
+[
+  {
+    "itemId": "v1|326088228541|515196485861",
+    "title": "LSI 9207-8i SAS HBA - IT Mode - Unraid NAS ZFS TrueNAS Proxmox JBOD -NO BIOS",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=326088228541",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/sd4AAOSwyKhnn~hm/s-l225.jpg"
+    },
+    "price": {
+      "value": "44.99",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326088228541%7C515196485861",
+    "seller": {
+      "username": "it-cards",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 2234,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sd4AAOSwyKhnn~hm/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326088228541?_skw=LSI+9207&hash=item4bec5f7ebd:g:sd4AAOSwyKhnn~hm",
+    "itemLocation": {
+      "postalCode": "PR7***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iEAAAOSwAfJnGS44/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wwQAAOSwp25nn~iK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/kOAAAOSw8rhnn~iZ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sX0AAOSw2dpnn~ib/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qNIAAOSwDuNnn~ib/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ll0AAOSwa5pnn~ic/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "326088228541",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-04-13T10:08:26.000Z",
+    "itemCreationDate": "2024-04-13T10:08:26.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|326493869301|515586503834",
+    "title": "9207-8e  LSI SAS HBA  IT Mode - Unraid NAS ZFS TrueNAS Proxmox - NO BIOS",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=326493869301",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/TLMAAOSwKBpngPIY/s-l225.jpg"
+    },
+    "price": {
+      "value": "39.99",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326493869301%7C515586503834",
+    "seller": {
+      "username": "it-cards",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 2234,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TLMAAOSwKBpngPIY/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326493869301?_skw=LSI+9207&hash=item4c048d14f5:g:TLMAAOSwKBpngPIY&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UY%2FVTS49xaslae32takKBb%2B32KS6iuxGCFLnNRR5bQJn9A6ZkHbjoyHIQIGE1jeGAMbeu3hDRI6KqoaeALiNZcg3oI6yBPSobG0NliD7Pp9EU7KyoXmCY2dYMEbGuBXc2Nt%2B0Mk%2BLKAQC5l3bk%2F690tWKxSpK%2Fvgpfu%2B8cqXXsbTY%2BUmyycDkrqm9dzvzsUvWQEBfAJOHTH2EjhVRr85yMIy%2FTPppLB4AQlwIEwM9msJwz36EIbzOd3JcM1%2FRn3kmrVSMIArbH86uKtBMudnCvA",
+    "itemLocation": {
+      "postalCode": "PR7***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/b0AAAOSwgqln3bti/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dBoAAOSwJuZngPJR/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cKQAAOSwm3RngPJQ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3sUAAOSwvptngPJS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7nYAAOSwd2dngPJS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GswAAOSwaYFngPJS/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "326493869301",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-01-10T10:16:58.000Z",
+    "itemCreationDate": "2025-03-19T19:46:00.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|394523519675|0",
+    "title": "9207-8i PCIE3.0 6Gbps HBA LSI FW:P20 IT Mode ZFS FreeNAS unRAID 2* SFF-8087",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/6-kAAOSwKrFkGR7a/s-l225.jpg"
+    },
+    "price": {
+      "value": "29.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C394523519675%7C0",
+    "seller": {
+      "username": "linyou-606",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 2595,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6-kAAOSwKrFkGR7a/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/394523519675?_skw=LSI+9207&hash=item5bdb6f2abb:g:6-kAAOSwKrFkGR7a&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UY8b5%2F1KABseYF5GEjxQ3tKKwwRQHzcVfJz6n7FqKkf7nmjQsku6Qc0qsJrGiTFZ%2FuZULpW53BD1hURtf4BeTfRCyJSY9yKbP9xaKO5RUwwV4KsUevi4mMMkxIh306zbyCBc2FWdYUalqXkm8O1Bk6ZxmGM52IkVLtcGRnWspB2lVAgjOSRrSO6s6k78quy0KjS8Bohp9cVtvT81gpUE8pcxtk%2FqUpjThuCH6U5gcHvIiM0I6MW%2BqARMuD9%2FM07MYlf2C3K2JE2VKE4nB8Dlyh5",
+    "itemLocation": {
+      "country": "CN"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5qkAAOSwnlxkGR7g/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mmUAAOSwZnhkGR7a/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4K0AAOSwyNJkGR7b/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/T0cAAOSwjYNkGR7e/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gXcAAOSw9BpkGR7e/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~iwAAOSwEpBkGR7o/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "394523519675",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-03-21T03:11:12.000Z",
+    "itemCreationDate": "2023-03-21T03:11:12.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|226307592544|0",
+    "title": "LSI 9207-4i4e SAS HBA - IT Mode NAS Unraid ZFS TrueNAS Proxmox Server JBOD",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/DCUAAOSwQZZnnSXG/s-l225.jpg"
+    },
+    "price": {
+      "value": "37.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226307592544%7C0",
+    "seller": {
+      "username": "it-cards",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 2234,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DCUAAOSwQZZnnSXG/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/226307592544?_skw=LSI+9207&hash=item34b0fbd160:g:DCUAAOSwQZZnnSXG&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZTEqikTx89scXf3CQL4AG0nw0TU2K6G%2BOTCZrLskV535r7vRpMHKaaQgQqaD4buIwemGYRa5SkZZttoxtJOvmf%2Be4ussfZx4L1FMOviqAJHOtgY8FrQzC4ylStbZuJsOr07F8ZFJ9oVPmOKpgArUfArzcVRX0POuDuDVfjaCnjXZcw1NVx312Po%2FgizrL7KoJbJZsn1j4oSm5y8fnl34nTHjkSVUo54x8qWuat0FUAEWKi7qk0HH4%2FACpHNBLl%2BO9zxSkM4frcRzJk8wjxQzag",
+    "itemLocation": {
+      "postalCode": "PR7***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yfUAAOSwf1tmzvQ8/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FFoAAOSwDbdnnSYA/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Vr4AAOSwN0pnnSYc/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zE0AAOSw~NtnnSYa/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GiUAAOSweA5nnSYd/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1e0AAOSwewtnnSYf/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/i9AAAOSwMI9nnSYe/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "226307592544",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-08-01T19:52:45.000Z",
+    "itemCreationDate": "2024-08-22T08:03:42.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|124200301210|0",
+    "title": "LSI 9207-8i 6Gbs SAS HBA P20 IT Mode For ZFS FreeNAS unRAID +2* 8087 SATA Cable",
+    "leafCategoryIds": [
+      "90715"
+    ],
+    "categories": [
+      {
+        "categoryId": "90715",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      },
+      {
+        "categoryId": "182088",
+        "categoryName": "Interface/Add-On Cards"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/ftsAAOSw-9JezJIg/s-l225.jpg"
+    },
+    "price": {
+      "value": "32.38",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C124200301210%7C0",
+    "seller": {
+      "username": "xuanwen-2011",
+      "feedbackPercentage": "99.6",
+      "feedbackScore": 11309,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ftsAAOSw-9JezJIg/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/124200301210?_skw=LSI+9207&hash=item1ceaea329a:g:ftsAAOSw-9JezJIg",
+    "itemLocation": {
+      "postalCode": "******",
+      "country": "CN"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OqEAAOSwnaVezJIX/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/v8wAAOSwZI1ezJIb/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "124200301210",
+    "availableCoupons": false,
+    "itemOriginDate": "2020-05-26T03:56:34.000Z",
+    "itemCreationDate": "2020-05-26T03:56:34.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

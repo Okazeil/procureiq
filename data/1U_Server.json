@@ -1,0 +1,503 @@
+[
+  {
+    "itemId": "v1|126700627682|0",
+    "title": "HP ProLiant DL360 Gen9 Server 4LFF REFURBISHED - CTO G9 1U",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/9q4AAeSwRndoajyo/s-l225.jpg"
+    },
+    "price": {
+      "value": "64.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126700627682%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9q4AAeSwRndoajyo/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/126700627682?_skw=1U+Server&hash=item1d7ff226e2:g:9q4AAeSwRndoajyo",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "126700627682",
+    "availableCoupons": true,
+    "itemOriginDate": "2024-10-01T12:17:20.000Z",
+    "itemCreationDate": "2024-10-01T12:17:20.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|376417338924|0",
+    "title": "ASUS RS100-E10-PI2 1U Efficient Server i3-8100 24GB 500GB",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/r-YAAeSw6bNofAc5/s-l225.jpg"
+    },
+    "price": {
+      "value": "260.68",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C376417338924%7C0",
+    "seller": {
+      "username": "jzp_store",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 36,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/r-YAAeSw6bNofAc5/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "8.41",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/376417338924?_skw=1U+Server&hash=item57a438c62c:g:r-YAAeSw6bNofAc5&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbIoprkCP8y7wgjL834fTZxuoA1QIz%2FMijP5%2BYskJz%2FHr0xS06s7RAwJPQWAhUdPiLWXFbbOXVd2wy5SlAD4tdzngNNxWwwuDGdjKy1L%2B7%2FjoT9USfwVA7xnAecq5fdPay6duE0p%2FYQu%2FcAfJ7mr7oMgMf36HHZrPxPTvsYlohN5eg8nuC%2FX7rbqm8oaUZBbK2onopY7FZipQJRM6PqiLZmzshr7EKF8DpRcnMH3PufSmKI6%2F97GkcD0IzoAsRvY%2BPd5PwJw%2Fgktzfq2qPH31cs",
+    "itemLocation": {
+      "postalCode": "TR18***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/prUAAeSwVgBofAhN/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JJEAAeSwsVdofrbR/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MK0AAeSwphVofrbS/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "376417338924",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-19T21:03:53.000Z",
+    "itemCreationDate": "2025-07-19T21:03:53.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|257020398304|0",
+    "title": "Dell PowerEdge R340 1U Server Intel Xeon E 2126G 64GB DDR4 4x 4TB 7.2K SAS HDD",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/jCkAAeSwFMNoeK9J/s-l225.jpg"
+    },
+    "price": {
+      "value": "349.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C257020398304%7C0",
+    "seller": {
+      "username": "bluecybercow",
+      "feedbackPercentage": "99.9",
+      "feedbackScore": 14039,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Good - Refurbished",
+    "conditionId": "2030",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jCkAAeSwFMNoeK9J/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-27T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/257020398304?_skw=1U+Server&hash=item3bd79c0ae0:g:jCkAAeSwFMNoeK9J&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZTpTu4QLFlrCWdPHZbiaZXQPB5h4SCwybfcMvbehrAA%2FfcaL7gTqFeRIZ%2FcvA1laGZUjl6IGX8MJ5z%2FKcjtwq3Qsg0F6p7LufbWqlzPAZ13MJi2tbWVRYvjPSKkk%2FI8u7CYf977uitJVh9DQEDahQyh%2FTE6OFuGUH2jTgPZ%2FKRsZXWvuglz%2FpZ3pihonbGkbttiHFnLIEnZjiKE0HubjzdBvI0Sib7d94wVt1sDWBmg7gAdYq1OnW4%2FQQIHfTnpk4y%2BKSYJ6%2FHNGl2Sh3iH1op",
+    "itemLocation": {
+      "postalCode": "CH3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RnkAAeSwk-BoeK9J/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Zn4AAeSwdoZoeK9K/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iZMAAeSwmmRoeK9K/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YHQAAeSw22FoeLCg/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sK0AAeSwKO9oeLCf/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YwgAAeSwUR9oeK9O/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nBMAAeSwlOxoeK9N/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-XIAAeSwqg1oeK9M/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-YQAAeSwqg1oeK9P/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RoUAAeSwk-BoeK9M/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/e98AAeSwZExoeK9O/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/lU0AAeSw7sVoeK9O/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UdIAAeSwLO9oeK9N/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NF8AAeSwlV1oeK9O/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/R50AAeSwnPdoeK9Q/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yWUAAeSwgUNoeK9N/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oqEAAeSwqr5oeK9O/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/kRQAAOSwpr1m2uIQ/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "349.99",
+      "currency": "GBP"
+    },
+    "legacyItemId": "257020398304",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-17T08:14:14.000Z",
+    "itemCreationDate": "2025-07-17T08:14:14.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|256938341408|0",
+    "title": "Dell ProLiant DL360P Gen8 1U Server Intel Xeon E5 2620 2Ghz 144GB RAM 600GB HDD",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/2BUAAOSwwYxoK0F5/s-l225.jpg"
+    },
+    "price": {
+      "value": "124.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256938341408%7C0",
+    "seller": {
+      "username": "bluecybercow",
+      "feedbackPercentage": "99.9",
+      "feedbackScore": 14039,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2BUAAOSwwYxoK0F5/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-27T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/256938341408?_skw=1U+Server&hash=item3bd2b7f420:g:2BUAAOSwwYxoK0F5&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYgEzLvSZXV8AYYbg5ALSP9l%2FbnA59Ua5iJna6%2Bnye%2Fs0UVkd43bP9RCHJP5%2Bzt2TYAfLSwi8XF0ZTCxydbv8plnF8CkVrZDU5SXtSq95ves8oyIItDJ7m6fm6zwAESxWUL54ePL9cHwJJeBkeDfzVBDjAyZWvLqgihgpNExCgz4VCUpMPMKG%2Bg%2B6zqVIi0wAtZGH0W0diD%2Bk00pHr02ZLWFSa9VSe4Mc%2FkqPwOVyrBZcQt07eLtKLEBjcKKhAEC4SEvd96moDJHZDi3WD8QSG0",
+    "itemLocation": {
+      "postalCode": "CH3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Zw0AAOSwTzJoK0FF/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/og0AAOSwquZoK0FG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/K7sAAOSw2NxoK0FG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PAoAAOSwTMpoK0FG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/580AAOSwyddoK0FH/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XxoAAOSw2EJoK0FI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/utoAAOSw9ZJoK0FI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/g9MAAOSwk45oK0FI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/I8cAAOSwqlloK0FI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-SQAAOSwIetoK0FL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/lrcAAOSw2tBoK0FI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bhAAAOSwVI9oK0FJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3nEAAOSwC09oK0FH/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/a3MAAOSwTFNoK0FI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7CsAAOSwlJFoK0FJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/t54AAOSwuLBoK0FJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/O8UAAOSwf7lmyKoY/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/kMMAAOSw3N1oK0Fe/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "124.99",
+      "currency": "GBP"
+    },
+    "legacyItemId": "256938341408",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-19T14:45:39.000Z",
+    "itemCreationDate": "2025-05-19T14:45:39.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|226872829090|0",
+    "title": "HP Proliant DL120 Gen9 1U Server 6Core E5-2603 V3 CPU @1.6GHz 3MTHS RTB WARRANTY",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/o9gAAeSw1PJoejC6/s-l225.jpg"
+    },
+    "price": {
+      "value": "99.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226872829090%7C0",
+    "seller": {
+      "username": "lotnumber73",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 3677,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/o9gAAeSw1PJoejC6/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-27T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/226872829090?_skw=1U+Server&hash=item34d2aca4a2:g:o9gAAeSw1PJoejC6",
+    "itemLocation": {
+      "postalCode": "WA14***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "226872829090",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-18T11:37:51.000Z",
+    "itemCreationDate": "2025-07-18T11:37:51.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

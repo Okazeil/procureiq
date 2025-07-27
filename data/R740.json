@@ -1,0 +1,527 @@
+[
+  {
+    "itemId": "v1|388711006354|0",
+    "title": "Dell PowerEdge R740 2 x Intel Xeon Gold 6148 2.40Ghz 20 Core 256GB RAM H730P 2GB",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/MYgAAOSwqQpePTZL/s-l225.jpg"
+    },
+    "price": {
+      "value": "480.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388711006354%7C0",
+    "seller": {
+      "username": "itbaron001",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 3683,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MYgAAOSwqQpePTZL/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-08-04T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-04T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388711006354?_skw=R740&hash=item5a80fb4092:g:MYgAAOSwqQpePTZL",
+    "itemLocation": {
+      "postalCode": "HP11***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "388711006354",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-15T10:06:11.000Z",
+    "itemCreationDate": "2025-07-15T10:06:11.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|365758009814|0",
+    "title": "Dell PowerEdge R740 CTO Configure-To-Order Server 2x Scalable CPU 24-DIMM 16-Bay",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/c~IAAeSwNKZog0eJ/s-l225.jpg"
+    },
+    "price": {
+      "value": "624.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C365758009814%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/c~IAAeSwNKZog0eJ/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "4015863001",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/365758009814?_skw=R740&hash=item5528e051d6:g:c~IAAeSwNKZog0eJ&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYrRr62qmCzJ2bz6WVxt6Rlh1p1p3DJRkWNNuaqCuoh0ZaeYjpO1xs5PgxEV3HCdmoU637OW1e9VlugwaRe4HvWMpNrr7vlwIcbTHJf92W5HJB96AlZI%2Fd4jE9VWmed9vcB4h4y8gqKmp4av1el5J8TcFCquq5igzzcajWaFh53hR6m%2FYKBY4dEOdggEEJq3bZjYo719%2FKoLPtnhljVV8ZmRMyYPjZJTazUcAjPUDqytYnaShzRv3hukn155hbsqtuZ4xIoI5lqr1UKviZacYHX",
+    "itemLocation": {
+      "postalCode": "WC1B***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JwsAAeSwrQpogzq0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/J0AAAeSwuz5ogzq0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/N08AAeSw~Spogzq0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hrcAAeSwLGhog0fZ/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "365758009814",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-25T21:04:05.000Z",
+    "itemCreationDate": "2025-07-25T21:04:05.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|157106389892|0",
+    "title": "Dell PowerEdge R740 16*SFF 2x Gold 6126 128GB H730P  4x 2TB HDD iDRAC Enterprise",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/DlcAAOSwJLxoUX6U/s-l225.jpg"
+    },
+    "price": {
+      "value": "640.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C157106389892%7C0",
+    "seller": {
+      "username": "compuwyze_ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 840,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DlcAAOSwJLxoUX6U/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "4015863001",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/157106389892?_skw=R740&hash=item2494454384:g:DlcAAOSwJLxoUX6U",
+    "itemLocation": {
+      "postalCode": "PR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qgkAAOSwCchoUX50/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6yIAAOSwv05oUX5y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WS8AAOSwgOxoUX5w/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GiEAAOSwEudoUX51/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/P~MAAOSwFxBoUX5y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OCkAAOSwdOVoUX5x/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZXEAAOSwmBpoUX5x/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/s-QAAOSw-mBoUX50/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/aJ0AAOSwW8doUX50/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RzoAAOSwxb1oUX5y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/O40AAOSwBGFoUX5z/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AeAAAOSwW1BoUX5x/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/EzoAAOSwSLRoUX5y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/REgAAOSwpVRoUX5w/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "640.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "157106389892",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-17T14:44:59.000Z",
+    "itemCreationDate": "2025-06-17T14:44:59.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|116667861693|0",
+    "title": "Dell PowerEdge R740 2x Gold 6138 2.00Ghz 40Core 256GB H730P/2GB 5x960GB SSD 2.5\u201d",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/QGoAAOSw30Vn3X13/s-l225.jpg"
+    },
+    "price": {
+      "value": "1071.95",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C116667861693%7C0",
+    "seller": {
+      "username": "servershopping",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 4134,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QGoAAOSw30Vn3X13/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-04T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/116667861693?_skw=R740&hash=item1b29f24abd:g:QGoAAOSw30Vn3X13&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua84gilbB5z9fP2Oy7GifbnQ2moou%2Ba6fUommLF7wOMtBnmOZuhQRD83yM2zLbxio3Xu%2B0DM5xnhWBxuIYN8vsmQrTw3wABwZKYSdIiZ6YYi31H93iWJZ8pjYTFzrjkj5FTrM6iiY3J8jkYiAJi3bG2ZRdjvGVW18VtOlEESuYJ2SmpRrxYSe4WoIhVzIyMDL6l%2BDs7bJ9rmw6JVYxfQptC0XOF9SOoNSKbNhiPT2c%2B18SCKCQNveLrt5A4AGVYkItuHMIQGTw7jeSRNZ8Uwu33",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gEEAAOSwNJZn2SVE/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/b78AAOSwmQRnz9VU/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/q-0AAOSwPTxnz9U-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/s7sAAOSwTLRnz9Vk/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZrkAAOSwyg9nz8a~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IhYAAOSwudBnz8a~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bY8AAOSwMlxnz8a~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QIgAAOSwAQ1nz9V7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xYsAAOSwakxn2SRy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/k5gAAOSwsWln2SRy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SfQAAOSwO~9n2SSK/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "116667861693",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-25T21:44:37.000Z",
+    "itemCreationDate": "2025-06-25T21:44:37.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|326336503069|0",
+    "title": "Dell R740 2x Xeon- 2x8GB RAM 2x 495W PSU 2U Rack Server PERC H730p",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/MMAAAOSwAIFnMy35/s-l225.jpg"
+    },
+    "price": {
+      "value": "567.68",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326336503069%7C0",
+    "seller": {
+      "username": "ruturnthehandle1",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 1111,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MMAAAOSwAIFnMy35/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "22.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326336503069?_skw=R740&hash=item4bfb2bdd1d:g:MMAAAOSwAIFnMy35&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbeWFfU1SMfwn11%2Bqe%2F25Qarp5dqkJ4J3P6RmJA8l8PxBwm2OhIMHcTaV%2FL%2BINLcos%2FRSBY4B%2BhgcLxZeVwj2CxZqzazJL6qRX4Foufj1s%2F3HdXbU61fErvDjUqA5fdszfGlfvUdahgERrxwhW1VCkU6TOpyEJEtFtunoceTpLwbs3GdSul8v0dHCxDU6y7%2FEyO2rDCM6Zlw%2FFljBlZ3yZsYpek2MGlBVgDguHSe11tYFFKSXlNsKPLRa0SQPphK4S1DpYAHzJUyr%2FwX0QpxBzv",
+    "itemLocation": {
+      "postalCode": "OX4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YwkAAOSwtcpnMy35/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/R1UAAOSwpjpnMy36/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LJIAAOSwEf5nMy35/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6VIAAOSwUslnMy36/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dvAAAOSwL7BnMy37/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xXYAAOSw9LlnMy37/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GVwAAOSwSHxnMy37/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XAEAAOSwVBhnMy37/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4RAAAOSwTO5nMy38/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MqEAAOSwBKFnMy38/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GTUAAOSwXw1nMy39/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PwYAAOSwu9ZnMy39/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jvIAAOSwe4NnMy39/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/D-0AAOSwp1BnMy39/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IY0AAOSw09xnMy3-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KRUAAOSwcPZnMy3-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fHoAAOSwzoJnMy3-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rR0AAOSwBdlnMy3-/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "326336503069",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-11-12T10:31:48.000Z",
+    "itemCreationDate": "2024-11-12T10:31:48.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

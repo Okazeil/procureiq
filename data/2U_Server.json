@@ -1,0 +1,499 @@
+[
+  {
+    "itemId": "v1|236102628453|0",
+    "title": "Supermicro CSE-829U 2U Rackmount Server Chassis 12x Bay Caddies 2x 1000W PSU ",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/-HEAAeSw1iZod7Jq/s-l225.jpg"
+    },
+    "price": {
+      "value": "189.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236102628453%7C0",
+    "seller": {
+      "username": "dr.memory",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 179577,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-HEAAeSw1iZod7Jq/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/236102628453?_skw=2U+Server&hash=item36f8d03465:g:-HEAAeSw1iZod7Jq",
+    "itemLocation": {
+      "postalCode": "M17***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wQMAAeSwVhRod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/uc4AAeSw1tZod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ztYAAeSwr9dod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xnUAAeSw2lBod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xtwAAeSwdONod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7-wAAeSwpUVod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oY0AAeSwmFNod7Jq/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "236102628453",
+    "availableCoupons": true,
+    "itemOriginDate": "2025-05-15T00:34:27.000Z",
+    "itemCreationDate": "2025-05-15T00:34:27.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|297485148017|0",
+    "title": "Dell PowerEdge R720 6-Core E5-2620v2 2.00GHz 256GB RAM H710P 2U Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/gLQAAOSwUZxoUYbs/s-l225.jpg"
+    },
+    "price": {
+      "value": "129.95",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C297485148017%7C0",
+    "seller": {
+      "username": "fixedasset-sales",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 8183,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gLQAAOSwUZxoUYbs/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "7.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "2256184369",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/297485148017?_skw=2U+Server&hash=item45437f1f71:g:gLQAAOSwUZxoUYbs&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYPQYxiRNHMs9xvSWIKpHw0OrEuNup8my2kGoA06fIJqSWKPW%2Fg%2BE8IjDG1JLke3Zv0aoj04fpzkm5DUYZ3vXD0AlE%2FoLTo8GrSL7UpLYC5kM1fzkOZBmGDHkP12yDuiLMkx6u45Ffj261cF6uU%2Fsob43zUsSYsmToRYl4ZmSWI0y0lUo%2FOAaA5MtUFcKdE9cbGbtGQYjQpA0WELCTWAqhBBzGLggY95Qh6KCb8DmakjkabzpDG0PdzMupq4n9LslM%2Fq6k2SD8inbVDF7YKDFFrvVQQZIlFgSSYeDYvaFdJqw%3D%3D",
+    "itemLocation": {
+      "postalCode": "RG40***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UUEAAOSwIWZoUYby/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YUcAAOSwkEBoUYb3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9tAAAOSwEItoUYb~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dM8AAOSwxWloUYcC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KEQAAOSwA-VoUYcU/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oBwAAOSwW55oUYcW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FMcAAeSw7H5oUYYx/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CPkAAeSwuxhoUYYy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nwIAAOSwR-9oUYci/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LoIAAOSwaFRoUYcr/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/S9IAAOSwMwhoUYcy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wWsAAOSwunpoUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RIcAAOSw1rBoUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Na4AAOSwgxloUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OFcAAOSw2CVoUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~uIAAOSwSo5oUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rk8AAOSwDmloUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5hoAAOSwMdloUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qsMAAOSw6QJoUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zYYAAOSw09hoUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wecAAOSwkl5oUUsB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/f2oAAOSw3gZoUUsB/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "297485148017",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-17T15:29:22.000Z",
+    "itemCreationDate": "2025-07-21T13:59:18.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|205222026817|0",
+    "title": "Simplivity Dell C2200 R720xd Xeon E5-2650v2 2.6GHz 12x3.5\" 2x 2.5\" Bay 2U Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/ajkAAOSw7WVnhQwH/s-l225.jpg"
+    },
+    "price": {
+      "value": "300.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C205222026817%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ajkAAOSw7WVnhQwH/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "10031188285",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/205222026817?_skw=2U+Server&hash=item2fc82f9e41:g:ajkAAOSw7WVnhQwH&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZfE%2BEt58ITijij5sfWXIvaNOeHN0dDEMb8Rf68KWIahPUFewTbFzbP80b64YtHHvdr3NGYpIlY7%2FPLVCadgoWQZ62VQAm5BMfq2UJGNtQrBj4%2BTN3N1R3Qn5%2FnEhWrZIPJS8fyG1X5rCHwndR8rEDGCLEk7xYiSPmM8hnMhyFa0%2BNjrX3CXl7nzsqhZbCAsDLoLBIyFtO1zYDCe0xuFjvGUs5hKwIfbJRL7UZkeoROnzzk8nS0dyO9obAncvXAoBvQXrKABM3ix%2B6seKRwakcb",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Si4AAOSwLtJnhQyQ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/O58AAOSwcYFnhQwa/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7-UAAOSwbnVnhQwp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/U6sAAOSwgC1nhQwy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PnIAAOSwt0RnhQxB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/eMgAAOSw021nhQyB/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "205222026817",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-01-14T06:40:32.000Z",
+    "itemCreationDate": "2025-01-14T06:40:32.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|403796244301|0",
+    "title": "Fujitsu Primergy RX300 S8 2x 8C E5-2640v2 128GB Ram 6x 900GB SAS HDD 2U Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/z9gAAOSwc~li3nSF/s-l225.jpg"
+    },
+    "price": {
+      "value": "360.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C403796244301%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/z9gAAOSwc~li3nSF/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "28026657598",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/403796244301?_skw=2U+Server&hash=item5e0421b74d:g:z9gAAOSwc~li3nSF&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbEf%2FAFNiH0WrrsQr9j5y93tp0nw5N96ykx15pNuGzoyMXu5evh9KA6t%2B6Hy%2BKcIFM57wNNkh1u%2F9ePkgk3bPDcz7IwcUJWErZ77mfbLzP9T4aH%2BoVQgWjDDyFkfNa%2FX7G%2FHMqHLYoqhu23o950zM%2BMGpVSEm8Ruc8wn1Weni2QQiDKR0DRsAMgV0rGaz4P4nK59M24D5QT7wP%2FUomm7Tl%2F5H%2Fl6qrLormNCMraXNq5zaQIf04nQc4um%2FHvg9FR%2FVhtRTLl%2BoxiciFGz1e2wQNL",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RpoAAOSwWCVi3nI3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5TUAAOSwHAxi3nIp/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "403796244301",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-07-29T20:32:07.000Z",
+    "itemCreationDate": "2022-07-29T20:32:07.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|203913215140|0",
+    "title": "Huawei Tecal RH2288H v2 2x 8C E5-2650v2 2.60GHz 384GB Ram 8x 2.5\" Bay 2U Server ",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/XxcAAOSwCAxiV7n1/s-l225.jpg"
+    },
+    "price": {
+      "value": "360.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C203913215140%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XxcAAOSwCAxiV7n1/s-l960.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/203913215140?_skw=2U+Server&hash=item2f7a2cbca4:g:XxcAAOSwCAxiV7n1",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0xsAAOSwl2NiV7oH/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1-wAAOSwkoxiV7n9/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "203913215140",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-04-17T08:08:32.000Z",
+    "itemCreationDate": "2022-04-17T08:08:32.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

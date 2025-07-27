@@ -1,0 +1,462 @@
+[
+  {
+    "itemId": "v1|286588380150|0",
+    "title": "Lenovo ThinkSystem SR630 1U 8*SFF 2x Xeon 4110 384GB RAID 2x PSU",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/yPkAAOSwTXloLwNw/s-l225.jpg"
+    },
+    "price": {
+      "value": "249.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286588380150%7C0",
+    "seller": {
+      "username": "community-computers",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 1812,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Good - Refurbished",
+    "conditionId": "2030",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yPkAAOSwTXloLwNw/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "11072651086",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/286588380150?_skw=SR630&hash=item42b9ffa3f6:g:yPkAAOSwTXloLwNw",
+    "itemLocation": {
+      "postalCode": "SK3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/kEMAAOSwOO9oLwJ1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QoMAAOSwtixoLwFM/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7k4AAOSwS8NoLwFR/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5icAAOSwQ0BoLwFR/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6VgAAOSwHqBoLwHF/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HAwAAOSwlFZoLwHi/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/h4YAAOSwKgJoLwLg/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rjcAAOSwJwpoLwMM/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SDAAAOSwHcNoLwNO/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "249.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "286588380150",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-22T11:29:55.000Z",
+    "itemCreationDate": "2025-05-22T11:29:55.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|156537025397|0",
+    "title": "Lenovo ThinkSystem SR630 1U 8*SFF 2x Xeon 4110 128GB 930-8i RAID 2x250GB SAS SSD",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/LvUAAOSwIXRnEjAE/s-l225.jpg"
+    },
+    "price": {
+      "value": "340.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156537025397%7C0",
+    "seller": {
+      "username": "compuwyze_ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 840,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LvUAAOSwIXRnEjAE/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "11072651086",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156537025397?_skw=SR630&hash=item2472557375:g:LvUAAOSwIXRnEjAE&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uaoz3zbhPcQZYXubgoD9wt%2BHCy8u5F9Tt7sYjdy1nFhUALoquJ5nVy0ulkdFlgiCkLbuEB0IFak8JBt6GkFmD9sJOoQ8bK6Cr37T%2BID85CUPFjV%2BTlR8MA8z%2FDytUbTw6VDkMScfZGllpcWIYd6uoz3O7QtfxLb%2BIqdJnoOXgP7mGwp9Xxzo%2B7SDlWaNhxtG8ag5Q4TUye7z9eJqE0%2FmeYtp8e0tzL%2FLVA8GGbiZZJM%2B0Q0jJYl4NBPTDJVQvCrb9gIONwFVRbyMwhOZKd40dxQ",
+    "itemLocation": {
+      "postalCode": "PR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NiMAAOSwzPRnEjAK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NyQAAOSwMDdnEjAJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OO0AAOSwtipnEjAK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rM0AAOSwvRhnEjAI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qjMAAOSwC3FnEjAF/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "340.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "156537025397",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-11-22T13:56:33.000Z",
+    "itemCreationDate": "2024-11-22T13:56:33.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|186895414361|694956803832",
+    "title": "Lenovo ThinkSystem SR630 8SFF - Configure To Order",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=186895414361",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/dbQAAOSw9MZnh8Xg/s-l225.jpg"
+    },
+    "price": {
+      "value": "828.00",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C186895414361%7C694956803832",
+    "seller": {
+      "username": "www_compan_info",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 4495,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dbQAAOSw9MZnh8Xg/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "35.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/186895414361?_skw=SR630&hash=item2b83d5b459:g:dbQAAOSw9MZnh8Xg&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZd6qC5R%2BZceYzqaHFc5ags%2BmRbsSBOaJeNvD7sfug%2FF58ruEHuslcsyzr8N0JcclZ09v5eQ57c%2Fk3n3Mxi9F73QxIdXpYpZ7JScIUJFtusyx0ZrTPPsbat3j4S%2FBHLNsSPIX9s5zB%2F58%2FYr4BNeFAXnaXBQVw%2BntTh4e5%2B7NBKGa0nmrR1iw9U%2F76tfSjDKfV%2BJBZwPR0j5lC%2Ft6ogfbilumf0eaOZ81TKF%2FIT483QazY0Qy3MSWcaqK6zjRdlMpJ52k2%2BppXIVo2S3%2BmvbSe%2F",
+    "itemLocation": {
+      "postalCode": "58***",
+      "country": "PL"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FSUAAOSwdS5nh8Xg/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wI0AAOSw21hnh8Xg/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/83wAAOSwOkZnh8Xg/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/grkAAOSwEghnh8X-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AvAAAOSwcmhnh8X-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/m8cAAOSw7vhnh8X-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HicAAOSwU4xnh8X-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DCUAAOSwnHtnh8X~/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "186895414361",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-01-15T14:54:42.000Z",
+    "itemCreationDate": "2025-01-15T14:54:42.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|127112202714|0",
+    "title": "Lenovo ThinkSystem SR630 SR635 SR650 Ball Bearing Rail Kit SM17A18044 SM17A18045",
+    "leafCategoryIds": [
+      "56092"
+    ],
+    "categories": [
+      {
+        "categoryId": "56092",
+        "categoryName": "Other Ent. Server Components"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/sMQAAeSwWUhocdwO/s-l225.jpg"
+    },
+    "price": {
+      "value": "95.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C127112202714%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sMQAAeSwWUhocdwO/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/127112202714?_skw=SR630&hash=item1d987a49da:g:sMQAAeSwWUhocdwO&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZqsKk5yHpAO6SjRKz34Z6Y2Ev5MqrRRAHebA52M4q1jlo40srwteOGTzaknS3MI0FU7hUXDj5O5OQbAF7C2BjTp7V7pQ8j%2BH0qVnLsIs%2BvQQ00viT6G8QgwW%2BbbAsVspLyA920iJU%2FDlUfbiXYOdeIxLc7DVLtRfLoP88W7ewxequdOjNXtcfbrcK4VfXSBXFcPE3sonc%2BTNoyRhZ6OxBuVekD9sPrRwgsELg6EmPpVzL1yZom%2Beq5OwFZaBB%2B8JX%2BwzgdmVNCxiioxAfq1TeJ",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "127112202714",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-14T19:17:14.000Z",
+    "itemCreationDate": "2025-05-14T19:17:14.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|286663411030|0",
+    "title": "2x Lenovo SR630 Motherboard in Chassis Only custom listing (SERSIR60)",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/q5AAAOSwRttoCiYv/s-l225.jpg"
+    },
+    "price": {
+      "value": "299.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286663411030%7C0",
+    "seller": {
+      "username": "systemsupplyindustriesltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 26363,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/q5AAAOSwRttoCiYv/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/286663411030?_skw=SR630&hash=item42be788556:g:q5AAAOSwRttoCiYv",
+    "itemLocation": {
+      "postalCode": "OX12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6oIAAOSwXfdoU--u/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nZUAAOSwVEtoCiY4/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "286663411030",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-19T11:45:04.000Z",
+    "itemCreationDate": "2025-06-19T11:45:04.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

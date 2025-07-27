@@ -1,0 +1,448 @@
+[
+  {
+    "itemId": "v1|276963785259|0",
+    "title": "HP DL560 8x 900GB (9.6TB) HDD,64GB RAM,4X E5-4640V4,1X RISER,1x P440, 2X 1200W",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/QUcAAOSwf25lzNAf/s-l225.jpg"
+    },
+    "price": {
+      "value": "349.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276963785259%7C0",
+    "seller": {
+      "username": "systemsupplyindustriesltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 26363,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QUcAAOSwf25lzNAf/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/276963785259?_skw=DL560&hash=item407c53fa2b:g:QUcAAOSwf25lzNAf",
+    "itemLocation": {
+      "postalCode": "OX12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/8NoAAOSwbkllzNAj/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1e4AAOSwE89lzNAn/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "276963785259",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-20T14:37:09.000Z",
+    "itemCreationDate": "2025-03-20T14:37:09.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|275480305878|0",
+    "title": "HPE 867809-B21 ProLiant DL380 DL385 DL560 Gen10 D3610 D3710 2U Security Bezel",
+    "leafCategoryIds": [
+      "56092"
+    ],
+    "categories": [
+      {
+        "categoryId": "56092",
+        "categoryName": "Other Ent. Server Components"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/xh4AAOSwnERlSpU0/s-l225.jpg"
+    },
+    "price": {
+      "value": "60.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C275480305878%7C0",
+    "seller": {
+      "username": "intelligent_servers",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 5669,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Good - Refurbished",
+    "conditionId": "2030",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xh4AAOSwnERlSpU0/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "2185583161",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/275480305878?_skw=DL560&hash=item4023e7e0d6:g:xh4AAOSwnERlSpU0&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZ8pfmpUambRezMkaRdVwMM7X6EqkalkhOjau2Q3LDpxc%2FAeuIW71Qn58naXim%2BCN3QyRkBOCelWf64gFusTUH9Y%2BEMnd5zVHNMxVvk8Dh4D87BCTlL6MvGzVw4Vgbvbfse%2FqaUxwOb6c%2Fi2TT0BTi7bIBh6rAQ%2B0uar5aTBr0xbr1keyUfqvIN04jNRvvIKDnGx2qrfZSFscdHpce9y%2F2FxK6qrzvsXTR%2B8Q9unYrsucYeujx%2Fl0%2F9WGb3LxntUTRb%2BK%2FIBWFyQOZ6LfnGDKBc",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AasAAOSw-o9lSpU5/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "275480305878",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-09-29T15:49:37.000Z",
+    "itemCreationDate": "2022-09-29T15:49:37.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|126934046059|0",
+    "title": "HPE ProLiant DL560 Gen8 5SFF: Xeon E5-4620 v1, 128GB DDR4, P420i SAS",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/RF8AAeSwScZoXgCp/s-l225.jpg"
+    },
+    "price": {
+      "value": "222.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126934046059%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RF8AAeSwScZoXgCp/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/126934046059?_skw=DL560&hash=item1d8ddbd56b:g:RF8AAeSwScZoXgCp&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua%2FEeQvqQBUflKvHG3Sqo64fAd7XppayoIkkIejnAvhmnZomS1NkH51KNJPo%2FFH%2F71iKu4rewjv67pCzhfifMPNIJHkpQ5R5GyETA3V49HtLOtH0CfzDnJQJOoX9F2dapUXG6TCk2cBKL3c5UIjibH8JGvv4wTG%2Bp8dkfMlyYCE22unH0PAJf13pGpKgQR4tTBEiPUPllY3%2BoaVa83NjQDMuHQPPyOCvIOU%2Fv5DLwRMGXov7WxbEkps%2BLdsMkd2YG4qzuxekpVW0gPaivw%2FDbx7",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/m38AAeSw5udoXgCp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1fcAAeSw6jRoXgCp/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "126934046059",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-02-10T21:39:26.000Z",
+    "itemCreationDate": "2025-02-10T21:39:26.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|126934045562|0",
+    "title": "HPE ProLiant DL560 Gen8 5SFF: Xeon E5-4610 v2, 128GB DDR4, P420i SAS",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/lGMAAeSwWGloXgCK/s-l225.jpg"
+    },
+    "price": {
+      "value": "227.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126934045562%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/lGMAAeSwWGloXgCK/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/126934045562?_skw=DL560&hash=item1d8ddbd37a:g:lGMAAeSwWGloXgCK&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZy212OONzS9fmoPcBb8TUxlHdt8O3Q3G2c9L9NbLATUtE6933kMdEwBPvFO9COKUCyDslw5OJ74FK6akegCBYgcAsgwlWzLMSHqCGwjSQH6jYAGQaB4m5DhdKgfTSSVJzy45gjT%2B6A%2FoaGAIFANxReCZe76VP%2B7IBuFSVgLNIC6Y03OJNdc9DPO5xCjAZ2lEieclRpHjUZSe3FHjbp7ldvqrt2cd3ZW1NafCL1ziuXziprQ1QSeS5TRDLjRzow%2BaA8axSUsnhMH%2BS1JSwORZkR",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5PEAAeSwLvNoXgCK/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Uw4AAeSweWxoXgCK/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "126934045562",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-02-10T21:39:22.000Z",
+    "itemCreationDate": "2025-02-10T21:39:22.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|146722544050|0",
+    "title": "HP ProLiant DL560 Gen8 Server - Xeon E5-4610 v2 - 512GB DDR3 ECC - HP H240 HBA",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/uY8AAeSw7a9ofpl-/s-l225.jpg"
+    },
+    "price": {
+      "value": "500.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C146722544050%7C0",
+    "seller": {
+      "username": "inocto",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 373,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/uY8AAeSw7a9ofpl-/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "8.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/146722544050?_skw=DL560&hash=item22295859b2:g:uY8AAeSw7a9ofpl-",
+    "itemLocation": {
+      "postalCode": "PL4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sxcAAeSwMdlofpl-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tX8AAeSwSbpofpl-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wNgAAeSw6ENofpl-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xwIAAeSw1H9ofpl~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/t-8AAeSweXBofpl-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ujEAAeSwh7Bofpl~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xYwAAeSwmo5ofpl~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vAYAAeSwMFpofpl~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xhQAAeSwHp5ofpl~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/x1sAAeSw1Lpofpl~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vdkAAeSw585ofpnS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sogAAeSwY55ofpl-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tZYAAeSwJaRofpl-/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "kg",
+    "unitPrice": {
+      "value": "500.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "146722544050",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-21T19:52:27.000Z",
+    "itemCreationDate": "2025-07-21T19:52:27.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

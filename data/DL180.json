@@ -1,0 +1,447 @@
+[
+  {
+    "itemId": "v1|365540554624|0",
+    "title": "HP Proliant DL180 G6 1x E5620 2.4GHz 12GB Ram 6TB HDD P812 2U Server 507168-B21",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/pMwAAOSwUV1c5VMc/s-l225.jpg"
+    },
+    "price": {
+      "value": "240.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C365540554624%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/pMwAAOSwUV1c5VMc/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-31T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-31T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1023226165",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/365540554624?_skw=DL180&hash=item551bea3780:g:pMwAAOSwUV1c5VMc",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DHQAAOSwz09c5VMf/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zZAAAOSw9GVb4aLp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Jy4AAOSwSp5c5VMg/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "365540554624",
+    "availableCoupons": false,
+    "itemOriginDate": "2019-05-27T10:50:34.000Z",
+    "itemCreationDate": "2025-04-16T07:37:01.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|286699046980|0",
+    "title": "HP Proliant DL180 Gen 9 Server with HHD Casstets",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/GjUAAeSwkd9ob5lI/s-l225.jpg"
+    },
+    "price": {
+      "value": "199.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286699046980%7C0",
+    "seller": {
+      "username": "thisnthatltd",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 18940,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GjUAAeSwkd9ob5lI/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/286699046980?_skw=DL180&hash=item42c0984844:g:GjUAAeSwkd9ob5lI&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua%2FtgvX7RQeJwm%2BViyzqkq5hLUkJQSJ8GFkzMkhxN1VffAj8Akfan6Me6kZCLSiNkeawvtPZapmgw%2F4Od%2FkifYCjTE1saYzBRVyiLMZx1DyLSgj%2BTu4lDTEfgfy8QUeVXFVY3MDj8WKLZqSUx0qUaEamo5q6u%2BIa5KVMWFHdnPxA%2BFKvFZoeDaDNpFib1UxFqYblJKeJ3ai%2BhB47NqODc9w6pVk0J2Z8Ay7ZMUzOJRQh78i7gFFLkz4cPdZN07pc1QzR%2FtFZCPWP2i1xtGGqMIs",
+    "itemLocation": {
+      "postalCode": "MK2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/kkEAAeSwI8xob5lJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AcAAAeSwXIZob5lJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5zwAAeSwmUhob5iV/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3DoAAeSwKPdob5ib/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DwkAAeSwfw9ob5iX/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DqUAAeSw4v1ob5lI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-e8AAeSw9uFob5lJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/eGgAAeSwbmtob5lJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hcIAAeSwgmRob5lJ/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "kg",
+    "unitPrice": {
+      "value": "199.99",
+      "currency": "GBP"
+    },
+    "legacyItemId": "286699046980",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-10T11:32:58.000Z",
+    "itemCreationDate": "2025-07-10T11:32:58.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|326556332416|0",
+    "title": "HPE DL180 G9 8SFF 1x2620v4 16GB P440 2x200GB SSD 1x900W 361T",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/R2sAAeSwNOxoEN5I/s-l225.jpg"
+    },
+    "price": {
+      "value": "249.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326556332416%7C0",
+    "seller": {
+      "username": "dr.memory",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 179577,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/R2sAAeSwNOxoEN5I/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326556332416?_skw=DL180&hash=item4c08463180:g:R2sAAeSwNOxoEN5I&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uby%2Fr89Xj6J4LfXHcpkkc4OY0bsesTT74F5i4Y1ZsdeCmd%2BrQ0lz8yvDNkx9T6gbPULn5jZ0nfg2cdwXpHerwGs0foSaylCMmZ8R63BfO4FYuCrfp2380UwcL5PahwSAHXJm6wrYIzfwRe4Pr8LHH3%2FoSBRON84UxH17S4pa0FFa6gMj70RW84cRh14342Lq3fcP4dverRLGwtmvM1njBrUlE13KZAxm9J8Zqbgl1ouLfxlLdbJXMfWcFY4kuvTb7oCJzCDIn80rCWLoMN6YHsU",
+    "itemLocation": {
+      "postalCode": "M17***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nqoAAeSwfn5oEN5I/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/89QAAeSwFstoEN5I/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Ij4AAeSwHztoEN5J/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/8YEAAeSwgBhoEN5I/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2V4AAeSwZ8FoEN5I/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "326556332416",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-04-29T14:10:25.000Z",
+    "itemCreationDate": "2025-04-29T14:10:25.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|284377178114|0",
+    "title": "HP DL180 Gen9 2U Rack Server - E5-2650v3 2.30GHz (2P) 64GB DDR4 9.6TB SAS HDD",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/o90AAOSwEFpmIN83/s-l225.jpg"
+    },
+    "price": {
+      "value": "785.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C284377178114%7C0",
+    "seller": {
+      "username": "intelligent_servers",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 5669,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/o90AAOSwEFpmIN83/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-31T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "18007495920",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/284377178114?_skw=DL180&hash=item4236336002:g:o90AAOSwEFpmIN83&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbnC0r%2Fqr2PtEfKT%2FJ6rpeJx9SW50I6vjRcdLi1pfRsfsJNMax3s3O1wyzpvEhYOhjK0WLfyq72o1dJOmH1aJVXsuqXhlWu3N2DZcQyxaLfIo5EuThFUYs8nXfFFCVizC2Wi0AGKoDRXKHvvYwPZygalW80UFHIu6NTKkRE8A%2Fy2ra1f58KlX6hJU%2FSzPTPALVeHHIvWZN78hUggXT1PWKWXkvQBI6GWcyL33Nq5goDUCTULgtacxnkjgIewu1%2BIjJap8RYG%2BZjB7bRlsl%2BdL%2FY",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DJwAAOSwI0JmIN9F/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "284377178114",
+    "availableCoupons": false,
+    "itemOriginDate": "2021-07-19T16:16:07.000Z",
+    "itemCreationDate": "2021-07-19T16:16:07.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|204990135964|0",
+    "title": "HP DL160 DL180 DL320 D2600 D2700 Rackmount Rail Kit 2F77A-02 2F80A-02 451459-003",
+    "leafCategoryIds": [
+      "11211",
+      "51199"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "51199",
+        "categoryName": "Rackmount Cabinets & Frames"
+      },
+      {
+        "categoryId": "51197",
+        "categoryName": "Racks, Chassis & Patch Panels"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/AQ0AAOSwrlpj2S5W/s-l225.jpg"
+    },
+    "price": {
+      "value": "36.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C204990135964%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AQ0AAOSwrlpj2S5W/s-l960.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "12002692537",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/204990135964?_skw=DL180&hash=item2fba5d3e9c:g:AQ0AAOSwrlpj2S5W",
+    "itemLocation": {
+      "postalCode": "WC1B***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "204990135964",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-02-04T10:25:10.000Z",
+    "itemCreationDate": "2024-09-13T06:59:28.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

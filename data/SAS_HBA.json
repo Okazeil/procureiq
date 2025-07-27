@@ -1,0 +1,422 @@
+[
+  {
+    "itemId": "v1|326088190913|515196638715",
+    "title": "LSI 9211-8i  IT Mode SAS HBA Card Unraid TrueNAS Proxmox JBOD NAS ZFS - NO BIOS",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=326088190913",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/EOIAAeSw1Axoak4t/s-l225.jpg"
+    },
+    "price": {
+      "value": "54.99",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326088190913%7C515196638715",
+    "seller": {
+      "username": "it-cards",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 2234,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/EOIAAeSw1Axoak4t/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326088190913?_skw=SAS+HBA&hash=item4bec5eebc1:g:EOIAAeSw1Axoak4t",
+    "itemLocation": {
+      "postalCode": "PR7***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NhIAAeSwZHRoZ3DC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6acAAeSw~v1oZ3BS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5GMAAeSwRyVoZ3BZ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tr4AAeSwUidoZ3Bn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6gwAAeSwGLloZ3Bt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FAoAAeSwA~xoZ3Bz/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "326088190913",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-04-13T09:12:50.000Z",
+    "itemCreationDate": "2024-04-13T09:12:50.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|388658814898|0",
+    "title": "Dell P2R3R HBA330 Mini Mono Internal 12 Gb/s SAS Storage Controller",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/pJsAAeSwT8VoZRIb/s-l225.jpg"
+    },
+    "price": {
+      "value": "24.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C388658814898%7C0",
+    "seller": {
+      "username": "itbaron001",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 3683,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/pJsAAeSwT8VoZRIb/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "822486056",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/388658814898?_skw=SAS+HBA&hash=item5a7ddedfb2:g:pJsAAeSwT8VoZRIb&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UY15qQwXHvRmJTuhRb%2FB8y83%2F82e6MmBMpfnJWPjWhVIe5e%2Fn%2FhsWneZKHHmhUKkHayy0B0KkqN16DJ6dDn26LViP3LR5Dv8%2Bo5Qd%2FzXI815LDBJf2CAcAigXRTHpUD1gItrlXHF4sjEfDGxi%2Ff%2FfUYMgma2pN4U9EVV5RK1hg8YJODNYRgvgAv7BuiRH2EEEBtESoLANoX01ODxhZ4trEfXV%2FLhG5YXiFEiUG7lUmI%2B82x7I87862wCYL4xFV33DDYfhAT3UdNOgbh%2BcJPFbJf",
+    "itemLocation": {
+      "postalCode": "HP11***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "388658814898",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-02T11:04:04.000Z",
+    "itemCreationDate": "2025-07-02T11:04:04.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|124178148650|0",
+    "title": "LSI 6Gbps SAS HBA LSI 9200-8i IT Mode ZFS FreeNAS unRAID + 2*SFF8087 SATA",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/9wUAAOSwX1dgglqc/s-l225.jpg"
+    },
+    "price": {
+      "value": "29.98",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C124178148650%7C0",
+    "seller": {
+      "username": "xuanwen-2011",
+      "feedbackPercentage": "99.6",
+      "feedbackScore": 11309,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9wUAAOSwX1dgglqc/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/124178148650?_skw=SAS+HBA&hash=item1ce9982d2a:g:9wUAAOSwX1dgglqc&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaBXNY5%2BNY%2BKLBw45VBL4lRn6E55%2FR5k9DqbZ5vi2WfePO%2B0wcgS7VV5x7VWtmVk%2BNjDiF3Hzr5XhjQedSeygjigZX83KeESl9sejEQ8bmR6S1BW9WXNdka6IJlQG8bKvrfgFAxedhyJZQlgRdsx9It%2FRQe7zF2xFWoaxijQSnWW8Ho3ia7Wgr6oci%2Bgw5vjvKQd2eYJ7tFbiL6r2UyR5S4UJgMouAWRR7hMAKrcXgoAG1DSnyTSK9r7XMgbMLLF0e5et2BzSzf1mU5XjfHvClF",
+    "itemLocation": {
+      "postalCode": "******",
+      "country": "CN"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oo4AAOSwVulgglqe/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CkEAAOSwsZpgglqg/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PGkAAOSwN3lcdOXt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gr0AAOSwu4JcdOXk/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/760AAOSwh0NcdOXn/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "124178148650",
+    "availableCoupons": false,
+    "itemOriginDate": "2020-05-06T14:52:02.000Z",
+    "itemCreationDate": "2020-05-06T14:52:02.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|176375728011|0",
+    "title": "Broadcom HBA 9500-8i SAS/SATA/PCIe(NVME) 12Gb/s SAS3808",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/SkkAAOSwao1mQcCN/s-l225.jpg"
+    },
+    "price": {
+      "value": "79.20",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C176375728011%7C0",
+    "seller": {
+      "username": "zepenl-0",
+      "feedbackPercentage": "99.0",
+      "feedbackScore": 1693,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SkkAAOSwao1mQcCN/s-l500.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "6067315532",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/176375728011?_skw=SAS+HBA&hash=item2910d0078b:g:SkkAAOSwao1mQcCN&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbuTliL1cRbmpmsEQuENyYBCW587fFgjCrIKLeDSZMAU3IWq8N%2FCCs7M%2BkmrNzxflDE0K63ft2XmGzKHgjaol7BdVlj7WaeNMaKoh0zYAJVdLD%2F8GEmfcQVTFGT0v0KAXvx8bRRBoQX47d6aBuniKugnltI%2FIP%2FU%2F7WKzg5dJ34tcbTm7x%2BLzaxhb%2B%2BMHJXTyF0JBhkDa3s8vVhjNL1bwBKfVn2flRHBY2WICZzGg3u8AT8TK2LX7HMRx%2BW1rNyWEq3%2FyyT38yKhEK7i3vfIJBT",
+    "itemLocation": {
+      "postalCode": "******",
+      "country": "CN"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~~QAAOSwtYNmQcCO/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "176375728011",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-05-13T07:26:29.000Z",
+    "itemCreationDate": "2024-05-14T07:28:17.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|394273031339|0",
+    "title": "Dell H200 6Gbps SAS HBA = (LSI 9211-8i) P20 IT Mode ZFS FreeNAS unRAID",
+    "leafCategoryIds": [
+      "56091"
+    ],
+    "categories": [
+      {
+        "categoryId": "56091",
+        "categoryName": "Disk Controllers/RAID Cards"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/~KwAAOSwN~Jltk2y/s-l225.jpg"
+    },
+    "price": {
+      "value": "15.59",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C394273031339%7C0",
+    "seller": {
+      "username": "hkebl-002",
+      "feedbackPercentage": "99.1",
+      "feedbackScore": 2790,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~KwAAOSwN~Jltk2y/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "10047455009",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/394273031339?_skw=SAS+HBA&hash=item5bcc8104ab:g:~KwAAOSwN~Jltk2y",
+    "itemLocation": {
+      "country": "CN"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/s8oAAOSwlkFdTXZq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FloAAOSwv5pltk2z/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MO0AAOSwXcVltk20/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TEUAAOSw-T9ltk21/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "394273031339",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-10-04T17:26:55.000Z",
+    "itemCreationDate": "2022-10-05T17:27:07.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

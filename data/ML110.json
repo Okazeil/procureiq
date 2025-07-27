@@ -1,0 +1,483 @@
+[
+  {
+    "itemId": "v1|336089350815|0",
+    "title": "HP Proliant ML110 Gen 10 Server (Xeon Bronze 3104 CPU, 72GB RAM/240GB SSD)",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/RXoAAeSw0XZogz5n/s-l225.jpg"
+    },
+    "price": {
+      "value": "549.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C336089350815%7C0",
+    "seller": {
+      "username": "it-black-belt",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 5926,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RXoAAeSw0XZogz5n/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "7.50",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/336089350815?_skw=ML110&hash=item4e407c829f:g:RXoAAeSw0XZogz5n",
+    "itemLocation": {
+      "postalCode": "BD3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Xa0AAeSwwMRogz5z/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UuQAAeSw~exogz5X/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RVwAAeSwiEhogz5X/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TCEAAeSwXJhogz5X/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AkAAAeSwsz5ogz5X/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Q8UAAeSwT81ogz6w/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1okAAeSwcGNogz6M/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WicAAeSwgldogz6f/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WwYAAeSwD6dogz5Y/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "336089350815",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-25T08:23:21.000Z",
+    "itemCreationDate": "2025-07-25T08:23:21.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|275607602321|0",
+    "title": "HPE ML110 Gen10 3204 1.9GHz 6core 1P 8GB S100i 4LFFNHP 350W PS Server P10806-421",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/GMIAAOSwUTBlR-iq/s-l225.jpg"
+    },
+    "price": {
+      "value": "655.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C275607602321%7C0",
+    "seller": {
+      "username": "intelligent_servers",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 5669,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GMIAAOSwUTBlR-iq/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/275607602321?_skw=ML110&hash=item402b7e4491:g:GMIAAOSwUTBlR-iq&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYd4l6UTfqtRtPUMGLutGte0qJHtN12jLuj8DyDCxAzQJgjjcHUsYTjzVAd3sPq9pHv4pzaFMdrUfFxSMgX757BB9Hq7e7S007dn8mUwqprMrhfteOLW8qpveA6zAZpJ%2BBmVf4Fgx%2BHDLbXNlz6iAuWbkNacaFoU40hIEMRepxWAyBXcK%2Fo1AKS7OCMsK73yJEz2cG2m%2BprLHMDapDLKqWxjBMtgBd7nVdHEySn239J2MYOZqsZzNOQqALHvwfNQqYjfNTPvF2ea6wwbKqjy%2F10",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dDoAAOSwzV1lR-iu/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZIcAAOSwYzRlR-ix/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "275607602321",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-01-06T16:00:57.000Z",
+    "itemCreationDate": "2023-01-06T16:00:57.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|156842717596|0",
+    "title": "HPE ProLiant ML110 Gen9 8*LFF Xeon E5-2690v4 256GB P440 2x2TB SSD 2x4TB HDD 2xPS",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/bzgAAOSwcCFn6qFj/s-l225.jpg"
+    },
+    "price": {
+      "value": "650.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156842717596%7C0",
+    "seller": {
+      "username": "compuwyze_ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 840,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bzgAAOSwcCFn6qFj/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156842717596?_skw=ML110&hash=item24848df19c:g:bzgAAOSwcCFn6qFj&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYtoobDAgfJgCQ8u71u8ZEmednT3LpH1JW2gBv88mMrHWY0ko9aJtSxhEKECULmgRKt2u%2BceraRLLfkY7Z%2FliJ1HTJgGE3PW5wSbM5wOgZPZozd%2FxyI47QoRUVM0vkn%2BxNZnMJxoEn1Jkd6FA7mmzW8iUX6Cj0QqI%2BcifgIZrlUUs3U1zfYUvhwnvFyh4YEttuhrtwnbfSK2XE7WmRHxxw5RPjm0Cuugmad8W1iU6PjCF9nesosyLAyl%2BeCTsIsPbBzwxgdJMEsojP8BdKJic29",
+    "itemLocation": {
+      "postalCode": "PR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tMMAAOSwuqVn6qFk/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/EKYAAOSw2iNn6qFk/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HFQAAOSw3JJn6qFn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ebEAAOSwheRn6qFp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zDkAAOSwWaZn6qFo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6YgAAOSwm9hn6qFn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CwgAAOSw2r1n6qFl/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6REAAOSwVq9n6qFk/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/p0sAAOSwXzdn6qFk/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vs8AAOSwOX5n6qFn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bSAAAOSwrtdn6qFn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/D6oAAOSwwZJn6qFn/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "650.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "156842717596",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-31T14:15:46.000Z",
+    "itemCreationDate": "2025-03-31T14:15:46.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|285977870365|588058662905",
+    "title": "HPE ML110 Gen11 Power Supply Upgrade Options",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=285977870365",
+    "leafCategoryIds": [
+      "56090"
+    ],
+    "categories": [
+      {
+        "categoryId": "56090",
+        "categoryName": "Server Power Supplies"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/yGcAAOSwwq5moiFy/s-l225.jpg"
+    },
+    "price": {
+      "value": "295.00",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C285977870365%7C588058662905",
+    "seller": {
+      "username": "intelligent_servers",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 5669,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yGcAAOSwwq5moiFy/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/285977870365?_skw=ML110&hash=item42959c001d:g:yGcAAOSwwq5moiFy&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UalGkYSefCu2ZA2jaPyKmFpomSi309If5FmQ5wXXsEA6caFxThJcTdp5Mixg%2FHV0Ye8hxsjIwZ76iMkjgl40YPHT6n2zADifeoBzZ8i1qLRr7JN7ETnA%2F%2B40q%2BGImHqPGS2d6hJFDk0SO%2Bx10oWp4%2FyPQzPvJ%2FUBRZ6IF4s64zCwD3JMVCS9nEtRx%2FUnXLufjSskuDKLjru0g5MtLpXK1M%2FznzMREDsx%2BWKK3EpR656jGzfWhKkZ87t0v6HnTVaOMNJVamXFHP0I9G%2FZmVwArJG",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZZQAAOSwiOlmoiFz/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "285977870365",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-07-25T10:12:02.000Z",
+    "itemCreationDate": "2024-07-25T10:12:02.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|226818043970|0",
+    "title": "HP Proliant ML110 Gen10 Xeon Gold 5120 CPU, 32GB RAM, 1TB HDD Gen 10 G10",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/0bIAAeSwm4xoa594/s-l225.jpg"
+    },
+    "price": {
+      "value": "518.93",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226818043970%7C0",
+    "seller": {
+      "username": "networkequipment.online",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 1426,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0bIAAeSwm4xoa594/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/226818043970?_skw=ML110&hash=item34cf68b042:g:0bIAAeSwm4xoa594",
+    "itemLocation": {
+      "postalCode": "M50***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/VfUAAeSwTmRoa594/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IqgAAeSwmGNoa595/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-~EAAeSw50Zoa596/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/moUAAeSwObpoa597/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1TQAAeSwHKtoa598/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/aagAAeSwYXpoa599/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DW0AAeSwmqJoa599/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jdMAAeSwpKNoa59-/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "226818043970",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-16T10:40:18.000Z",
+    "itemCreationDate": "2025-06-16T10:40:18.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

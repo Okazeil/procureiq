@@ -1,0 +1,422 @@
+[
+  {
+    "itemId": "v1|396759253956|0",
+    "title": "Dell PowerVault MD1200 31TB Direct Attached Storage Array With HDDs",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/nxAAAeSw70FoUo-7/s-l225.jpg"
+    },
+    "price": {
+      "value": "579.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C396759253956%7C0",
+    "seller": {
+      "username": "pro-avit.london",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 70829,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nxAAAeSw70FoUo-7/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "1833187863",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/396759253956?_skw=MD1200&hash=item5c60b1c3c4:g:nxAAAeSw70FoUo-7",
+    "itemLocation": {
+      "postalCode": "RG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/u9EAAeSwyE5oUo-7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/y8wAAeSwWL1oUo-7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TEAAAeSwHQloUo-7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-LAAAeSw8n9oUo-7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/u9QAAeSwyE5oUo-7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/piQAAeSw3oNoUo-7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gSwAAeSwp8JoUo-7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vSwAAeSwTWVoUo-7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/z54AAeSwnaFoUo-7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gTEAAeSwC~1oUo-7/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "396759253956",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-18T10:05:48.000Z",
+    "itemCreationDate": "2025-06-18T10:05:48.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|363816658397|0",
+    "title": "Dell PowerVault MD1200 12x 450GB SAS 15K Dual MD12 6Gb/s Controllers Dual PSU",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/~H0AAOSwxVRiVXii/s-l225.jpg"
+    },
+    "price": {
+      "value": "480.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C363816658397%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~H0AAOSwxVRiVXii/s-l960.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/363816658397?_skw=MD1200&hash=item54b529a5dd:g:~H0AAOSwxVRiVXii&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaKlUFRO3%2B5AkJntIoMqOn1IVbQKQHLnU8vMqUaJDQM2nq6LUNqO8FrdY9iHh5vnO%2FuhcHVm%2Bgt%2Fq89jUWT0l1b9Ni7whVLNkGiBu0zzdVoQAzAFF5Y4sAz9j%2F1vdVt6CTAVYrvJNYSlup%2Fnd9MUbE53I13gsyPFeHBU0hOsYpy9Vt2VCNz1IFfeOqj%2FHjAshEsKQAaDKf%2BJus7e1k81Vkvpt5UEdiuZoU4DeS9h6X0jWbWFDiQgEB0IKXPIcc9Yv1BzuGJf6gafCOTijaIWsT8",
+    "itemLocation": {
+      "postalCode": "WC1B***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "363816658397",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-04-17T08:53:37.000Z",
+    "itemCreationDate": "2022-04-26T08:52:09.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|405409268879|0",
+    "title": "Dell PowerVault MD1200 12x 3TB 3.5\" HDD Dual 6G SAS Controllers Dual 600W PSU",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/x7MAAOSwryJnVrtb/s-l225.jpg"
+    },
+    "price": {
+      "value": "696.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C405409268879%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/x7MAAOSwryJnVrtb/s-l960.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "140883106",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/405409268879?_skw=MD1200&hash=item5e6446848f:g:x7MAAOSwryJnVrtb&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UY4IqXSIG3lOdilN0YHe%2Fj43qwHnGvTXXad80NN1uca6EuaIdcdlepaHrldT8ObH8cvQfYhsCTokijMUqhMSIadmudDXs0Qb7ysv78jlAIR8rJvDF1uR3TT8RJJEnSZcuoYGNpV0kxMcIg1VdPf0ZzmIAMwIEcFColcqq1nSZHFT5qe357jgb5n4w98LaUIpzKNLNR7BzGF8IbHUn9%2FD7WXbea1s5iAV1VFSrPcdefvVcpQNgJA3wMq7xbIGCUKrtsCWK9BP6FpdmgJ8UkUf%2BAw",
+    "itemLocation": {
+      "postalCode": "N12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iDcAAOSwhn5dOdBA/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cQ0AAOSwm3ldOb1u/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "405409268879",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-12-10T06:36:58.000Z",
+    "itemCreationDate": "2024-12-10T06:36:58.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|364624903145|0",
+    "title": "Dell PowerVault MD1200 12x 4TB 3.5\" HDD 48TB Dual 6G SAS Controllers 2x 600W PSU",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/iDcAAOSwhn5dOdBA/s-l225.jpg"
+    },
+    "price": {
+      "value": "720.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C364624903145%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iDcAAOSwhn5dOdBA/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "140883106",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/364624903145?_skw=MD1200&hash=item54e5567be9:g:iDcAAOSwhn5dOdBA&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbN8ZInhq8WdzbCJVDcrgqHVivCR3toTLceZMmTpv8Bbob7WRpr6vO1c24SAbXPcipBNBqZtms73oTnhXRCkwiG82TFd87%2BcYNlRvocrboUZtKPi2a%2FREkZCXMYwVrBBQMubZ0FFqWI21AR8lNKY0XrZ63l36eXeKCImApSU6TgHrIjhtJl2m%2BAlplSPAlbnNpT1NpJ2I5no0FV6xuXJRnUQPfYSc70wE5O9bCkWqWA1Fhhncdn3kzqn7XtaXlWBsB2bt7GVi7b4b7RkgW%2FCu6X",
+    "itemLocation": {
+      "postalCode": "N12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cQ0AAOSwm3ldOb1u/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "364624903145",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-12-12T06:40:42.000Z",
+    "itemCreationDate": "2023-12-12T06:40:42.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|205154234594|0",
+    "title": "Dell PowerVault MD1200 12x 4TB 3.5\" HDD 48TB Dual 6G SAS Controllers 2x 600W PSU",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/iDcAAOSwhn5dOdBA/s-l225.jpg"
+    },
+    "price": {
+      "value": "720.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C205154234594%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iDcAAOSwhn5dOdBA/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "140883106",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/205154234594?_skw=MD1200&hash=item2fc42530e2:g:iDcAAOSwhn5dOdBA",
+    "itemLocation": {
+      "postalCode": "N12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cQ0AAOSwm3ldOb1u/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "205154234594",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-12-11T07:33:51.000Z",
+    "itemCreationDate": "2024-12-11T07:33:51.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "itemId": "v1|127122301475|0",
+    "title": "Intel Xeon E5-2650L-V3 (SR1Y1) 1.80GHz 12-Core LGA2011-3 CPU",
+    "leafCategoryIds": [
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/PDoAAeSw5fdoXfzA/s-l225.jpg"
+    },
+    "price": {
+      "value": "19.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C127122301475%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PDoAAeSw5fdoXfzA/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "842552942",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/127122301475?_skw=E5-2650&hash=item1d99146223:g:PDoAAeSw5fdoXfzA",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "127122301475",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-19T18:50:46.000Z",
+    "itemCreationDate": "2025-05-19T18:50:46.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|317118784588|0",
+    "title": "Intel Xeon E5-2650 V4 2.20GHz 12-Core UNTESTED Processor SR2N3 LGA 2011-3",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/AmgAAeSw-vlohOmd/s-l225.jpg"
+    },
+    "price": {
+      "value": "4.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C317118784588%7C0",
+    "seller": {
+      "username": "iibzzq",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 11,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "For parts or not working",
+    "conditionId": "7000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AmgAAeSw-vlohOmd/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "2.70",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "13031287592",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/317118784588?_skw=E5-2650&hash=item49d5c0a44c:g:AmgAAeSw-vlohOmd&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZf%2F2ZcWLchuCFpX6xDUtMSiNhAlkJe4xt2%2FKFF6U4rpg3laskLVyFizV9sUjBOhDjQFadbgerSurWUDe6Fkqmw%2BrJECZCd3i3YU6%2FcqB757aIYfIlBRdc3D3lk1RJJk2n63cAZXkP9MYKJsuL6q28TVHbvc%2Be3%2FeJqOUjqIMSbTzMPWvSVhQgV3Azzm0S4prVgDsG7etY%2BbE%2BJrSJ%2B8hdzMbMzamR2ckcTymRApXhVO6ejeg%2Fcmtz%2BE8rUfI31vakWbz5E%2Bv5COnS2M3to8as0",
+    "itemLocation": {
+      "postalCode": "RM7***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6OUAAeSwL0xohOme/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7eQAAeSwx1pohOme/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~a4AAeSwqYpohOme/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "317118784588",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-26T14:49:26.000Z",
+    "itemCreationDate": "2025-07-26T14:49:26.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|405456557334|0",
+    "title": "Dell PowerEdge R720xd Xeon E5-2650v2 2.6GHz 32GB H710 26x 2.5\" Bay 2U Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/HfIAAOSwS5dnI0cG/s-l225.jpg"
+    },
+    "price": {
+      "value": "228.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C405456557334%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HfIAAOSwS5dnI0cG/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "10031188285",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/405456557334?_skw=E5-2650&hash=item5e67181516:g:HfIAAOSwS5dnI0cG&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua1D0KK%2BOxKFzn9vbtcaS5J4DbB5X%2Bv7gwYNVc0LPHtIntwq%2FPmG8lnVjQZy9Ex3prk7gRGB0L8HT7qMdHSfY%2FawbXusl3SMd2gr0iG5JRQMPQradgZ99feM2sONvn2T6m8LgkcvVEYJEg0xMYx%2BUfTVG4pGIpkC4uofS1zSarXIpswnXf1%2Fy3MbeC%2BLpkbFv7ZnxZilcKu93eME0e90%2FVJzdhdgKE7mYnr9%2FgHCgsrqSLB6dQVgRJLxMftcNqUy%2F4WJcqFN5zmX%2FL%2Fv%2FNyGkHJ",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "405456557334",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-11-02T09:08:04.000Z",
+    "itemCreationDate": "2025-01-04T08:24:28.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|317094649926|0",
+    "title": "3 x Intel Xeon E5-2650 V3 2.3 GHz 10-Core (SR1YA) Processor",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/-L0AAeSwXVVoemky/s-l225.jpg"
+    },
+    "price": {
+      "value": "6.81",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C317094649926%7C0",
+    "seller": {
+      "username": "iibzzq",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 11,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-L0AAeSwXVVoemky/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "2.70",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "5016503154",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/317094649926?_skw=E5-2650&hash=item49d4506046:g:-L0AAeSwXVVoemky&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaAGCKH9TEAGWFCZ%2Fh%2FE%2F8vaGASTdHkKj8TbloJEWbQbcr5v%2Bwhss0OPJJw8%2FIoQqfCvHjK5O7UgECMkdvyjrGEauaMq85pYXQeayCXmIeamq%2B8xg69pfqZ61kS9kohfCqwdqqKCBHMyNuK0SY9v8qZkYVEFOYT5%2Bmot%2FLko7QnUndKf8SmlgRCvfP1gGgL%2BYDBFEl3Ts2HGAbUYsCxAtcpxc0gdfqdXzBT%2FTwmLQ8T6fQvlquIdnTJIkTVKaedh7SbjjQRCxnMlFLL3gPNMNSE",
+    "itemLocation": {
+      "postalCode": "RM7***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZFIAAeSwMxloemkz/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "317094649926",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-18T15:37:15.000Z",
+    "itemCreationDate": "2025-07-18T15:37:15.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|336019482715|0",
+    "title": "2pcs Intel SR2N3 Xeon E5-2650v4 2.20GHz LGA2011-3 12-CORE CPU Processor",
+    "leafCategoryIds": [
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/mvMAAOSwb4lnjkHJ/s-l225.jpg"
+    },
+    "price": {
+      "value": "5.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C336019482715%7C0",
+    "seller": {
+      "username": "eco-pc",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 41152,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mvMAAOSwb4lnjkHJ/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "13031287592",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/336019482715?_skw=E5-2650&hash=item4e3c52685b:g:mvMAAOSwb4lnjkHJ",
+    "itemLocation": {
+      "postalCode": "KA11***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "336019482715",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-08-29T13:01:46.000Z",
+    "itemCreationDate": "2025-06-17T07:44:34.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

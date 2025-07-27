@@ -1,0 +1,530 @@
+[
+  {
+    "itemId": "v1|176876058147|0",
+    "title": "Intel Xeon E5-2630L CPU SR0KM Processor Hexa-Core 2.00GHz 15M 7.2GTs FCLGA2011",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/ayEAAOSwk3pmo6Ug/s-l225.jpg"
+    },
+    "price": {
+      "value": "6.49",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C176876058147%7C0",
+    "seller": {
+      "username": "angie19672010",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 509,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ayEAAOSwk3pmo6Ug/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "218477441",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/176876058147?_skw=E5-2630&hash=item292ea27623:g:ayEAAOSwk3pmo6Ug",
+    "itemLocation": {
+      "postalCode": "SA9***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HQoAAOSwjMhmo6To/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rH4AAOSwQYBmo6Vw/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xHQAAOSw58Jmo6T0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/M5AAAOSwsEhmo6T6/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OEgAAOSwkKlmo6T~/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "6.49",
+      "currency": "GBP"
+    },
+    "legacyItemId": "176876058147",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-02-26T08:30:08.000Z",
+    "itemCreationDate": "2025-02-26T08:30:08.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|326690199591|0",
+    "title": "Intel Xeon E5 2630LV4 CPU Processor SR2P2 10 Cores 25MB Cache 2.90GHz LGA2011-3",
+    "leafCategoryIds": [
+      "164",
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/bQUAAeSw1uhoeMId/s-l225.jpg"
+    },
+    "price": {
+      "value": "34.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326690199591%7C0",
+    "seller": {
+      "username": "dr.memory",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 179577,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "originalPrice": {
+        "value": "35.00",
+        "currency": "GBP"
+      },
+      "discountPercentage": "0",
+      "discountAmount": {
+        "value": "0.01",
+        "currency": "GBP"
+      },
+      "priceTreatment": "LIST_PRICE"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bQUAAeSw1uhoeMId/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "18006204491",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326690199591?_skw=E5-2630&hash=item4c1040d827:g:bQUAAeSw1uhoeMId&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZnOcQYFwGmBn6ZxpGZHsqAgloWnkmMpXuCxeYzagFhcaE5zY%2F7mOzZzqNKcEu3V6g6JEV4pt%2BsxJZWICSFDdQRQmk2h5IYTVJK2BEMA28%2FuKT39IU9qym6e9wFGMz4DT2pr0GtGiCxGzd1Ax8cErJq3rTSPmxU6CqUlRVVpH4Vy1yHLNZBGkEgmPW4UCvTUzSv7n0XQtrJIMPtKc%2FcJBfZYtXvOk773E3DxNKi%2FyjzsRD0UJGbRqh6pR7UTV5L%2FDNcR%2BxelA3iRjS%2BALD5TUxz",
+    "itemLocation": {
+      "postalCode": "M17***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bpgAAeSwHGxoeMId/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "326690199591",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-17T09:26:15.000Z",
+    "itemCreationDate": "2025-07-17T09:26:15.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|365420485966|0",
+    "title": "Sophos XG550 2x Xeon E5-2630 V3 @ 2.4GHz 24GB DDR4 Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/GBcAAeSwp7xnvGHG/s-l225.jpg"
+    },
+    "price": {
+      "value": "129.95",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C365420485966%7C0",
+    "seller": {
+      "username": "pcs4u-uk",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 3621,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GBcAAeSwp7xnvGHG/s-l225.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/365420485966?_skw=E5-2630&hash=item5514c21d4e:g:GBcAAeSwp7xnvGHG&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZ28aEpR%2FpcK%2FhPboweLEDRKZU6CK2o4uRx5WEkdkKAIxYh6BeT2nRcEO5u89PBWFf7ryJQJqZzOz3kyQvjJ1HJ%2FAlcv55vwVsRmL0QEo3XDViepszHuPRw%2FA6hX3ql5WznD2fCEJGX5OleGAJeoCnvlYlJASAcVx1uEvENSxmX2k0ZMGcMi3beW%2BSGnY51XqmDHVQwgRneyrnA6RkDAbWeyaAUqaw%2F1Phkf0jEXN9xLB7VO1Mot%2FTmDTccxotUDxY5Sr16jmqLOKHSIACAayup",
+    "itemLocation": {
+      "postalCode": "ST16***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2-kAAeSwfDFnvGHG/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "365420485966",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-02-24T12:08:43.000Z",
+    "itemCreationDate": "2025-02-24T12:08:43.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|256894538028|0",
+    "title": "HP Z640 Workstation 2 x Intel Xeon E5-2630v3 8 Core 64GB Ram 1TB SSD Windows 11",
+    "leafCategoryIds": [
+      "179"
+    ],
+    "categories": [
+      {
+        "categoryId": "179",
+        "categoryName": "PC Desktops & All-in-Ones"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "171957",
+        "categoryName": "Desktops & All-in-Ones"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/73QAAOSwUuhnzvXc/s-l225.jpg"
+    },
+    "price": {
+      "value": "474.85",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256894538028%7C0",
+    "seller": {
+      "username": "the-technology-warehouse",
+      "feedbackPercentage": "99.6",
+      "feedbackScore": 13744,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "originalPrice": {
+        "value": "531.06",
+        "currency": "GBP"
+      },
+      "discountPercentage": "11",
+      "discountAmount": {
+        "value": "56.21",
+        "currency": "GBP"
+      },
+      "priceTreatment": "LIST_PRICE"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/73QAAOSwUuhnzvXc/s-l500.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/256894538028?_skw=E5-2630&hash=item3bd01b912c:g:73QAAOSwUuhnzvXc&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYC4Jrs8lYmU0STPWkD6IdmemZyP%2BrAQuuV8j%2FU7aaeRBTTtv37sX5bAdoqq1BS7g3fzlNUkvXUypzUqZGU9%2FJ%2Bn94ueZ5oTI0dz2tDlM6D7c%2BWycqsHoDXTOMDfe6UjmmyeLc3TNqni%2BHF14Cg%2FCiJxNK8MCaUppUKDqBR22UiEdm3rTiWQMi3vCRgN%2FkwbF9hmW5MU3Bn6bO%2F6%2B%2BpheCWRWdsTLkn4J2Xc4U%2FFq68lylSMhlvlZzOCHbhj1FBNn28f3TO6%2B2SMcVCYc6QQZJ0",
+    "itemLocation": {
+      "postalCode": "ME14***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9JkAAOSwTH9nzvXe/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/aFQAAOSwMMpnzvXe/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/P64AAOSwkD1nzvXe/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gygAAOSwqNhnzvXe/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/T68AAOSwxGdnzvXe/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cTQAAOSwEHBnzvXe/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PWoAAOSwlHlnzvXe/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6tAAAOSwcCRnzvXf/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/n74AAOSwZ0FnzvXe/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/F2wAAOSwrFJnzvXd/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RbEAAOSwPW1nzvYO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nL4AAOSwa3lnzvYO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/X9YAAOSw8ednzvYO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/K-IAAOSwYg9nzvYO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/k4sAAOSwrapnzvYN/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IdoAAOSwTJJnzvYO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4LUAAOSwlsNnzvYO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/If8AAOSwKRhnzvYO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HeUAAOSwh9hnzvYO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2bkAAOSwEpVnzvYO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YacAAOSw1EpnzvYM/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Se4AAOSwAGlnzvYX/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sl0AAOSwbvBnzvYX/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "474.85",
+      "currency": "GBP"
+    },
+    "legacyItemId": "256894538028",
+    "availableCoupons": true,
+    "itemOriginDate": "2025-04-15T16:54:25.000Z",
+    "itemCreationDate": "2025-04-15T16:54:25.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|116579475810|0",
+    "title": "HP ProLiant ML350p Gen8 6C E5-2630v2 2.6GHz 8GB Ram 8x 2.5\" Bay RDX Rack Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/-aUAAeSwFXZoD24h/s-l225.jpg"
+    },
+    "price": {
+      "value": "130.68",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C116579475810%7C0",
+    "seller": {
+      "username": "tobyjones552012",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 76,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-aUAAeSwFXZoD24h/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "50.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "2255950415",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/116579475810?_skw=E5-2630&hash=item1b24ada162:g:-aUAAeSwFXZoD24h&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uaiudi55T1wc%2B67SxMY6ktveB0vVoqafbmp8ydkOQHpi12vma7K334hNtQwyDXXH689FT159rmd%2BZn%2Boo9KR7XuY%2B99lV9czictyhfd18rmclHHeMnHmb1WgKnf2aMgwEXQWphYL3bR2wxQdj%2F9q8UHtgonpuEZLBlLzg8WfbICDpiA7Uxw%2F9pAgQPBGJYoce4slkDlaH1rino9IZid%2FaZk2K%2BfUdaTcIn0rgcWXQHC34cQ%2F1ubetplKTWzz9ojiv%2BwKb6lwnjBtz6kKP2ZrHWm",
+    "itemLocation": {
+      "postalCode": "SL1***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/c4oAAeSw0U9oD24i/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4CQAAeSwd9doD24j/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Ix8AAeSwQ3toD24j/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ecIAAeSwM81oD24j/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GacAAeSw1eRoD24k/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FEUAAeSwqhBoD24k/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IeYAAeSwP~5oD24l/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JucAAeSw0E9oD24m/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "116579475810",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-04-28T12:02:46.000Z",
+    "itemCreationDate": "2025-04-28T12:02:46.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

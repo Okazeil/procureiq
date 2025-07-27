@@ -1,0 +1,476 @@
+[
+  {
+    "itemId": "v1|276343174109|0",
+    "title": "Intel Xeon CPU SR1A6 E5-2680 V2 25MB L3 Cache 2.8GHz 10C 8GT/s 115w",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/JmUAAOSwmF5l0zfy/s-l225.jpg"
+    },
+    "price": {
+      "value": "9.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276343174109%7C0",
+    "seller": {
+      "username": "systemsupplyindustriesltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 26363,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JmUAAOSwmF5l0zfy/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "10061131475",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/276343174109?_skw=E5-2680&hash=item40575633dd:g:JmUAAOSwmF5l0zfy",
+    "itemLocation": {
+      "postalCode": "OX12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Z94AAOSwqoRl0zfy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/31IAAOSw6Ddl0zfx/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "276343174109",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-02-19T11:16:18.000Z",
+    "itemCreationDate": "2024-02-19T11:16:18.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|116574437353|0",
+    "title": "Intel Xeon E5-2680V4 CPU Processer 14 Core SR2N7 2.40GHz 120W 35MB WHOLESALE LOT",
+    "leafCategoryIds": [
+      "164"
+    ],
+    "categories": [
+      {
+        "categoryId": "164",
+        "categoryName": "CPUs/Processors"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/Kc0AAOSwfFhlEqt1/s-l225.jpg"
+    },
+    "price": {
+      "value": "15.98",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C116574437353%7C0",
+    "seller": {
+      "username": "servershopping",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 4134,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Kc0AAOSwfFhlEqt1/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "11032705155",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/116574437353?_skw=E5-2680&hash=item1b2460bfe9:g:Kc0AAOSwfFhlEqt1&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYTVxTALjeWNPVtWqzj%2F5c6aXtAT4t7efhpwXOmvoUbp3D887JvOAPZOmNP6WYKSpFcNZgYtwfo2zxKi6XNSzKgDXnlTPmmnK8svlyRJIdtEFl%2BCuvw94k%2BgLzaifH8S0YiZlw9tP3kzxc6nnihbAQh9eika%2FQie9FRKOntcmq2%2BjvA9fN2d2axGgBVQeseePQqWU%2B7gJsGumQgPjER6Tx%2FrKeQGLlu639pRc7jcfLgD1f9TYC8bO9QxkYKFByCmt%2FTPwh1k5Ae64c1yaJ6Vv4r",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ajMAAOSwJHVlEquA/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PYIAAOSw0XdlEquG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HaUAAOSwEC9lEqut/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UfYAAOSw4ullEqu4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ey8AAOSwiYxlEqvA/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jnsAAOSwLohlEqvQ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tO8AAOSwTgNlEqvb/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "15.98",
+      "currency": "GBP"
+    },
+    "legacyItemId": "116574437353",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-04-24T14:53:26.000Z",
+    "itemCreationDate": "2025-04-24T14:53:26.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|156246195728|0",
+    "title": "Intel Xeon E5-2680 v4 2.40GHz 14Cores 28Threads 120W 35MB CPU - SR2N7 Processor",
+    "leafCategoryIds": [
+      "56088"
+    ],
+    "categories": [
+      {
+        "categoryId": "56088",
+        "categoryName": "Server CPUs/Processors"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/RmwAAOSw4VtnLgUl/s-l225.jpg"
+    },
+    "price": {
+      "value": "14.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156246195728%7C0",
+    "seller": {
+      "username": "compuwyze_ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 840,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RmwAAOSw4VtnLgUl/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "11032705155",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156246195728?_skw=E5-2680&hash=item2460ffbe10:g:RmwAAOSw4VtnLgUl&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZyxYmFY9TvjRszxFj2tMXaalblly%2F4YNU7xTlXhs8PEueTUnAnVcJLMYj7Mjtlbr29A5Km%2BGGtOcyDdHTgKTfhVGkX%2B7B0JLtqVPjmOdyYhu%2FHmWOd9cvE8eHawVMZ7j4jy1gq4buVAI8VBoQZ%2BtVBGKHWfuefIx9%2Bt4q2FJE2cjg%2FkqnblgXOGl4SwKXj9rjSmvfXDU%2BtwN4voEVJ7zc8J2Uc3AZaZWA3%2FyhQfAT8lGons8S6nddIlAMoelSxvkH0Kv7B1n0hTJMYGCGahDCz",
+    "itemLocation": {
+      "postalCode": "PR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/L48AAOSwnX1nLgUl/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2EoAAOSwBTdnLgUk/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "14.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "156246195728",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-06-07T13:22:45.000Z",
+    "itemCreationDate": "2024-06-07T19:22:51.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|116535309949|0",
+    "title": "Dell Precision T5810 E5-2680v3 2.50GHz 12-CORE 8GB DDR4 Nvidia NVS 310 NO DISKS",
+    "leafCategoryIds": [
+      "179"
+    ],
+    "categories": [
+      {
+        "categoryId": "179",
+        "categoryName": "PC Desktops & All-in-Ones"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "171957",
+        "categoryName": "Desktops & All-in-Ones"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/7HQAAOSwmvhiBvHG/s-l225.jpg"
+    },
+    "price": {
+      "value": "88.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C116535309949%7C0",
+    "seller": {
+      "username": "servershopping",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 4134,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7HQAAOSwmvhiBvHG/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "10.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-04T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/116535309949?_skw=E5-2680&hash=item1b220bb67d:g:7HQAAOSwmvhiBvHG&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbYRamMXxlDmZ%2BxBP5Gx5MgOqZIdGr7qn%2F2EmZaXMlyDJOn3g8j24D0i3CYcE%2B78m6OzHthG09stiyIVy092ADlDekpLvEmReOWMzDOtY80grEXVGRZaQXIinxfdHrtd59EmHd6%2B4cxeV%2FIxaH1m%2BRH0v9VHSlMpe4X7V%2BaC3jP4jTpotgFTFzL0jyEHfakAZru3zNLnva3PKu4Dmd2lGUpB%2BsYAvBedUYyGvF9L3mfqgNDM1tEfcIXI%2BsLwgyxsUheXaReE%2B%2F9Af5d6VaI7vTa",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/q3QAAOSwkm9n47Hx/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qBAAAOSwGitiBvHo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QoQAAOSwUG9iBvHv/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YpoAAOSwdExiBvIR/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YQMAAOSwwN9iBvIg/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-OYAAOSwntZn47Mu/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Pw8AAOSwpa1n47IQ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IxEAAOSwqkViBvJH/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YzgAAOSwTTBiBvJ7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nZ8AAOSw3zpiBvLI/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LhcAAOSwi6ZiBvLs/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "116535309949",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-26T08:04:18.000Z",
+    "itemCreationDate": "2025-03-26T08:04:18.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|187363285161|0",
+    "title": "14-CORE HP Z440 Workstation Xeon E5-2680v4 TURBO 3.30GHz incl 2x CADDY 3.5\" ONLY",
+    "leafCategoryIds": [
+      "179"
+    ],
+    "categories": [
+      {
+        "categoryId": "179",
+        "categoryName": "PC Desktops & All-in-Ones"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "171957",
+        "categoryName": "Desktops & All-in-Ones"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/O4sAAOSw9QhoWu0g/s-l225.jpg"
+    },
+    "price": {
+      "value": "87.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C187363285161%7C0",
+    "seller": {
+      "username": "anisatech",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 10344,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/O4sAAOSw9QhoWu0g/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "10.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "4058196762",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/187363285161?_skw=E5-2680&hash=item2b9fb8d8a9:g:O4sAAOSw9QhoWu0g&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZuqF9lpngMvKmt%2BEQP7QzlgYVdJgkPD86NGlMyXHJugHyKwc2gKSvach%2FcltHSHcRmcczqyvoEs5Oc%2B3zia%2FFsvuBSj8lxGm0je90SSmjiBVC1Yte2rz%2FloUEALlGISNhPfpnqkIPHYSXEPrIcQ4eC2ChrnrUvoOmva%2BaPUj6cEh%2F8GOIWPYbRBeym%2Fa0Tvl3Ym20hi6%2BI3IRAPcfEqz5K8GxSR7ZNOrJB8uW0vPnCUUAGcC2dPzIftR75lITTSzAaPsHSnFyh5xme%2FMBNX01j",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/akkAAOSw8e5lEgRk/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AOwAAOSwompjcTw0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KOYAAOSw5ypjcTw0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GVQAAOSwqEhjcTw0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SOUAAOSwuk1jcTw1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UqIAAOSwVVtjcTw0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wGQAAOSwI91jcTw1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MPUAAOSwu9JjcTw1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/H5cAAOSwgBljcTw1/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7RQAAOSwRA5lEgSZ/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "187363285161",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-24T22:35:34.000Z",
+    "itemCreationDate": "2025-06-24T22:35:34.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

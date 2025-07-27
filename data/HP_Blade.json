@@ -1,0 +1,416 @@
+[
+  {
+    "itemId": "v1|376253370762|0",
+    "title": "HP Blade System BL C7000 Platinum Chassis 5x2400W 10x Fans- Power On tested Only",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/omgAAOSwEJFoJy70/s-l225.jpg"
+    },
+    "price": {
+      "value": "150.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C376253370762%7C0",
+    "seller": {
+      "username": "think_tech_it",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 1704,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/omgAAOSwEJFoJy70/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "60.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/376253370762?_skw=HP+Blade&hash=item579a72d18a:g:omgAAOSwEJFoJy70",
+    "itemLocation": {
+      "postalCode": "DE14***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OzkAAOSwt1VoJy8R/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZqwAAOSwvbVoJy8k/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/w6QAAOSwZr1oJy88/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/asEAAOSwUGNoJy9V/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gc8AAOSw-FVoJy9j/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "376253370762",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-16T13:10:02.000Z",
+    "itemCreationDate": "2025-05-16T13:10:02.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|267278287445|0",
+    "title": "HPE D2220sb Storage Blade QW918A, PN: 671668-001",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/vzkAAeSwRm5oQaW5/s-l225.jpg"
+    },
+    "price": {
+      "value": "104.68",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C267278287445%7C0",
+    "seller": {
+      "username": "vinylram",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 1189,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vzkAAeSwRm5oQaW5/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "5.21",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "4055452327",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/267278287445?_skw=HP+Blade&hash=item3e3b070255:g:vzkAAeSwRm5oQaW5&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ubl%2BlrPK8h6FHzo0yyQ2wVxp%2B3UIfxBjX1s6bJCWHvvrg0DSpB6E0%2Bf4NOfzmIAqzG7qLwMuZnmbA2FDtTeFV1iMouX64rxp4QXeWel6VHyRHdesa9vx6wQsj8GegBMASsJSbXJG3vPowdDRpEhdoidEtV4%2FfFACbNYqRhbv4urI3eWrCyfB9R22xZgD%2B78JcbXtikmioBSjLRWvSHwTEZ%2Bleo34njakdxgGtRFl3lBGLd%2FCKZdydPlA90WZ0WSq311vtkxoQbQW6N5ioSQza9o",
+    "itemLocation": {
+      "postalCode": "SO14***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Jm0AAeSwBpZoQaW5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/S7QAAeSw4YVoQaW5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/atEAAeSwV15oQaW5/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "267278287445",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-05T14:14:55.000Z",
+    "itemCreationDate": "2025-06-05T14:14:55.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|363850783809|0",
+    "title": "HP Blade System BL C7000 Blade Chassis 10U 6x 2450W 10x Fans 8x 1GbE Module",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/3o4AAOSwm3RijjRX/s-l225.jpg"
+    },
+    "price": {
+      "value": "480.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C363850783809%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3o4AAOSwm3RijjRX/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "77795115",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/363850783809?_skw=HP+Blade&hash=item54b7325c41:g:3o4AAOSwm3RijjRX",
+    "itemLocation": {
+      "postalCode": "WC1B***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/s0UAAOSwKfpijjRY/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZCsAAOSw6bNijjRa/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UHMAAOSw7dlijjRY/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "363850783809",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-05-28T07:28:10.000Z",
+    "itemCreationDate": "2022-05-28T07:28:10.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|226561120942|0",
+    "title": "MacAllister MPRM46HP Blade Fits MPRM46SP  181004460/0 Genuine Replacement",
+    "leafCategoryIds": [
+      "260923"
+    ],
+    "categories": [
+      {
+        "categoryId": "260923",
+        "categoryName": "Lawn Mower Parts"
+      },
+      {
+        "categoryId": "43560",
+        "categoryName": "Lawn Mowers, Parts & Accessories"
+      },
+      {
+        "categoryId": "159912",
+        "categoryName": "Garden & Patio"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/-XUAAOSwg0FZiZkR/s-l225.jpg"
+    },
+    "price": {
+      "value": "18.69",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226561120942%7C0",
+    "seller": {
+      "username": "outdoorspares",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 69211,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-XUAAOSwg0FZiZkR/s-l960.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "2164171282",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/226561120942?_skw=HP+Blade&hash=item34c0185aae:g:-XUAAOSwg0FZiZkR&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbCD06lx8Rl8qDUG4a58%2F%2BtJOIFmQ%2BYUV9fgTbuGRrDyARbFs8wgYPPzaxEde%2F2UELRvNTWWHW8mIQiPZbeI%2FbX5a%2BW8bTeqiqsY%2BybZWACT8HD%2BOvo8cQDziu%2FBs9Jn4YX2A1RNCuhHna9EQYFnMW1bsVvPLrsCNf59ITdCNPoZODIVoVY6%2BAOQSSuqlodkLPiuThOVMQHJGwXmjmm221jELXuc3cCXW1RldhHd5lmaxzdOu8LW5smKtiIOgj4gZ0PDpwQh%2F3mphs5nfZviOSx",
+    "itemLocation": {
+      "postalCode": "PA15***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6YQAAOSwEupZiZkS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sHgAAOSwEgZZiZkV/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "226561120942",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-01-23T10:15:42.000Z",
+    "itemCreationDate": "2025-01-23T10:15:42.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|236080766718|0",
+    "title": "HP Blade System BL C7000 GEN2 Platinum Chassis 3x 2500W 9x Fans 2xOA BLC7000",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/9osAAeSw~4doE16Q/s-l225.jpg"
+    },
+    "price": {
+      "value": "286.68",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236080766718%7C0",
+    "seller": {
+      "username": "arymortazav_0",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 41,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9osAAeSw~4doE16Q/s-l1600.jpg"
+      }
+    ],
+    "pickupOptions": [
+      {
+        "pickupLocationType": "ARRANGED_LOCATION"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "26028940851",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/236080766718?_skw=HP+Blade&hash=item36f7829efe:g:9osAAeSw~4doE16Q&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYZMUq%2B7c5IqzkIDJRukgC7W15aqT2HUP1jRCqawU56ZjVT0kzNnG%2BTfO7VYgwucAgiIeNUmlRblTxmDOxs4smGMIPWqHboS1OErgxM6scUiGwXcPOPu0swZsUp9sZEGO6%2BKBRAp2nKuW1%2Fein2P0vARJVrORdPdUGNWf%2BEfhX6VnSQIV1wnswD6z%2F1pR13k%2FIRqWV2ecgvINuyRDAIdNllxT5LVmLJI16stu5kSrk7pKzCwii0IDG%2BfJVa%2BJP2tt--2pV8RiJbh%2F4pvOg6O6%2Br",
+    "itemLocation": {
+      "postalCode": "EH14***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KQ0AAeSwAXhoE16Q/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hLcAAeSwLeRoE16Q/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "236080766718",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-01T11:45:56.000Z",
+    "itemCreationDate": "2025-05-01T11:45:56.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

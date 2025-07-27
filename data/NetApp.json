@@ -1,0 +1,512 @@
+[
+  {
+    "itemId": "v1|396047793582|0",
+    "title": "NetAPP DS4243 NAJ-0801 24 Bay 4U Storage Array 2x IOM6 Controller Modules",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/8B8AAOSwIgxnarn0/s-l225.jpg"
+    },
+    "price": {
+      "value": "102.49",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C396047793582%7C0",
+    "seller": {
+      "username": "pro-avit.london",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 70829,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/8B8AAOSwIgxnarn0/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1360560190",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/396047793582?_skw=NetApp&hash=item5c3649bdae:g:8B8AAOSwIgxnarn0",
+    "itemLocation": {
+      "postalCode": "RG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/W~sAAOSwZr5narn4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/puQAAOSwxjdnarn0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/87cAAOSwGHFnarn0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/T9oAAOSwL2Bnarn0/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "396047793582",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-12-24T13:37:42.000Z",
+    "itemCreationDate": "2024-12-24T13:37:42.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|256880943969|0",
+    "title": "NetApp NAF 1301 3U Filer System 2 x Control Modules 111-01099+B3 FAS8020",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/4Q0AAOSwri5lAD0n/s-l225.jpg"
+    },
+    "price": {
+      "value": "199.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256880943969%7C0",
+    "seller": {
+      "username": "bluecybercow",
+      "feedbackPercentage": "99.9",
+      "feedbackScore": 14039,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4Q0AAOSwri5lAD0n/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "9062756950",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/256880943969?_skw=NetApp&hash=item3bcf4c2361:g:4Q0AAOSwri5lAD0n&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ubg4AUJmO8ee6%2Bfnf2oTBZ0%2FLCG8qMEnfAFh%2Fqprle5tAeQJhkf9nXTEssRWeX618S%2FYdF4lA2L6gTr6Xb1reBR5xVh4AlOYoHCJd7YiI0LpZitX08q%2BAIBsS%2BQUmcgS10uf4yONsOxEgCTOwqZtpvnpUvU1FEzXYPyEl0QAqXNOxS8LNJ6WPITkDpVEhRU6eKFbk17rQfKNLxHC39HaGpQSYG3NqAXRygaZ7lLd5IRHx7TiM4adUQD%2FBbBlBnV0PjrKvvf8Vahem6GmM5gwoiN",
+    "itemLocation": {
+      "postalCode": "CH3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/VpMAAOSwsXRlAD0o/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iQgAAOSwjsBlAD0r/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7PYAAOSwzZplAD0q/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jMsAAOSwMvJlAD0s/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/uCAAAOSwbdxlAD0q/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5iEAAOSwrtBlAD0p/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/utQAAOSwdLhlAD0p/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/X3AAAOSw7tNlAD0s/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RMEAAOSwDA9lAD0v/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/kcQAAOSw~UVlAD0w/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/I4AAAOSwYXllAD0y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~7sAAOSw8-xlAD0x/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wHEAAOSwqcRlAD0q/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ocQAAOSwEoplAD0t/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iSEAAOSwjsBlAD0z/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/51sAAOSwanBlAD0v/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KOwAAOSwzOFlAD0t/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/f08AAOSwsYxlAD0w/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fTkAAOSwCahlAD0v/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-DMAAOSwAjBlAD0u/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3skAAOSwH21lAD0v/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tZgAAOSwF~9lAD1Z/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "kg",
+    "unitPrice": {
+      "value": "5.41",
+      "currency": "GBP"
+    },
+    "legacyItemId": "256880943969",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-04-06T08:10:00.000Z",
+    "itemCreationDate": "2025-04-06T08:10:00.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|305153604378|0",
+    "title": "Netapp DS4246 24 LFF Bay Disk Array 2x IOM6 Controllers 2x PSUs No Ears NAJ-0801",
+    "leafCategoryIds": [
+      "64069"
+    ],
+    "categories": [
+      {
+        "categoryId": "64069",
+        "categoryName": "NAS Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/~psAAOSwf7RlDJC8/s-l225.jpg"
+    },
+    "price": {
+      "value": "175.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C305153604378%7C0",
+    "seller": {
+      "username": "procurrieurope",
+      "feedbackPercentage": "99.6",
+      "feedbackScore": 2684,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~psAAOSwf7RlDJC8/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/305153604378?_skw=NetApp&hash=item470c927b1a:g:~psAAOSwf7RlDJC8&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYQU%2BipBEQFAjUnPFvfeUY1y0m0KSHybIdiBgYEU5Jzqx1S1j5u%2FqB2tVZ3WcSuJ8LIXhFQh19ksUi44XD%2BAOU3ZzxK%2BLIqaRneCd3zu0T6vJRrNr8mQXqsfcZ5YajgQCd9Wm%2BGipFNdM6rcRPPHtslXcYEOUUx9LyfLakuxszyCVw8HDP0uDbIjtW%2B0SVF2Aygd0rrYTdqkYFYBMyDQD0KKjZEkI7I0SN8i0WPpk%2FnG48qs%2Fsg07A8ypbqPWUHUAiBbB%2Bh%2BXLHNjzv4D688ALr",
+    "itemLocation": {
+      "postalCode": "GL7***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UGMAAOSw2BFlDJC7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MV0AAOSwq1dlDJC8/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KewAAOSwmS9lDJC8/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/b~sAAOSwTgNlDJC7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0wwAAOSwgsBlDJC8/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~pcAAOSwf7RlDJC7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dWsAAOSwd3xlDJC7/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "305153604378",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-09-22T12:16:15.000Z",
+    "itemCreationDate": "2023-09-22T12:16:15.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|285032858355|0",
+    "title": "NetApp 3.8TB SSD X357A/SP-357A SAS 12Gb/s SFF (2.5-Inch) 3 Years Warranty",
+    "leafCategoryIds": [
+      "56083"
+    ],
+    "categories": [
+      {
+        "categoryId": "56083",
+        "categoryName": "Internal Hard Disk Drives"
+      },
+      {
+        "categoryId": "165",
+        "categoryName": "Drives, Storage & Blank Media"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "182085",
+        "categoryName": "Hard Drives (HDD, SSD & NAS)"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/3OYAAOSwMthj4SuJ/s-l225.jpg"
+    },
+    "price": {
+      "value": "240.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C285032858355%7C0",
+    "seller": {
+      "username": "intelligent_servers",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 5669,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3OYAAOSwMthj4SuJ/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/285032858355?_skw=NetApp&hash=item425d4842f3:g:3OYAAOSwMthj4SuJ&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uau02CPTObYdqVqkRXG0KYrPZybSmvZ91QnH0gvYEbKDS%2FByFOs9VpGGcz2ZB%2FPqSDCa9mMimCYPSpPF%2F46fTtrJvxRAb7h88RG5guDbJPbzHO%2Bt9Btg00iQJfTsOZXNFavCo7sxpUZZiBNOEpKGorlB0bO9hJUu9M6N5uZciCD819LC0wcS7zKmiGwU5TuTshd3eObnUBdx2aqrGKrESm%2F0WHo4NOVq%2FGmDZA5mBF6BdQSg9GaH3RyP8yp99kbxW5g2w7%2FBPDsVXzwVLt6elsv",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/68EAAOSwBuBlN96W/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "285032858355",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-11-09T16:53:08.000Z",
+    "itemCreationDate": "2022-11-09T16:53:08.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|396809185351|0",
+    "title": "Netapp DS4246 24 Bay Disk Array -x 2 Controllers - x2 PSU's. Model - NAJ-0801",
+    "leafCategoryIds": [
+      "64069"
+    ],
+    "categories": [
+      {
+        "categoryId": "64069",
+        "categoryName": "NAS Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/oc4AAOSweehoKz5A/s-l225.jpg"
+    },
+    "price": {
+      "value": "189.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C396809185351%7C0",
+    "seller": {
+      "username": "gentronicssolutions",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 54,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oc4AAOSweehoKz5A/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/396809185351?_skw=NetApp&hash=item5c63aba847:g:oc4AAOSweehoKz5A",
+    "itemLocation": {
+      "postalCode": "SN10***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iKMAAOSw6sJoKz4Y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oVgAAeSwe5toKzvm/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/j6wAAOSwEV9oKz6Z/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Xc0AAeSwOhloKzvm/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RqkAAOSwh3JoKz7E/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xIYAAOSwAv5oKz7g/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/R7wAAOSw0aRoKz7s/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FZgAAOSwRV5oKz8U/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "396809185351",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-01T12:33:47.000Z",
+    "itemCreationDate": "2025-07-01T12:33:47.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

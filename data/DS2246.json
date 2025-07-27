@@ -1,0 +1,415 @@
+[
+  {
+    "itemId": "v1|275457080161|0",
+    "title": "NetApp DS2246 24 Bay Disk Array 2 x IOM6, 2 x PSU, 24 x 2.5\" caddies",
+    "leafCategoryIds": [
+      "64069"
+    ],
+    "categories": [
+      {
+        "categoryId": "64069",
+        "categoryName": "NAS Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/to0AAOSwhUZkwRID/s-l225.jpg"
+    },
+    "price": {
+      "value": "69.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C275457080161%7C0",
+    "seller": {
+      "username": "systemsupplyindustriesltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 26363,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/to0AAOSwhUZkwRID/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/275457080161?_skw=DS2246&hash=item4022857b61:g:to0AAOSwhUZkwRID",
+    "itemLocation": {
+      "postalCode": "OX12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jtsAAOSwR~BkwRIH/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tecAAOSwqItkwRIH/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1IoAAOSwi7JkwRIJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~uAAAOSwA95kwRIB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/62AAAOSwEUJkwRIB/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "275457080161",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-09-12T10:00:32.000Z",
+    "itemCreationDate": "2022-09-12T10:00:32.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|363607684453|0",
+    "title": "NetApp DS2246 NAJ-1001 Disk Array 18x 450GB 10K HDD 2x IOM6 Controllers + 2x PSU",
+    "leafCategoryIds": [
+      "64069"
+    ],
+    "categories": [
+      {
+        "categoryId": "64069",
+        "categoryName": "NAS Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/pXEAAOSwz89hgkwl/s-l225.jpg"
+    },
+    "price": {
+      "value": "264.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C363607684453%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/pXEAAOSwz89hgkwl/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1471243707",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/363607684453?_skw=DS2246&hash=item54a8b4f565:g:pXEAAOSwz89hgkwl&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZFMIdnfZE%2FnI69b3S3J4CeCjwmhCazEE1vVhrbpiDRGoyQykhCCAJyL2BbMLr6Vj%2BlEbMIoF6r73Iwd91RWO9F3FwcQI%2FG5zawvTHYqZDP9BYSOmEjGs%2BY8zDcZvhO91JqBQS5QT2fz9lbofrjFi81mhdqwRnkeJNW4OEx2JtS7%2BxlCVhZ79hZMHZf9iFBePhTVTWlDrth4DTP8Cl%2BBxNv%2F63v9bgO4mZ%2BuFB36L%2B7Ci7d0AQbbQ02%2Bc5PuKOtEMxq6%2Bl8Ou40T23Das%2Bs1Cvo",
+    "itemLocation": {
+      "postalCode": "WC1B***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BD4AAOSwNNBhgkwn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oa8AAOSwWs1hgkwr/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "363607684453",
+    "availableCoupons": false,
+    "itemOriginDate": "2021-11-06T08:43:05.000Z",
+    "itemCreationDate": "2021-11-06T08:43:05.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|403774596092|0",
+    "title": "NetApp DS2246 NAJ-1001 Disk Array 24x 2.5\" Bay 2x IOM6 Controllers + 2x PSU",
+    "leafCategoryIds": [
+      "64069"
+    ],
+    "categories": [
+      {
+        "categoryId": "64069",
+        "categoryName": "NAS Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/RPwAAOSwC~Ziz~p~/s-l225.jpg"
+    },
+    "price": {
+      "value": "72.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C403774596092%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RPwAAOSwC~Ziz~p~/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1471243707",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/403774596092?_skw=DS2246&hash=item5e02d763fc:g:RPwAAOSwC~Ziz~p~&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uaygprpci5tIbVVas2ywQ3R%2F0OGtnQFJxa3Uy9WHqYsiS7oFkzkrw6IjmXFFa70KOx4NJzEmo%2B3mwElcSaP9EBLRqkauWMFatfPPenJnHQjm2CFyAAo4CYHrMHMRiNcSOuV0vcf0txOyklPbrbS%2BAKnbkWHRILqaMSb9y1LhF9TGDVuZLNgVcxO4nY06Wl%2F34Cas98cSVqw5b7hOXZlhx8pZ11bFjfr7P5AvQcgWXwvQH91ZCyhA1A%2FyZ20KtLt3ldQYdBB8zJTpedZUmPZrUUt",
+    "itemLocation": {
+      "postalCode": "N12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/VbMAAOSwJY5iz~qA/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZjsAAOSwG7piz~p-/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "403774596092",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-07-15T18:22:49.000Z",
+    "itemCreationDate": "2022-07-15T18:22:49.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|186127463622|0",
+    "title": "404-00077-A0 NETAPP RAILS 1U FOR NETAPP DS2246, DS4246",
+    "leafCategoryIds": [
+      "56092"
+    ],
+    "categories": [
+      {
+        "categoryId": "56092",
+        "categoryName": "Other Ent. Server Components"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/NJ8AAOSwqqpnRPP3/s-l225.jpg"
+    },
+    "price": {
+      "value": "32.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C186127463622%7C0",
+    "seller": {
+      "username": "www_compan_info",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 4495,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NJ8AAOSwqqpnRPP3/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "10.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "1323279078",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/186127463622?_skw=DS2246&hash=item2b560fb4c6:g:NJ8AAOSwqqpnRPP3&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ub57iZZtzt%2Bdhl8esnFa2akNJYBY1Xze92KtoD0eIbSlxTs0h5SwuAv5VIx4YIiA09TBaAZe6iR98DwZ7uM9OTlQJdzXXZcO9DAY9Z91csnGigc8as7IVE6vqfefTNcO2qj4A%2BpYhsOjRL4CnwVt3%2BwUCV53XwoNgiZYTlZZpyHBKNRJEWeyTMzDaVIToMQ4DRS4LrEtfF5FKq9cM9yAh3qTUtkSJBEKCj3pkeWenGvSrOopaJfGKsPdXebZTz%2FPcM%2FXDigPeQtNZtOkP8lIaHy",
+    "itemLocation": {
+      "postalCode": "58***",
+      "country": "PL"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WUYAAOSwWl5nRPP3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wssAAOSw5JVnRPP4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cKcAAOSw-51nRPP3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TDoAAOSwwCZnRPP3/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "186127463622",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-10-19T14:23:58.000Z",
+    "itemCreationDate": "2023-10-19T14:23:58.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|226842011761|525992618208",
+    "title": "SAS SFF-8088 to QSFP SFF-8436 SAS Cable  - NetApp DS2246 DS4243 DS4246",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=226842011761",
+    "leafCategoryIds": [
+      "74941"
+    ],
+    "categories": [
+      {
+        "categoryId": "74941",
+        "categoryName": "Drive Cables & Adapters"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "182094",
+        "categoryName": "Computer Cables & Connectors"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/iWIAAOSw~elni7sj/s-l225.jpg"
+    },
+    "price": {
+      "value": "32.99",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226842011761%7C525992618208",
+    "seller": {
+      "username": "it-cards",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 2234,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iWIAAOSw~elni7sj/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/226842011761?_skw=DS2246&hash=item34d0d66871:g:iWIAAOSw~elni7sj",
+    "itemLocation": {
+      "postalCode": "PR7***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "226842011761",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-01-18T14:44:24.000Z",
+    "itemCreationDate": "2025-06-30T19:12:13.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

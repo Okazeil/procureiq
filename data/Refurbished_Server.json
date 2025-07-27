@@ -1,0 +1,485 @@
+[
+  {
+    "itemId": "v1|126700627682|0",
+    "title": "HP ProLiant DL360 Gen9 Server 4LFF REFURBISHED - CTO G9 1U",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/9q4AAeSwRndoajyo/s-l225.jpg"
+    },
+    "price": {
+      "value": "64.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126700627682%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9q4AAeSwRndoajyo/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/126700627682?_skw=Refurbished+Server&hash=item1d7ff226e2:g:9q4AAeSwRndoajyo",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "126700627682",
+    "availableCoupons": true,
+    "itemOriginDate": "2024-10-01T12:17:20.000Z",
+    "itemCreationDate": "2024-10-01T12:17:20.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|285381625078|0",
+    "title": "Dell PowerEdge R730XD Server 12 x 3.5\" Dual PSU CTO Rack",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/f04AAOSwls1lLVH7/s-l225.jpg"
+    },
+    "price": {
+      "value": "255.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C285381625078%7C0",
+    "seller": {
+      "username": "intelligent_servers",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 5669,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/f04AAOSwls1lLVH7/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "7026969565",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/285381625078?_skw=Refurbished+Server&hash=item42721204f6:g:f04AAOSwls1lLVH7&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYwahpR3ng1GFYOX1eU9%2B%2FXQFjxkw28d%2BQqRgXumI0jVIIBk6gwMPzyLyto7hoBOoHv4p0CDhdMmRxlqXUaIJmlOkQ1JuH8bE8p%2FZfZc65PWbjOqzrwCXJoaYBtt7%2FnEVOga7YbpIiUxkNIQ3FdqLwNudagF%2F3Xi3%2Fa7nO9iUJn%2FYihQ59KT3S8%2BIFOYAdhp0ejPB0dMkaCWZ404ripoxjLIL6ezhQiyCzvKQiP%2FA80FE7v0xECNZw0B9EyVhOVFSvLFUTiN1ZWrWZChRoH50qETE9DTPhgXkXv7AYekd1t%2Fg%3D%3D",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0d0AAOSwmlVlLVH-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0AUAAOSw2vplLVID/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7QsAAOSwdmZlLVIH/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "285381625078",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-07-14T13:15:28.000Z",
+    "itemCreationDate": "2023-07-14T13:15:28.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|156180887743|0",
+    "title": "HP DL360 Gen9 8*SFF Server 2x2680V3 128GB 2x 900GB P440ar 2x 500W PSU 4x1Gb RJ45",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/hU0AAOSwhXlmKPHF/s-l225.jpg"
+    },
+    "price": {
+      "value": "175.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156180887743%7C0",
+    "seller": {
+      "username": "compuwyze_ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 840,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hU0AAOSwhXlmKPHF/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156180887743?_skw=Refurbished+Server&hash=item245d1b38bf:g:hU0AAOSwhXlmKPHF&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZsoaV%2BDL%2FP0XNhJPuUXUxAQlwEiSSfQUP7elp9fVnDRdObhx0znyOEOIyza%2F3qjhbahGWFeZfSJx5NDERN3By91d2G1W%2FLApGwAgxcoOi5Jxw9%2FRxm7cZw2xUnr39JmAoxJiqVNtiR3eSsXzRCCGNqkNEJtlv5TrtEWgdIRdE0Rd0XuJIiB41yu1dmG3o%2FbsGxSU8YGLW8Oh%2BCDdla%2Fynw8wo4pw%2Frp05kChLFwYdkkFfkRJQtyapgJsyA2dqzj--VloUfGUHkieoIad2d4QCGCLRB0L1klFqnx%2Fli0euNtQ%3D%3D",
+    "itemLocation": {
+      "postalCode": "PR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gSEAAOSwxU1mKPHR/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ICwAAOSwiDxmKPGw/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "175.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "156180887743",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-04-24T11:51:18.000Z",
+    "itemCreationDate": "2024-04-24T17:52:39.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|236102628453|0",
+    "title": "Supermicro CSE-829U 2U Rackmount Server Chassis 12x Bay Caddies 2x 1000W PSU ",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/-HEAAeSw1iZod7Jq/s-l225.jpg"
+    },
+    "price": {
+      "value": "189.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236102628453%7C0",
+    "seller": {
+      "username": "dr.memory",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 179577,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-HEAAeSw1iZod7Jq/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/236102628453?_skw=Refurbished+Server&hash=item36f8d03465:g:-HEAAeSw1iZod7Jq&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaITgjz24mN0VXVM0VO0o3xKS7y1k055ixw%2F7M3fZtCJ7IO%2B5YsPvvF3Hgyioy1LA0NsgDqHm5Fm4nHwJP70zil4V18INx3XCqseuLkupKcIUFg41qoSqYNMl19B%2Be7EyM1BGGfkdIBuG733rmuUBCjUiW%2BHtVRWY3%2BEENpKGDYljcZJ4Tuym%2B2cG7aWntRrulU9m2em0FPSBEuOSJBeBHAplp4ekqWRandwlkkX0tE0vdAdE1NWtLWZaNdW%2BqgrrZfiLelhHX6rLl6cTAu0zZh3%2BHuNPw2ZToJoxPAd40f%2BQ%3D%3D",
+    "itemLocation": {
+      "postalCode": "M17***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wQMAAeSwVhRod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/uc4AAeSw1tZod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ztYAAeSwr9dod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xnUAAeSw2lBod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xtwAAeSwdONod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7-wAAeSwpUVod7Jq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oY0AAeSwmFNod7Jq/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "236102628453",
+    "availableCoupons": true,
+    "itemOriginDate": "2025-05-15T00:34:27.000Z",
+    "itemCreationDate": "2025-05-15T00:34:27.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|156735353556|0",
+    "title": "Dell PowerEdge R730 8*SFF 2x E5-2620v4 32GB RAM H730 8xCaddy iDRAC Enterprise",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/s1EAAOSwteZnvbRG/s-l225.jpg"
+    },
+    "price": {
+      "value": "145.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156735353556%7C0",
+    "seller": {
+      "username": "compuwyze_ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 840,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/s1EAAOSwteZnvbRG/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "8059255841",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156735353556?_skw=Refurbished+Server&hash=item247e27b2d4:g:s1EAAOSwteZnvbRG",
+    "itemLocation": {
+      "postalCode": "PR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GW4AAOSwPjpnvbRG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/55EAAOSw1ttnvbRG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/M5kAAOSwJBdnvbRF/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jhgAAOSwALZnvbRG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Dp8AAOSwjxZnvbRH/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QQEAAOSw9ltnvbRG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mnYAAOSwwytnvbUP/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/s-MAAOSwfa9nvbUP/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/EpUAAOSwKNdnvbUQ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QhUAAOSwFYxnvbUN/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mU4AAOSwOEVnvbUO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~CAAAOSw3lhnvbUQ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/h2QAAOSwswVnvbUP/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Wz0AAOSwYfRnvbUP/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7~EAAOSwyt1nvbUQ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ghQAAOSwInBnvbUQ/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "145.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "156735353556",
+    "availableCoupons": true,
+    "itemOriginDate": "2025-02-25T12:34:58.000Z",
+    "itemCreationDate": "2025-02-25T12:34:58.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

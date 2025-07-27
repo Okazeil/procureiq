@@ -1,0 +1,468 @@
+[
+  {
+    "itemId": "v1|286534973028|0",
+    "title": "IBM System x3650 M3 Rack Server - 2x Xeon X5650 CPU 96GB Ram 2x 146GB Storage",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/vTYAAOSw8dpnpIN4/s-l225.jpg"
+    },
+    "price": {
+      "value": "124.85",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286534973028%7C0",
+    "seller": {
+      "username": "server-and-networking-store",
+      "feedbackPercentage": "99.3",
+      "feedbackScore": 1077,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vTYAAOSw8dpnpIN4/s-l500.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "129676798",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/286534973028?_skw=IBM+x3650&hash=item42b6d0b664:g:vTYAAOSw8dpnpIN4",
+    "itemLocation": {
+      "postalCode": "ME14***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vN0AAOSwwd1npIN5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/lrsAAOSwhkNnpIN5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DPsAAOSwZMBnpIN5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ocYAAOSwF7xnpIN6/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/w~0AAOSw3qFnpIN6/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dlQAAOSwx2NnpIN9/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PC8AAOSw4AxnpIN6/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yv0AAOSw7zNnpIN5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hKUAAOSwNsVnpIN6/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QnUAAOSwxbtnpIN~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MSoAAOSwj-pnpIN~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PmIAAOSwk-ZnpIN~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IQ8AAOSwvqZnpIN~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZzwAAOSwHMtnpIN~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-3kAAOSwgDVnpIN~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jisAAOSwcCdnpIN~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HhcAAOSwCHpnpIN~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mg8AAOSw20VnpIN~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/z40AAOSwSh1npIN~/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oowAAOSwJ-xnpIOE/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/P2sAAOSw3xRnpIOE/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/q8cAAOSwmelnpIOE/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/J9gAAOSw4JZnpIOE/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "124.85",
+      "currency": "GBP"
+    },
+    "legacyItemId": "286534973028",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-02-12T16:55:19.000Z",
+    "itemCreationDate": "2025-05-01T08:38:53.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|295679679276|0",
+    "title": "IBM X3650 M3, 2 x X5690, 192GB, 2 x 675w PSU Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/XrMAAOSw~ZNjyCJY/s-l225.jpg"
+    },
+    "price": {
+      "value": "180.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C295679679276%7C0",
+    "seller": {
+      "username": "procurrieurope",
+      "feedbackPercentage": "99.6",
+      "feedbackScore": 2684,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XrMAAOSw~ZNjyCJY/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-03T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "1567076996",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/295679679276?_skw=IBM+x3650&hash=item44d7e1db2c:g:XrMAAOSw~ZNjyCJY&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ub2%2B%2BBvQGlcI%2BXtORVlRdqAll3VOoQx5LO32koUXDp0nA6XKUv1DRnbTUVTtzbXciaOfECFi4A2LMV0o87utDtM2be0rTtSW4aNocTPNaalK2Qba1BqGmXWR6uzChuUuBwt49Zz0WFokWtub8Ba90%2F6UFXd8AYvkDUQohqRQJYSjev9hUramhYyiy9qZDOBsQjeYa1xMSQn%2Be%2FADHAcztUm8fGtFFk3bCaUX1z%2FZYW4uFJwwsbR2X7T7gibZg8bYFcdSCzWFaWOEMA7kUlCF%2Brn",
+    "itemLocation": {
+      "postalCode": "GL7***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-CwAAOSwPdljyCJY/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Ar0AAOSwR-FjyCJZ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MvAAAOSwD-pjyCJZ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LWkAAOSwTdJjyCJa/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "180.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "295679679276",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-01-18T16:48:19.000Z",
+    "itemCreationDate": "2023-05-05T16:13:48.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|203136248908|0",
+    "title": "IBM System x3650 M4 7915-PMJ CTO Configure To Order 2x CPU 2x DIMM 16-Bay Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/2JAAAOSwMQBfgt~E/s-l225.jpg"
+    },
+    "price": {
+      "value": "240.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C203136248908%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2JAAAOSwMQBfgt~E/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/203136248908?_skw=IBM+x3650&hash=item2f4bdd2c4c:g:2JAAAOSwMQBfgt~E&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbKZbLp%2F4Vf52qtKI9ew4QgAxDvOF0rCUDUgCNllvK3dL0av8u%2FBj2O04hEb6j7eS1Dk6GEIATglQ7S9usoNo%2BQRr0bNgzaX2ZaPqMixD0PxtONuQM%2FtoLHwf1%2FN4BVp1vDOYJh4u%2FZG8YEBY3i9XOvNvfhkUmtVw3Tbgy4o%2Bhqv%2B8h%2FOtCMYNgHrdfanmTU188efAujIfJaFL85wyasb45kLepFhtQnXnx9ntlIKRoFEXRQCSpoNZE9Jwol%2Blt2%2FEUFBewP6vWtyMbueOHtea6",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qIoAAOSwzOJfgt~H/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "203136248908",
+    "availableCoupons": false,
+    "itemOriginDate": "2020-10-11T10:34:51.000Z",
+    "itemCreationDate": "2020-10-11T10:34:51.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|127136424023|0",
+    "title": "IBM X3650 M4 XEON Server 256GB RAM,  2x E5-2650 V2 RAILS 10G NIC",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/QGcAAeSwxS9oNFtX/s-l225.jpg"
+    },
+    "price": {
+      "value": "102.60",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C127136424023%7C0",
+    "seller": {
+      "username": "danferny",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 671,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QGcAAeSwxS9oNFtX/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/127136424023?_skw=IBM+x3650&hash=item1d99ebe057:g:QGcAAeSwxS9oNFtX&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbItkoRXpUCgSt7cDgIip8k4jk6RBZX%2FNSBzqTBeFUNnpxE8vtIgwJzimOxfi5LQgfj4KhoQfuiL9prRd0bBC8HSSDqFSTFaw%2BdeKfrCIYlL7UcsaGXDAnGsJvZB%2FbCzfT9G6%2B7FpdbtA0volK4oO5mBXNsgz13xAoqGIguXVuhgw%2FF8kJVlN2fMwU%2ByT1l2UJp2iog1j%2FR8NOSb6js1S%2F7lmK331ZU7MmgxyPcNHjiEqlYgFhc%2F2d9EeQN86TrMYf6%2BlzRy93vCvHsCXeLvPw1",
+    "itemLocation": {
+      "postalCode": "TS21***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "127136424023",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-26T12:19:35.000Z",
+    "itemCreationDate": "2025-05-26T12:19:35.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|195979344239|0",
+    "title": "IBM x3650 M2 SAS Hard Drive Backplane Board FRU 43V7070",
+    "leafCategoryIds": [
+      "16145"
+    ],
+    "categories": [
+      {
+        "categoryId": "16145",
+        "categoryName": "Other Components & Parts"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/OKQAAOSwgy5nrboX/s-l225.jpg"
+    },
+    "price": {
+      "value": "10.95",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C195979344239%7C0",
+    "seller": {
+      "username": "sierra-indigo",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 25209,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OKQAAOSwgy5nrboX/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1823224863",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/195979344239?_skw=IBM+x3650&hash=item2da147796f:g:OKQAAOSwgy5nrboX",
+    "itemLocation": {
+      "postalCode": "CF41***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "195979344239",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-09-13T12:32:44.000Z",
+    "itemCreationDate": "2023-09-13T12:32:44.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

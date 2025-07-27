@@ -1,0 +1,456 @@
+[
+  {
+    "itemId": "v1|226808467343|0",
+    "title": "Dell PowerEdge C6100 1400W Power Supply - Y53VG",
+    "leafCategoryIds": [
+      "56090"
+    ],
+    "categories": [
+      {
+        "categoryId": "56090",
+        "categoryName": "Server Power Supplies"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/6Q8AAeSwMlhoSRDj/s-l225.jpg"
+    },
+    "price": {
+      "value": "20.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226808467343%7C0",
+    "seller": {
+      "username": "towlersltd",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 10704,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6Q8AAeSwMlhoSRDj/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "22010879161",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/226808467343?_skw=C6100&hash=item34ced68f8f:g:6Q8AAeSwMlhoSRDj",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XzgAAeSwSihoSRDj/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/X4MAAeSwy9RoSRDj/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yqgAAeSwFFZoSRDj/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "226808467343",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-11T05:12:35.000Z",
+    "itemCreationDate": "2025-06-11T05:12:35.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|226706468629|0",
+    "title": "KIA SORENTO SOUND AMPLIFIER STEREO AMP 96370C6100 MK3 2019",
+    "leafCategoryIds": [
+      "21647"
+    ],
+    "categories": [
+      {
+        "categoryId": "21647",
+        "categoryName": "Amplifiers"
+      },
+      {
+        "categoryId": "38635",
+        "categoryName": "In-Car Technology, GPS & Security"
+      },
+      {
+        "categoryId": "131090",
+        "categoryName": "Vehicle Parts & Accessories"
+      },
+      {
+        "categoryId": "171101",
+        "categoryName": "In-Car Entertainment"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/fAIAAOSwC09nYwAo/s-l225.jpg"
+    },
+    "price": {
+      "value": "119.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226706468629%7C0",
+    "seller": {
+      "username": "allmotorspares",
+      "feedbackPercentage": "99.6",
+      "feedbackScore": 34745,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "originalPrice": {
+        "value": "149.99",
+        "currency": "GBP"
+      },
+      "discountPercentage": "20",
+      "discountAmount": {
+        "value": "30.00",
+        "currency": "GBP"
+      },
+      "priceTreatment": "MARKDOWN"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fAIAAOSwC09nYwAo/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "28053374701",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/226706468629?_skw=C6100&hash=item34c8c22f15:g:fAIAAOSwC09nYwAo&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ual2v5e4zWERChWqqyxUin8Umb3xYGnFgCEEBXtq%2FRa56g1oFa1bSg%2FcTEkeWC2p5jESuFSlDKB9%2B7ckJmARhQemoBtURO0R1RiMFXitT1lhu7kEoiXUsrb3iYZprf7QyZT5lxosdL7vXJtH7cNvEJgFtABH2RgztgjE%2BoWhmuOA%2FzxEd%2FHif4Kej7V3rPYVTv24L74bWrmh64sbYnO%2BaeqxG14EEWyFb8%2BnN23cSa5ZdCTDeZXqjmEA5SNRuCh%2FlqBaUsaFjAa9aDNzWpzvzXL",
+    "itemLocation": {
+      "postalCode": "EH52***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/eyQAAOSw-ChnYwAn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/u9AAAOSw-QVnYwAo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UG4AAOSwSm1nYwAo/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/le0AAOSwGUxnYwAm/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/VRoAAOSwOWFnYwAn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WmwAAOSwkcNnYwAo/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "226706468629",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-27T14:52:39.000Z",
+    "itemCreationDate": "2025-04-16T15:57:44.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|256957349226|0",
+    "title": "Konica Minolta A5AWR70B22 Dust Proof Filter f\u00fcr C1085 C1100 C6085 C6100 NEU OVP",
+    "leafCategoryIds": [
+      "67075"
+    ],
+    "categories": [
+      {
+        "categoryId": "67075",
+        "categoryName": "Copier Parts & Accessories"
+      },
+      {
+        "categoryId": "12576",
+        "categoryName": "Business, Office & Industrial"
+      },
+      {
+        "categoryId": "25298",
+        "categoryName": "Office Equipment & Supplies"
+      },
+      {
+        "categoryId": "25301",
+        "categoryName": "Copiers & Copier Supplies"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/rA4AAeSwNPZoPHBF/s-l225.jpg"
+    },
+    "price": {
+      "value": "99.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256957349226%7C0",
+    "seller": {
+      "username": "bunchoffreshdaisesandcarnations",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 1963,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "New other (see details)",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rA4AAeSwNPZoPHBF/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/256957349226?_skw=C6100&hash=item3bd3d9fd6a:g:rA4AAeSwNPZoPHBF&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYFCKl9YWSzw9kPhSJybuhtcMPPHutU2sbUUcoxfIYQxhv3FFQ8rorMAabfiYamiLyCduHcFUWHXTQfGg%2FBiNZ8Zgg7GWC0b7IaEm6G2zd3CSbJYRT1R9b9bFfWJk3lKiuOPf2YQwHAocIB7kSnd2g%2BJ4VczZ%2BjXxEqReZ2vx0EbcHqDiGjoMEyKmMbG2m6CVIT3CbaMytAWFHXia3yJMGgru2lha%2FLGJvIyTAgGlQ4OvL3AGut4cHTtoEAzuEaqqMOPvuEs3rBcPEUHH7cLUdc",
+    "itemLocation": {
+      "postalCode": "NG8***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/lX4AAeSw~W1oPHBG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vjsAAeSwsVVoPHBY/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gEwAAeSwe6toPHBf/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5O0AAeSwf21oPHBS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ec0AAeSwFPBoPHBp/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "256957349226",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-01T15:26:39.000Z",
+    "itemCreationDate": "2025-06-01T15:26:39.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|364868671419|0",
+    "title": "Dell PowerEdge C6100 24-Bay 4TB HDD 360GB SSD 4-Node Intel E5630 2U Rack Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/Ah0AAOSwJ6hmMPVJ/s-l225.jpg"
+    },
+    "price": {
+      "value": "720.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C364868671419%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Ah0AAOSwJ6hmMPVJ/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "2121322157",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/364868671419?_skw=C6100&hash=item54f3de17bb:g:Ah0AAOSwJ6hmMPVJ&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbTXHMUKuFW1bJ71pm1cA8Bmw8ZeQQM6BnprMmxO9E3kwBr2a2PJhZHkjTboNupvlC%2BNK4cf%2FTXBsXVNN4GzmH91CDkng2GtT1QO2bkNQwn4u1FHm08i%2BZAoMPc0KuXdei89nTaAXQqgwlAKGSKvaUem2hNFv8mWyMTN7oSTfx0LOD1d%2F4s50Ng9Q%2BnisTPQSDtSURreQ2I11RKAxCKccIdK%2BhHfIcE2XR7EL85RtcAv0pI9LhYHhyx9caED%2B6yhqXWbTi4nGrRJ2WbIq04C8H9",
+    "itemLocation": {
+      "postalCode": "WC1B***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/P8gAAOSwl49mMPVJ/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "364868671419",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-05-04T20:18:47.000Z",
+    "itemCreationDate": "2024-05-04T20:18:47.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|273892703417|0",
+    "title": "CTOServer Dell PowerEdge C6100 32 xCPU Cores L5520 64GB RAM 2TB HPC ",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/vJwAAOSwq~tZPYqg/s-l225.jpg"
+    },
+    "price": {
+      "value": "989.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C273892703417%7C0",
+    "seller": {
+      "username": "contitel",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 2765,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vJwAAOSwq~tZPYqg/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-03T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/273892703417?_skw=C6100&hash=item3fc546fcb9:g:vJwAAOSwq~tZPYqg",
+    "itemLocation": {
+      "postalCode": "BD14***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/K-gAAOSwjRpZPYqV/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YGMAAOSwbopZPYqa/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YjsAAOSw0cdZgYlV/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IYAAAOSwr6RZgYln/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hwMAAOSwk6pZgYl4/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "273892703417",
+    "availableCoupons": false,
+    "itemOriginDate": "2019-06-17T10:00:06.000Z",
+    "itemCreationDate": "2019-06-17T10:00:06.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

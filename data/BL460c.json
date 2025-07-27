@@ -1,0 +1,403 @@
+[
+  {
+    "itemId": "v1|236002426819|0",
+    "title": "HP ProLiant BL460c Gen10 10/20GB Blade Server Chassis",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/~h4AAeSwY1hn0sXm/s-l225.jpg"
+    },
+    "price": {
+      "value": "109.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236002426819%7C0",
+    "seller": {
+      "username": "towlersltd",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 10704,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Good - Refurbished",
+    "conditionId": "2030",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~h4AAeSwY1hn0sXm/s-l225.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "28056468026",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/236002426819?_skw=BL460c&hash=item36f2d73fc3:g:~h4AAeSwY1hn0sXm",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/O10AAeSw~E1n0sXm/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Pb8AAeSwSPBn0sXm/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KTsAAeSwGg9n0sXm/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "236002426819",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-13T11:42:51.000Z",
+    "itemCreationDate": "2025-03-13T11:42:51.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|167031254414|0",
+    "title": "HP C7000 16x HP BL460c G8 E5-2660 128-Cores 1024GB 1TB RAM Blade Solution",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/H2wAAOSwXB1nEina/s-l225.jpg"
+    },
+    "price": {
+      "value": "1400.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C167031254414%7C0",
+    "seller": {
+      "username": "nomaduk",
+      "feedbackPercentage": "99.8",
+      "feedbackScore": 2866,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/H2wAAOSwXB1nEina/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-08-07T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-14T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1566549263",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/167031254414?_skw=BL460c&hash=item26e3d6ad8e:g:H2wAAOSwXB1nEina&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZAKlbf1z4nsfuG479ceVz78lxswIJIf%2B4B%2FIhs%2Bvb5ObY4CGV8YhKI0NdY5JOLwncKJWyViPSG2BTObTvXsz7gQ9eRiiNjyN81apYKZ%2F5Cpxr52gjGkYTTfj%2FXBuLT7vWduHsufl33sqnnB%2BClqwQzb1%2FaF%2FxJjcaPhm0UrPN9%2FNTzB4rIJ8IL8%2FJI1%2FEMkkdM2wEZkVXZSoool8pAUc1iOyIu29dI3ZlajnSsaCe4JCJzFsBItKF8Kzz%2FiqOjIhRiBu2z1GjJa4nFFhK1ST0r",
+    "itemLocation": {
+      "postalCode": "BB7***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "167031254414",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-10-18T09:26:57.000Z",
+    "itemCreationDate": "2024-10-18T09:26:57.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|113902125665|0",
+    "title": "HP ProLiant BL460C G6 2x E5640 2.66GHz QC, 16GB PC3-10600R, P410i 507864-B21",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/fa8AAOSwYI9h4XFo/s-l225.jpg"
+    },
+    "price": {
+      "value": "72.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C113902125665%7C0",
+    "seller": {
+      "username": "server-solutions",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 911,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fa8AAOSwYI9h4XFo/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "12.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "12011030257",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/113902125665?_skw=BL460c&hash=item1a85188261:g:fa8AAOSwYI9h4XFo&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZ3Rbw3qovGN7tLEIg7zn2GcEldXCyws%2BcrolM6XPcWP8DqAEFHxmYJH8R6iwhjNp2o1gsrHBakDcmlqG1MTau1cSDNkbxdt1SzuZlIPvUKMJGMR8jpZY01aQ8P9PAK6hPLfOH0q0vdHBbQt6syShmyhdnJG1%2FSoEfS0BV%2FStNuBAOYJAN2q%2Facisp7jISC0cf71DH3ZqjuFHJW8XMhHqLbCTTxxXbKLMYThbjENNs6vldlPPFOgzXqytTkc%2B7jmATT4L%2BVTAOGg06fDCOcig90",
+    "itemLocation": {
+      "postalCode": "GL3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Fw0AAOSwARZh4XFo/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "113902125665",
+    "availableCoupons": false,
+    "itemOriginDate": "2019-09-25T13:30:52.000Z",
+    "itemCreationDate": "2019-09-25T13:30:52.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|365483357368|0",
+    "title": "HP ProLiant BL460c Gen8 Server 2x2630L Xenon E5-2660 2.2GHz 128GB RAM",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/aBwAAOSwgFln4ySn/s-l225.jpg"
+    },
+    "price": {
+      "value": "89.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C365483357368%7C0",
+    "seller": {
+      "username": "korepairs18",
+      "feedbackPercentage": "98.9",
+      "feedbackScore": 10558,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/aBwAAOSwgFln4ySn/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/365483357368?_skw=BL460c&hash=item55188174b8:g:aBwAAOSwgFln4ySn&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZW%2F8j6O0DwW2vTR0l46vzzRzfLDAlPq2%2BDUaGvHfmqUh2zhvKON%2BBndis5491dzFX%2FKZQpG4df26wB%2FcfNxWvJwaERk1MLWfWnSyKYsga3XdPSnH9631LupioaEVsFYyq2XCDsd4N4kb6ZQG1C6cFWJfq63wFi2jl4kwPcWX5tKbsYnsPqcLvPfg%2F2gKXyaGHS4gkfaEACgsMz2aBlHSwKqabF3wZ4i1UwQKQPiOJ5nxpY6DXpbC49KCiEa16ltXDHBPs7jBKcNcMZI8NX6ZPi",
+    "itemLocation": {
+      "postalCode": "SA15***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/EUUAAOSwrNpn4yNg/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rBsAAOSwLXpn4yNg/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "365483357368",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-25T21:46:30.000Z",
+    "itemCreationDate": "2025-03-25T21:46:30.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|167641282491|0",
+    "title": "HPE PROLIANT Bl460c Gen9 Blade Server Intel Xeon (TH3",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/Ws8AAOSwx79oXUCR/s-l225.jpg"
+    },
+    "price": {
+      "value": "25.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C167641282491%7C0",
+    "seller": {
+      "username": "blinx_fashion",
+      "feedbackPercentage": "99.9",
+      "feedbackScore": 11566,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "For parts or not working",
+    "conditionId": "7000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Ws8AAOSwx79oXUCR/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/167641282491?_skw=BL460c&hash=item270832f7bb:g:Ws8AAOSwx79oXUCR",
+    "itemLocation": {
+      "postalCode": "CW9***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jfgAAOSw2otoXUCb/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iWYAAOSwD61oXUCI/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "167641282491",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-26T12:44:39.000Z",
+    "itemCreationDate": "2025-07-11T17:14:35.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

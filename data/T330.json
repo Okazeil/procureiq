@@ -1,0 +1,543 @@
+[
+  {
+    "itemId": "v1|326665917008|0",
+    "title": "Dell PowerEdge T330 Intel Xeon E3-1220 v5 3.0GHz 2x 495W PSU Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/i8wAAeSwvbVoY1Ro/s-l225.jpg"
+    },
+    "price": {
+      "value": "160.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326665917008%7C0",
+    "seller": {
+      "username": "icortech",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 664,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/i8wAAeSwvbVoY1Ro/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326665917008?_skw=T330&hash=item4c0ece5250:g:i8wAAeSwvbVoY1Ro",
+    "itemLocation": {
+      "postalCode": "WV13***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WocAAeSwHNhoY1Ro/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sFYAAeSww-hoY1Rp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RMgAAeSwJDBoY1Rp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NzkAAeSwkwBoY1Rq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QkEAAeSwgRBoY1Rr/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/b-UAAeSwv8loY1Rt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wxMAAeSwq61oY1Ru/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sSQAAeSw1JRoY1Rv/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZwYAAeSwSwNoY1Rv/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/DMAAAeSwk7xoY1Rw/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/h6oAAeSw4oZoY1Rx/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TIoAAeSwCR9oY1Rx/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gy0AAeSwbfBoY1Rz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LiQAAeSwOzFoY1Rz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sW8AAeSwWDZoY1Rr/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/pwAAAeSwAEhoY1Rs/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2DcAAeSw2HtoY1Rt/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "326665917008",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-01T03:25:03.000Z",
+    "itemCreationDate": "2025-07-01T03:25:03.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|157168942832|0",
+    "title": "Dell PowerEdge T330 E3-1220V6 32GB DDR4 H330 iDRAC8 Exp - NO DISKS NO CADDY",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/so4AAOSwofFl2La0/s-l225.jpg"
+    },
+    "price": {
+      "value": "233.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C157168942832%7C0",
+    "seller": {
+      "username": "anisatech",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 10344,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/so4AAOSwofFl2La0/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "6065627170",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/157168942832?_skw=T330&hash=item2497ffbef0:g:so4AAOSwofFl2La0&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ub2yhGMk4QuX9q%2F90%2FJ8g9lmf0q0zKBCRHdsztay%2F4RpLT6CDNpY%2BJD%2FMwuORH8zAz3GLiYrn%2FLeqIMrIoXSVquCSF1aHP6UKF8A81o8Ij6RhGHnIzGgOfR0cPAVpLlwsI5pOU8%2BsjHM9M4ShdtvJsaVPjWj70R%2F7zP%2BM1BeT0wMlS1LcMoV4mBcEBozUTpYMdrkaNlTz3glzxidulgGlVCB%2BHgBDLReAKnEj3A1wIugFxZX6CKzpTpflltjbBNERkMgaCUcziRspVg%2BOUFjuzP",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AlkAAOSwtHtl2LbL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vNEAAOSwI7Biw0tw/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jqIAAOSw641iw0ty/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XKgAAOSwdgRiw0tz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sc0AAOSw6Otiw0t0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vXgAAOSwoHBiw0t2/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9ucAAOSw7hNiw0t4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Qs8AAOSwYEJiw0t5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/y7UAAOSwwsJiw0t7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5nAAAOSwaN9iw0t8/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "157168942832",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-14T09:01:45.000Z",
+    "itemCreationDate": "2025-07-14T09:01:45.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|405313341521|0",
+    "title": "Dell PowerEdge T330 E3-1200 v6 Family 4x DDR4 H730 8-Bay 3.5\" CTO Tower Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/~zgAAOSwraFnmew5/s-l225.jpg"
+    },
+    "price": {
+      "value": "240.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C405313341521%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~zgAAOSwraFnmew5/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/405313341521?_skw=T330&hash=item5e5e8ec851:g:~zgAAOSwraFnmew5&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbZup1CxzCXkKymoHGm%2FEo8imb2Lv%2FiA3bcsn8B8dLSZzRdSaq5hYvSOjsMHM%2Fl23y4zmAP347d6%2BH%2FGHcqrbs33ulHmlN2u7vsPOizk2H3VORAjJWH0yhn3YzpzChjkAN7DkZpUSvoPsjfygtN3KEUXOA40KNMSLvyXaKoNL%2BEEGYgDa3txjknBKz4DZOzo5aQgW6I%2FMEES%2BOAaG4yDgeZ1q0bEvB0qoMk5B7gFJbTJtH88L%2F5%2FIppCIGF2B60aWhENMOa3pzRhzJl66RmjQUM",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wB4AAOSwm8JnmexB/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HMQAAOSwHNxnmexM/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1DMAAOSwx2NnmexV/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ICcAAOSwiktnmexc/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XA8AAOSw4-Vnmexn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/E8oAAOSw6UFnmexz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/39sAAOSwL81nmex-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/p7oAAOSwujdnmeyL/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "405313341521",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-11-02T10:24:53.000Z",
+    "itemCreationDate": "2024-11-02T10:24:53.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|157168942881|0",
+    "title": "Dell PowerEdge T330 - E3-1270 V5 16GB DDR4 2 x 1TB SAS H730 iDRAC8 Ent",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/VjkAAOSwtpFiw-nr/s-l225.jpg"
+    },
+    "price": {
+      "value": "280.72",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C157168942881%7C0",
+    "seller": {
+      "username": "anisatech",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 10344,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/VjkAAOSwtpFiw-nr/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/157168942881?_skw=T330&hash=item2497ffbf21:g:VjkAAOSwtpFiw-nr&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZtvbx2FPPr%2BmPmcq5piH1oWyGaxEnZjf6HxWY8E46YO7dYJB5HmS8h4fuC8BUOP%2Bhh45sDPQk6zs1MoZ%2FdF1ApUsLbXf0tYtIJzpg6oKBdCnRkZ6ztZ5ax5QBeYnQWtkYx40l14CxumdMoj7AnqA8EK6gEmAGWEaLwQLCLtqBFlhAYVNOFwlLJejZ4iIuSN9W%2FPHA0MymJJDHtTHDEesmyXIfDpsOC2ps4GwCNCPEuHY4KGBulZ4EVkMwh3zpFZV629%2FGzEHZwftS48Ja%2FXUa6",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vNEAAOSwI7Biw0tw/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jqIAAOSw641iw0ty/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XKgAAOSwdgRiw0tz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sc0AAOSw6Otiw0t0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vXgAAOSwoHBiw0t2/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9ucAAOSw7hNiw0t4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Qs8AAOSwYEJiw0t5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/y7UAAOSwwsJiw0t7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5nAAAOSwaN9iw0t8/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "157168942881",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-14T09:01:48.000Z",
+    "itemCreationDate": "2025-07-14T09:01:48.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|116077836988|0",
+    "title": "Dell PowerEdge T330 E3-1220V6 32GB DDR4 2x3TB SAS 3.5-Enterprise H330 iDRAC8 Exp",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/so4AAOSwofFl2La0/s-l225.jpg"
+    },
+    "price": {
+      "value": "285.98",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C116077836988%7C0",
+    "seller": {
+      "username": "servershopping",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 4134,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/so4AAOSwofFl2La0/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "19.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-04T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/116077836988?_skw=T330&hash=item1b06c73abc:g:so4AAOSwofFl2La0&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZUPZ8lOSVmR6iNEF29j6iY%2BQQItg89VAvLn1S8o%2Fseki4ip4kMD12z1%2BxoaF%2Bx%2Bl4I0JYfQdlZTPwFHfaCjrqaZphGFJLjfTXFPMXNE6aVc96x1kUwhNsaHK5x1QEmsJ2YOkcVbySbb0q5ajfpzYaU21UxAR5uQDLUooLqn7YZxQ5RtjBmktco%2B9hutkjo3T4tJH45%2B%2FuLkM8UIj6Khi%2BbZuKgJi9V9K%2FMPxxvnAml4SCwekB1GaPpy6oZo8cx9vMmxFSfN1sjzM0q3zLnJSMA",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AlkAAOSwtHtl2LbL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vNEAAOSwI7Biw0tw/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jqIAAOSw641iw0ty/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XKgAAOSwdgRiw0tz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/sc0AAOSw6Otiw0t0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vXgAAOSwoHBiw0t2/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9ucAAOSw7hNiw0t4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Qs8AAOSwYEJiw0t5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/y7UAAOSwwsJiw0t7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5nAAAOSwaN9iw0t8/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "116077836988",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-02-23T15:22:39.000Z",
+    "itemCreationDate": "2024-02-23T15:22:39.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

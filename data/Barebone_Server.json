@@ -1,0 +1,436 @@
+[
+  {
+    "itemId": "v1|405693851567|0",
+    "title": "HPE ProLiant DL580 Gen9 5SFF Barebones: 4x Heatsinks, 8x RAM Cartridges, P830i",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/bTIAAeSw6X9oZfO3/s-l225.jpg"
+    },
+    "price": {
+      "value": "448.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C405693851567%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bTIAAeSw6X9oZfO3/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/405693851567?_skw=Barebone+Server&hash=item5e753ce7af:g:bTIAAeSw6X9oZfO3",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/N6EAAeSwgcZoZfO3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/PvUAAeSwfT9oZfO3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/My0AAeSwnLhoZfO3/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "405693851567",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-25T15:50:14.000Z",
+    "itemCreationDate": "2025-03-25T15:50:14.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|126141627768|0",
+    "title": "Dell PowerEdge R730 16xSFF SAS& PSU Hot-Swap Barebones CTO Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/VH4AAeSwEhRoX037/s-l225.jpg"
+    },
+    "price": {
+      "value": "108.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126141627768%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/VH4AAeSwEhRoX037/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/126141627768?_skw=Barebone+Server&hash=item1d5ea07d78:g:VH4AAeSwEhRoX037&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYQc8Zth%2BYkob%2FVE8dDnA986R%2Fe0%2BGWzANVzLWOFed7tzqjOqt2SIbYQdGvrLY09ZMVyKa137L4wHD%2B0feQxeaZ83eO5f0B%2FZvrtdW6qpYxOSZiNjMbB7AquvxixFCmHv4w9XMuYMQz7DNdE26JHVSK2I8D5W8kOP4BzybUdKLCpSEMZD8QzDXKdApqpK40kiSHJwcRPIEbeDbNQuO9cnFrHOhlNLPchg2%2BQqydgNhbWCDPTAvyVgmavm0RudEDbFslpFq9U4ZoxrC4skUABlC%2BmEjEcXshKqhsF9v3JVdnUg%3D%3D",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7U0AAeSwZ35oX037/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4-EAAeSwMHxoX037/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "126141627768",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-10-17T13:15:42.000Z",
+    "itemCreationDate": "2023-10-17T13:15:42.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|145372801717|0",
+    "title": "Dell PowerEdge R730xd 26xSFF (4xU.2) Hot-Swap 2U Barebones Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/tlMAAeSwiE9oajz7/s-l225.jpg"
+    },
+    "price": {
+      "value": "134.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C145372801717%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tlMAAeSwiE9oajz7/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/145372801717?_skw=Barebone+Server&hash=item21d8e4eab5:g:tlMAAeSwiE9oajz7&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ua33TzKNxXMHjx8xw86goa1zavK239qBlcSf%2FPLHD4x4bsLO1dKeODEDgrq5b%2Byv4Ogait0%2B%2FOFkDCF1uofpPDRVhWVhbmt%2FFo1GrEaGongdDsdVWRH1AIBLyQUY8tVPP87GNcDNr%2F1HZTw5s7Zs9OI7b1oz51RizXmB4wNftZ%2BQDeE947a2fCCwWdANH1Bu3YpaxQB5Rrcbx3s%2F0rmid6MORhRpTyG%2FEWExE5S161ihTuJBazgPJJFpHNpa9yK0PN0MdxqBhJWn5kczQwv8rakGhdC30wEqfVskqf0ieQk8w%3D%3D",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BnkAAeSwWHpoajz7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2P8AAeSwhQRoajz7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BMQAAeSw6X9oajz7/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "145372801717",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-10-17T13:15:02.000Z",
+    "itemCreationDate": "2023-10-17T13:15:02.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|405724206590|0",
+    "title": "Gigabyte R162-Z12-CD R1.0 Diskless Barebones CTO Server: 1x Heatsink, 2x PSU",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/Q1gAAeSws9FoYR6L/s-l225.jpg"
+    },
+    "price": {
+      "value": "261.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C405724206590%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Q1gAAeSws9FoYR6L/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/405724206590?_skw=Barebone+Server&hash=item5e770c15fe:g:Q1gAAeSws9FoYR6L&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbrkRA4wpY0cAxbep%2FLjbyMohwC3rW7cFKYqnKW4W6oEltluu0JESqDpl6E9juIQG8PZ6CVeTC1LUaX%2BVzzX2mtaGqZ0Rd36NuqVZuZ%2FDJAZyVU%2BiTXCmMZgDdT%2F%2Bj3bw52FXA5tz%2BaVzBHFS2%2Fv8LK9qqFkrwDBiJi%2BJfdADm5HPaeRAzKEb1mjb%2FnAVqdD8Rl0R4WtwIKW3z233XLbWIJjnMPZvQ3zSzIy47Ud6Hd%2BSy34oVsEjHpV%2Ftt98mPSOvodquiAJXP%2BgB6z0Qa2rIMucn9p183R9D9ySeqvKRxzw%3D%3D",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~JUAAeSwJqBoYR6J/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JjMAAeSwoiloYR6M/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/asUAAeSwdDRoYR6J/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vVoAAeSwMnZoYR6J/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Dh8AAeSwK0ZoYR6J/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "405724206590",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-04-04T09:48:33.000Z",
+    "itemCreationDate": "2025-04-04T09:48:33.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|405204556008|0",
+    "title": "QuantaPlex T42S-2U 4-Node Diskless Server Barebones: 8x Heatsinks, 2x PSUs",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/qEwAAeSwdDRoXf4R/s-l225.jpg"
+    },
+    "price": {
+      "value": "255.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C405204556008%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qEwAAeSwdDRoXf4R/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/405204556008?_skw=Barebone+Server&hash=item5e5812d8e8:g:qEwAAeSwdDRoXf4R",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nmEAAeSwMj5oXf4R/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/260AAeSw1sJoXf4R/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/i88AAeSw9HxoXf4R/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/kkcAAeSw1AxoXf4R/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/82EAAeSwV4loXf4S/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "405204556008",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-09-02T11:49:57.000Z",
+    "itemCreationDate": "2024-09-02T11:49:57.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

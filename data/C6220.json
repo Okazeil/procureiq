@@ -1,0 +1,403 @@
+[
+  {
+    "itemId": "v1|257013414512|0",
+    "title": "DELL BACKPLANE HDD SAS 12*3.5 PE C6220 - 632633-001",
+    "leafCategoryIds": [
+      "56092"
+    ],
+    "categories": [
+      {
+        "categoryId": "56092",
+        "categoryName": "Other Ent. Server Components"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/qbYAAeSw7PlocjDV/s-l225.jpg"
+    },
+    "price": {
+      "value": "50.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C257013414512%7C0",
+    "seller": {
+      "username": "m6repairs",
+      "feedbackPercentage": "99.6",
+      "feedbackScore": 3491,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qbYAAeSw7PlocjDV/s-l960.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-03T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/257013414512?_skw=C6220&hash=item3bd7317a70:g:qbYAAeSw7PlocjDV",
+    "itemLocation": {
+      "postalCode": "B23***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "257013414512",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-12T09:59:57.000Z",
+    "itemCreationDate": "2025-07-12T09:59:57.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|276638755311|0",
+    "title": "C6220 - BECKHOFF - C6220 / Rack Used",
+    "leafCategoryIds": [
+      "36802"
+    ],
+    "categories": [
+      {
+        "categoryId": "36802",
+        "categoryName": "Other Automation Equipment"
+      },
+      {
+        "categoryId": "12576",
+        "categoryName": "Business, Office & Industrial"
+      },
+      {
+        "categoryId": "42892",
+        "categoryName": "Industrial Automation & Motion Controls"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/zRQAAOSwEZpm4rFk/s-l225.jpg"
+    },
+    "price": {
+      "value": "212.50",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276638755311%7C0",
+    "seller": {
+      "username": "rei-industry",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 1341,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zRQAAOSwEZpm4rFk/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "33.08",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "18060656505",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/276638755311?_skw=C6220&hash=item4068f469ef:g:zRQAAOSwEZpm4rFk&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYekzJ0plB2nTb9fFc%2FM8lXtUOPxVH4o7EQweim2Jp4Ackp4c7AtjEKPBY%2FFxjTGboiFNycQt9A241SD8Y8iaeH%2FqpsHpZx8zNmLxmKK0W7DLaDN3YxQOi8W95HeqCcz0uV7o4X0xOjMUB2CLwX7FIKIHgVOBLOSQezuCJn3TaGbWpDhTs%2FzOR7JojEoyzsuRwMptbL9OWdw6TxUx4PUd8FKE50inbXiGSCe7iehD%2F6gb%2Fux2I%2BAT8ATrB3T5sW%2B%2FR2xYhPQPPR0p6cqyl8WZUg",
+    "itemLocation": {
+      "postalCode": "01***",
+      "country": "FR"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bWkAAOSw5s1m4rFm/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gRwAAOSw7jlm4rFp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~pQAAOSwN95m4rFr/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OZwAAOSwDthm4rFt/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "276638755311",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-09-13T07:54:50.000Z",
+    "itemCreationDate": "2024-09-13T07:54:50.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|365378245428|0",
+    "title": "Dell 9N44V 09N44V System Motherboard For PowerEdge C6220",
+    "leafCategoryIds": [
+      "1244"
+    ],
+    "categories": [
+      {
+        "categoryId": "1244",
+        "categoryName": "Motherboards"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/5gsAAOSwNKFnodSW/s-l225.jpg"
+    },
+    "price": {
+      "value": "90.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C365378245428%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5gsAAOSwNKFnodSW/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "25038074040",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/365378245428?_skw=C6220&hash=item55123d9334:g:5gsAAOSwNKFnodSW&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZwUUInijZaUVMluno2rEcFW0WtrWTN4C3UXnHTLIQnXYYYD70S2lZiud01juJKFmU86oIdsW5ewe3H%2BhKXmH3WfPP9aGH2LOoMZC8aOtwa7esLqliMLvgaVZntZuV%2F2yBLjt31et0Ol0w7ZsdqZ2IDeeXFFQD7nIeVLNUz3KtDROwvDtgX1DL8VphklV1cUtP%2FcX0mExDTdpm8EoMBddiNUKIhHu21sE%2FqK1Vt2%2BscsyLlAAMHPV9xbqRxLIKH3Id0wI%2BMXxXNnVNzLGKitVUe",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cEoAAOSwwqNnodSW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/1ygAAOSwERNnodSX/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3nAAAOSwq1lnodSW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/f90AAOSw3lRnodSX/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/34UAAOSw3D5nodSW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ImsAAOSwO7JnodSW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KlMAAOSwEPhnodSW/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "365378245428",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-02-07T06:31:01.000Z",
+    "itemCreationDate": "2025-02-07T06:31:01.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|202949869913|0",
+    "title": "Dell PowerEdge C6200 4 x NODES C6220 CTO E5-26xx No CPU/MEM 2U 12 x 3.5\" Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/tV8AAOSwD75egK1e/s-l225.jpg"
+    },
+    "price": {
+      "value": "540.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C202949869913%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tV8AAOSwD75egK1e/s-l500.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1809062718",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/202949869913?_skw=C6220&hash=item2f40c14159:g:tV8AAOSwD75egK1e&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYG2wQklIyph3oBpULiyPbxcs42f91zjr95U1MDf7%2FSqFRk0FSCU4GWrtzhwdLPlmSgXQ35hGNlLaeZleXyRjkKuH7sm%2BSeCpLvpQBduoz43AKH%2BpLDT08eeWZQkZJltxOPGC%2FT57NnrDiVFPZ%2BYm%2BGMiakTHY3PKy2o0XuGBpadnzgz%2B%2BnPQuVlMzFOpssmdGw1JnjowhsNumic7JB%2FHJnOdB9s%2FDTrMGVwQx6lkbDMnsmjgag1udT3fyNZBGSuDqU4Ze9kWEQW1pYpC0iLgF4",
+    "itemLocation": {
+      "postalCode": "N12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-2sAAOSwKRBbE6IU/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "202949869913",
+    "availableCoupons": false,
+    "itemOriginDate": "2020-03-29T14:13:50.000Z",
+    "itemCreationDate": "2020-03-29T14:13:50.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|401700756812|0",
+    "title": "Dell P7C75 iBBU Battery Mounting Bracket for Cloudedge C6220 Poweredge C6220",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/~vAAAOSwh21cWBjM/s-l225.jpg"
+    },
+    "price": {
+      "value": "24.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C401700756812%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~vAAAOSwh21cWBjM/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "28029061157",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/401700756812?_skw=C6220&hash=item5d873b1d4c:g:~vAAAOSwh21cWBjM",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "401700756812",
+    "availableCoupons": false,
+    "itemOriginDate": "2019-02-09T10:44:43.000Z",
+    "itemCreationDate": "2019-02-09T10:44:43.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

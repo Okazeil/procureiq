@@ -1,0 +1,425 @@
+[
+  {
+    "itemId": "v1|285300722193|0",
+    "title": "EMC2 VNX 15 Bay Disk Enclosure Disk Array - Dual Controllers - KTN-STL3 + PSU OR",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/jR0AAOSwDdBkbzNU/s-l225.jpg"
+    },
+    "price": {
+      "value": "49.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C285300722193%7C0",
+    "seller": {
+      "username": "kel-tel",
+      "feedbackPercentage": "99.6",
+      "feedbackScore": 35002,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jR0AAOSwDdBkbzNU/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1829987976",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/285300722193?_skw=EMC+KTN-STL3&hash=item426d3f8a11:g:jR0AAOSwDdBkbzNU",
+    "itemLocation": {
+      "postalCode": "KT16***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cnkAAOSwbSJkbzNT/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YyQAAOSwF4NkbzNU/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/I9MAAOSwgrtkbzNU/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NSEAAOSwtKZkbzNU/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QnAAAOSwNAlkbzNa/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Ff8AAOSwRFpkbzNa/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/c84AAOSwYWpkbzNZ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ia8AAOSw0uJkbzNZ/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "285300722193",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-05-25T10:17:23.000Z",
+    "itemCreationDate": "2023-05-25T10:17:23.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|286611424166|0",
+    "title": "USED   EMC Disk Array Expansion SAS KTN-STL3 15x 2TB HDD",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/LAUAAOSwQGZmnj57/s-l225.jpg"
+    },
+    "price": {
+      "value": "156.68",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286611424166%7C0",
+    "seller": {
+      "username": "abu3007",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 107,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LAUAAOSwQGZmnj57/s-l1600.jpg"
+      }
+    ],
+    "pickupOptions": [
+      {
+        "pickupLocationType": "ARRANGED_LOCATION"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "2168288468",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/286611424166?_skw=EMC+KTN-STL3&hash=item42bb5f43a6:g:LAUAAOSwQGZmnj57&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaEuKYuw8SyMXOw59KE15IRI0pNsmkdRRqTuXstSWRFwdIYijpEp5Y3aUYpIeOHJzAc6XRPYO8UM3LJN5%2FQAqpooe69uT1qxG4FDzRDm9%2BwNfxP2MtNFmE7QHdM8CZKKWCcIlVFX6oeDl2GC2rHVatRq%2FGp8%2FeOeSw9JF0PhZjUPZB069%2B9AVtPrw16NdwflMv6vyVwdE7c8B7ok5IUZsgE5AS7EjF0sRD2YhrvVENxgOkR7lYgKzhzL3B5wsGWfk5KX9UWniT9Si9r8XM4f9dJHQWSEZdH9shx7t5DDGzQRA%3D%3D",
+    "itemLocation": {
+      "postalCode": "LS8***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vN8AAOSwVmVmnj58/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nrYAAOSwHZBmnj57/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "286611424166",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-31T13:03:57.000Z",
+    "itemCreationDate": "2025-05-31T13:03:57.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|363429734597|0",
+    "title": "EMC DAE Disk Array Expansion SAS KTN-STL3 2x SAS 6Gb/s Controllers 2x 400W PSU",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/gYEAAOSw4iJedKYt/s-l225.jpg"
+    },
+    "price": {
+      "value": "144.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C363429734597%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gYEAAOSw4iJedKYt/s-l960.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/363429734597?_skw=EMC+KTN-STL3&hash=item549e19a8c5:g:gYEAAOSw4iJedKYt&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaeVZxmyRSwlIZTQBWpulFaE75rEYVXTmWQxLu63lPrYPoSl6h9RivhlZWD2wYbLHDfcWBJyeoYxQra3ow2jpVWPyksrTMBwrRRWhKzX438xYz6iVmUSAmwEFt9uBu%2BO8XO52mON%2BJaSe3KlkrdYWvtDUtfCT%2FNaGay%2BGBIDW30zYrFu44MKfxDPJXOZWgU65ZTZC4gFCpFhGTPWcjwPdImWcwX24n7DZLoje05dYYPAE3gpeqTidPT5qFFBFNGVODghONmaHBpN%2BxLF9s2vIKs",
+    "itemLocation": {
+      "postalCode": "N12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/5OoAAOSwvwdgwcF2/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XyMAAOSw8whedKmS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JrMAAOSw6QxedKmK/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "363429734597",
+    "availableCoupons": false,
+    "itemOriginDate": "2021-06-11T19:16:14.000Z",
+    "itemCreationDate": "2021-06-11T19:16:14.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|286678784213|0",
+    "title": "@ Used EMC Disk Array Expansion SAS KTN-STL3 15x 2TB HDD",
+    "leafCategoryIds": [
+      "58317"
+    ],
+    "categories": [
+      {
+        "categoryId": "58317",
+        "categoryName": "SAN Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/LAUAAOSwQGZmnj57/s-l225.jpg"
+    },
+    "price": {
+      "value": "156.68",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286678784213%7C0",
+    "seller": {
+      "username": "abu3007",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 107,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LAUAAOSwQGZmnj57/s-l1600.jpg"
+      }
+    ],
+    "pickupOptions": [
+      {
+        "pickupLocationType": "ARRANGED_LOCATION"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "2168288468",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/286678784213?_skw=EMC+KTN-STL3&hash=item42bf6318d5:g:LAUAAOSwQGZmnj57&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbwrKvbwVmnkFtJ1Eoif3g%2F5gVJFbVpYOhMbNAPPYIErrgrgXGjXJaPih%2Bho%2Bsrl4mUdZDJqSm23QPT2%2Fr0R8b9k5%2BpmuC1FBQaA4tsAeTxOEqQtezehbZaC1ShUgaRMjqkajzy%2B38hsKp7TZaQwR1jAqW3mweiTTrSHlDY8U%2BllDWm%2B83m1IVDRdmEsvOzV1Cxt%2BI0trYFHa70oK%2F4YIfj5ZYaY%2BgJ3Pufa7KZmP3vbo%2BWWplw8Rmm2568L9uJ0vm5akytrTfDqEf8cqXAR7YN8NxQOIlhtr4bnMniGiWTMA%3D%3D",
+    "itemLocation": {
+      "postalCode": "LS8***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vN8AAOSwVmVmnj58/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nrYAAOSwHZBmnj57/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "286678784213",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-07-22T11:13:30.000Z",
+    "itemCreationDate": "2025-06-28T16:48:44.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|402064132621|0",
+    "title": "EMC VNX VNX6GSDAE15  Disk Array Expansion SATA /SAS KTN-STL3 2x 303-108-000E",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/8a0AAOSwrNlZu4~b/s-l225.jpg"
+    },
+    "price": {
+      "value": "144.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C402064132621%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/8a0AAOSwrNlZu4~b/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1125828366",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/402064132621?_skw=EMC+KTN-STL3&hash=item5d9ce3ca0d:g:8a0AAOSwrNlZu4~b&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaRZVhXEGtLTG9QEhsY1jNnFVAihBRkpDfjUoLgBlOiZaBsp6u85n9ED37O5AwcSB6Nc28p0Ac%2FM3oy00UPKR7T4NQRfbIfPGVoherVBbJSmW4KfGtJ5Q5BkFDCHZv1Fpo6NbY%2BSDbneP7CndkbfE9hEO3sQmWEOLohgq2V1RNc1qDOmtUQegdbEtjg4wU9YpVLDPARgnQuXsemv9eyRBK8TTbUTrh1dhIT83g09p13BnV4Sj9hxVTyIdOxeJqliX4VN%2FoyMj3rD%2BNjUAXVgWxQ",
+    "itemLocation": {
+      "postalCode": "N12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SqsAAOSwbRJZu4~c/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/B0oAAOSw5ShZu4~e/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AtQAAOSw7NpZu4~g/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "402064132621",
+    "availableCoupons": false,
+    "itemOriginDate": "2020-02-02T14:59:12.000Z",
+    "itemCreationDate": "2020-02-02T14:59:12.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "itemId": "v1|236042609213|0",
+    "title": "Intel Delta 750w Hot Swap Platinum PSU E98791 DPS-750XB A",
+    "leafCategoryIds": [
+      "56090"
+    ],
+    "categories": [
+      {
+        "categoryId": "56090",
+        "categoryName": "Server Power Supplies"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/w-gAAeSw0o5n8-9p/s-l225.jpg"
+    },
+    "price": {
+      "value": "10.95",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236042609213%7C0",
+    "seller": {
+      "username": "dr.memory",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 179577,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/w-gAAeSw0o5n8-9p/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/236042609213?_skw=Server+PSU&hash=item36f53c623d:g:w-gAAeSw0o5n8-9p",
+    "itemLocation": {
+      "postalCode": "M17***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vxIAAeSwaz1n8-9o/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xfwAAeSwBytn8-9o/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3fAAAeSwE01n8-9p/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tZUAAeSw1-hn8-9o/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "236042609213",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-04-07T15:28:08.000Z",
+    "itemCreationDate": "2025-04-07T15:28:08.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|404796189079|0",
+    "title": "Supermicro 1280W 1U 80 Plus Platinum Redundant Power Supply PSU PWS-1K28P-SQ",
+    "leafCategoryIds": [
+      "56090"
+    ],
+    "categories": [
+      {
+        "categoryId": "56090",
+        "categoryName": "Server Power Supplies"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/L1IAAOSwSCFghTMT/s-l225.jpg"
+    },
+    "price": {
+      "value": "24.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C404796189079%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/L1IAAOSwSCFghTMT/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "24026712178",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/404796189079?_skw=Server+PSU&hash=item5e3fbba997:g:L1IAAOSwSCFghTMT&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYOyXbQmwVl6F8RMytS0f6dsV5afXBquYa6Xadz2EiwLH6QmPjWU7yymvWBVacokgtoZVhpLcVh061DNUEbO64jkuPz2v6bjaI5dh5m1wdy%2B48er1Vy%2F5GZ9gM3dgGjP8M3Nr1LxMybviQ0BPzrKvpYzT3MgV3vnizHURIEXRgpHTtUimpMMpWSKucICuNBsCtChXjpYksVI%2BaapYXOCioNk7ZkTbNI3P%2FZLi6aJLUTCS8I2nPNcwfIuMzCOe5xHhcxe5qPaBndufrgjPizELS4",
+    "itemLocation": {
+      "postalCode": "N12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mFkAAOSwEthghTMa/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yYEAAOSwgzxghTMh/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/grsAAOSwBC1ghTMm/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BP8AAOSw-~9ghTMy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MrYAAOSwXZBghTM3/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XBIAAOSwR8JghTM8/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/m4cAAOSwXnhghTNH/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/pG8AAOSwFGZghTNM/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "404796189079",
+    "availableCoupons": false,
+    "itemOriginDate": "2021-04-25T09:16:28.000Z",
+    "itemCreationDate": "2024-02-13T05:14:31.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|145090765966|0",
+    "title": "HP (660185-001) Common Slot HS PSU 1200W Platinum Plus (656364-B21)",
+    "leafCategoryIds": [
+      "56090"
+    ],
+    "categories": [
+      {
+        "categoryId": "56090",
+        "categoryName": "Server Power Supplies"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/UYoAAeSwG~loX022/s-l225.jpg"
+    },
+    "price": {
+      "value": "23.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C145090765966%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/UYoAAeSwG~loX022/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/145090765966?_skw=Server+PSU&hash=item21c815648e:g:UYoAAeSwG~loX022&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua9BBrIT%2FahNMFM8QzIppWIWFBzVwhfzAxObhWdfDLrD02%2BWOSyCnQv4G28wubA6%2BbNtczWch72yn89nW52NwmTUfrjmgmMOHB3QqCdwtvqHPnokfRA724zfaQfJZ0hOU2LpoCVYr8FcSj6TLBgZuIZ3B1xY2GJSXutPQk%2FWrSVDCb43eEmNSAfC99pGMwdLmcTd3cIzX%2BkMjTxoTw5nmGcPfKfPUBH5MW7aF67tWAy11gIDKv%2FRDTKIi%2FLWElVrLccZMl0NcHFKxMHjHJtzTFP",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/K1kAAeSwZutoX022/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0IkAAeSwIIpoX022/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "145090765966",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-05-19T02:05:39.000Z",
+    "itemCreationDate": "2023-05-19T02:05:39.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|362428487160|0",
+    "title": "Dell CMPGM 1100W Server Modular Power Supply Unit PSU For R530 R630 R730 R830",
+    "leafCategoryIds": [
+      "56090"
+    ],
+    "categories": [
+      {
+        "categoryId": "56090",
+        "categoryName": "Server Power Supplies"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/LykAAOSwLNpbjldq/s-l225.jpg"
+    },
+    "price": {
+      "value": "30.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C362428487160%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/LykAAOSwLNpbjldq/s-l640.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "25023359000",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/362428487160?_skw=Server+PSU&hash=item54626bd5f8:g:LykAAOSwLNpbjldq&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYPTOwkmQtDrDLltgc1FmiSnPHz9eCdhHeXQQTDP6A0WOV2cgS1gLjpGiwwfqVUN5N9284AxtNLqd%2FwshjTaLlS%2F5kbAhimpn8R55NIBxJwZr1CR9aolozuDfrLJI6RYKRYDRtOIjEMj75nBl0vV6TBAez8XMhCuZUVnRnd6UfAImpYahshoKAYk7eYek8Su%2F9e5t7Q1MUO1MzShIkjaQ9q%2BFGxD1x5Rj%2FrmpmOXCcv5qSfUISCEdFJGKFiNmx6O6b2ulN7sPVv9%2FzzL0fHhS5v",
+    "itemLocation": {
+      "postalCode": "N12***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "362428487160",
+    "availableCoupons": false,
+    "itemOriginDate": "2018-09-08T08:58:27.000Z",
+    "itemCreationDate": "2018-09-08T08:58:27.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|326656640493|0",
+    "title": "HP 1200W Server PSU DPS-1200FB-1 A DL580 DL380  579229-001 570451-101 inc VAT",
+    "leafCategoryIds": [
+      "56090"
+    ],
+    "categories": [
+      {
+        "categoryId": "56090",
+        "categoryName": "Server Power Supplies"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/X~4AAeSwM5VoWrCo/s-l225.jpg"
+    },
+    "price": {
+      "value": "31.87",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326656640493%7C0",
+    "seller": {
+      "username": "prettyinprint",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 978,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/X~4AAeSwM5VoWrCo/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "3.38",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326656640493?_skw=Server+PSU&hash=item4c0e40c5ed:g:X~4AAeSwM5VoWrCo",
+    "itemLocation": {
+      "postalCode": "DN2***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "326656640493",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-24T14:06:07.000Z",
+    "itemCreationDate": "2025-06-24T14:06:07.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

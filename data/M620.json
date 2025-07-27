@@ -1,0 +1,416 @@
+[
+  {
+    "itemId": "v1|326222775517|0",
+    "title": "Dell PowerEdge M620 2x E5-2630 6 Core 2 X 146GB SAS 15K",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/p6QAAOSw8wJmr9O-/s-l225.jpg"
+    },
+    "price": {
+      "value": "25.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326222775517%7C0",
+    "seller": {
+      "username": "icortech",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 664,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/p6QAAOSw8wJmr9O-/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "1728784723",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326222775517?_skw=M620&hash=item4bf46484dd:g:p6QAAOSw8wJmr9O-",
+    "itemLocation": {
+      "postalCode": "WV13***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/u7QAAOSwQrdmr9PC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tisAAOSw3mtmr9PA/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/r~UAAOSwdihmr9PC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ueAAAOSwSOhmr9PD/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4xYAAOSwyNBmr9O~/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "326222775517",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-08-04T19:19:47.000Z",
+    "itemCreationDate": "2024-08-04T19:19:47.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|363577399559|0",
+    "title": "Dell PowerEdge M620 Blade Server 2x 8C E5-2650v2 2.60GHz 32GB Ram 2x 250GB HDD",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/Vo8AAOSwma1hLkbp/s-l225.jpg"
+    },
+    "price": {
+      "value": "396.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C363577399559%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Vo8AAOSwma1hLkbp/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-08-03T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-03T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1728784723",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/363577399559?_skw=M620&hash=item54a6e6d907:g:Vo8AAOSwma1hLkbp&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbJlLEIMpDgkiOZrOnFB01TAqnjMBsMz7tAMVg%2FuLZEt%2FNDGCi6Fl50TVsxmTQv4nN6VsRDZlz3H7yYaIi0BK1vNtR3nvEjdEvbVTC%2FgF50Acdytq58rNJBPTWmef6ONlcZ5orumL9miKXGeuo3%2FlSGLpyiBXW6vxJXCep4Uve2xvbSnQWHyhn9ZPSFeBoENWkPoUl%2BnS8ESr%2FKozmDvokx5Ukwwnd%2FLibC2sHH9lPCdaPHi41CMMetZSi%2BFt41ygyIzceDvHLfTCDuf2OAsxDB",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "363577399559",
+    "availableCoupons": false,
+    "itemOriginDate": "2021-10-16T12:06:19.000Z",
+    "itemCreationDate": "2021-10-16T12:06:19.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|404376396005|0",
+    "title": "Dell PowerEdge M620 Blade Server CTO 2x E5-2600v1/v2 24 DIMM Slots 2 x 2.5\" HDD",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/R64AAOSwsHZkrlqG/s-l225.jpg"
+    },
+    "price": {
+      "value": "120.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C404376396005%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/R64AAOSwsHZkrlqG/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1728784723",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/404376396005?_skw=M620&hash=item5e26b620e5:g:R64AAOSwsHZkrlqG&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZ--hIu%2BPsc4EbqspxZ9CNyDx3rbGaYCCeBob0Un%2BfLacU3tVjJ8wBexyAr9kIZ4qmhxr9ivNHnf8YINYpayDWqSsfK0WVUUKD2XgsUrJMYBXf98%2FZ1kIZw%2FFWgNE9gvURfhcrg3ukVh3GMnIV%2BKY1BO2V5fyr%2BwSxn4GZMFdUp6moD18fKAwAO%2Bx31HOc7iNZqsEYmt%2BOo9C70PDGlGb1xi9%2FJYPoKP18s9ZYvChS7b8tn%2FAUnMxGlouNuI05zp%2BhRjxnT6UtOU3PF4jn0uRgP",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7qsAAOSw8zhkrlqG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/W7AAAOSwVzBkrlqG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FmAAAOSw1XlkrlqG/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "404376396005",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-07-14T20:34:25.000Z",
+    "itemCreationDate": "2023-07-14T20:34:25.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|362248732710|0",
+    "title": "Dell PowerEdge M620 Blade Server CTO Customise to order",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/y-cAAOSwxYxUzivT/s-l225.jpg"
+    },
+    "price": {
+      "value": "204.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C362248732710%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/y-cAAOSwxYxUzivT/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "epid": "1728784723",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/362248732710?_skw=M620&hash=item5457b50026:g:y-cAAOSwxYxUzivT&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZK1QWDJyA6MI%2FNjlsKjrySs7nZ3HVQoPqLB9hvv2LiS%2F52AqBRHKofW1WPQ1JbC14XPr7UTPCME0ZrZloR9nh6I0CmmvsT1kasH0ehGvz4kecuHGiaIVU8fScChynfBk8nykPq%2FnHOuMcRitRtLiTQm87gTe%2BUJ5XLAAZbDmVsYYLNNwtvoxr0hYt20Ds9dw2opwnAOw%2BZdBNQig2I3UzIjGV1joEGW%2Bj%2Fda%2B2XOJsqjz1MaRvYP1Hu%2BjOOHTTQuz%2BB30czfMCrKRZHeBB3xzR",
+    "itemLocation": {
+      "postalCode": "N12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6l0AAOSwYGFUzivZ/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "362248732710",
+    "availableCoupons": false,
+    "itemOriginDate": "2018-02-21T21:25:54.000Z",
+    "itemCreationDate": "2018-02-21T21:25:54.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|294067673064|0",
+    "title": "Dell PowerEdge M620 2x E5-2630 6 Core 32GB RAM PERC H310 10GbE iDRAC Enterprise",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/SyUAAOSwQd5gUNZm/s-l225.jpg"
+    },
+    "price": {
+      "value": "108.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C294067673064%7C0",
+    "seller": {
+      "username": "viralvps",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 6911,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SyUAAOSwQd5gUNZm/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "1728784723",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/294067673064?_skw=M620&hash=item4477cc97e8:g:SyUAAOSwQd5gUNZm",
+    "itemLocation": {
+      "postalCode": "IP6***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/uRcAAOSw6zlgUNZr/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ud0AAOSwWelgUNZ0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/aEMAAOSwuB1gUNaB/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "294067673064",
+    "availableCoupons": false,
+    "itemOriginDate": "2021-03-16T16:03:49.000Z",
+    "itemCreationDate": "2021-03-16T16:03:49.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

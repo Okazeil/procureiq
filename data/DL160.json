@@ -1,0 +1,456 @@
+[
+  {
+    "itemId": "v1|127112203830|0",
+    "title": "HP (714515-001) ProLiant DL160 DL160 DL360 DL360 Gen8/Gen9 - SFF Machines Inn...",
+    "leafCategoryIds": [
+      "56092"
+    ],
+    "categories": [
+      {
+        "categoryId": "56092",
+        "categoryName": "Other Ent. Server Components"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/besAAeSwkVFoXfRP/s-l225.jpg"
+    },
+    "price": {
+      "value": "5.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C127112203830%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/besAAeSwkVFoXfRP/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "11010337998",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/127112203830?_skw=DL160&hash=item1d987a4e36:g:besAAeSwkVFoXfRP",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "legacyItemId": "127112203830",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-14T19:17:57.000Z",
+    "itemCreationDate": "2025-05-14T19:17:57.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|404614467606|0",
+    "title": "HP ProLiant DL160 Gen5 Xeon X5272 3.4GHz 500GB HDD 16GB Ram 4 Bay 1U Rack Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/oooAAOSw9c5lTjvW/s-l225.jpg"
+    },
+    "price": {
+      "value": "192.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C404614467606%7C0",
+    "seller": {
+      "username": "itinstock",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 31162,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oooAAOSw9c5lTjvW/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/404614467606?_skw=DL160&hash=item5e34e6d016:g:oooAAOSw9c5lTjvW&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UY8uSNPXlBU1shlGLv%2BxIj6MfcLb6X54B0gTPKR0%2FU5pC9yH0F0BZsK%2FlY6ZoorbmhOJIBVdol8Kcth60qex052pkmWa7xCovMx%2BvU%2BwY%2FQ3nTaGZcVxIm6LaGGzlM2Rcq%2FKbb54ZapJoShAezhMEUiuyRgjEUEnUS5OWmuQTWF7O7PPcGeW3dyP2MF45YQ9qQjqoBfqb%2Fr4AxyDQ3Q3Q7TgOO%2FTUFSZnkHrxRi%2FA8Z8kePOv%2BVqUk6yc4PA8xqHAmKaEbaQmjoPdKju3ohXlNr",
+    "itemLocation": {
+      "postalCode": "N12***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/l1YAAOSwdAtlTjvW/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "404614467606",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-11-10T17:43:23.000Z",
+    "itemCreationDate": "2023-11-10T17:43:23.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|275481058983|0",
+    "title": "HP 664918-B21 672606-001 ProLiant DL160 Gen8 DL360 Gen8 Gen9 1U Security Bezel",
+    "leafCategoryIds": [
+      "56092"
+    ],
+    "categories": [
+      {
+        "categoryId": "56092",
+        "categoryName": "Other Ent. Server Components"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/Pq0AAOSwFANlSpRD/s-l225.jpg"
+    },
+    "price": {
+      "value": "180.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C275481058983%7C0",
+    "seller": {
+      "username": "intelligent_servers",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 5669,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Good - Refurbished",
+    "conditionId": "2030",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Pq0AAOSwFANlSpRD/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "2344231341",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/275481058983?_skw=DL160&hash=item4023f35ea7:g:Pq0AAOSwFANlSpRD&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UayNAcYNw9%2F3oksqNIptS1L3e%2FhbMjlKJ7uhjEo%2BEH6bvg%2BdSWpk6hUhZXTpm5m8GH0CVwWmXpspfdmp%2B9jPhMFhrU2BUAjaQ84s7LZ%2FgmUMX8llDLY5GpCYy9GdbZs0cdaP5spMU2qxiZAqYBQ5Cmt5yLQKqNv705CfwtWYuquXPiuY3vvKKVOhfdnXrrXYQYBEIVvsoXwCZw3vSNKatK4qj4u8mWz7S2edDEqHFoAn%2Bs4Pnj4v%2Bjza834kiA2%2Ft3KA%2FVne34YP6kUnfMrcUnX",
+    "itemLocation": {
+      "postalCode": "HG2***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IhcAAOSwHYdlSpRG/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "275481058983",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-09-30T07:49:53.000Z",
+    "itemCreationDate": "2022-09-30T07:49:53.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|125181546342|0",
+    "title": "HP RAILKIT DL160 G9 / DL360P G8 / DL360 G9 714511-001 728437-001",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/u-kAAOSwGCNiIaYU/s-l225.jpg"
+    },
+    "price": {
+      "value": "79.73",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C125181546342%7C0",
+    "seller": {
+      "username": "servershopping",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 4134,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/u-kAAOSwGCNiIaYU/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-01T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "11052692164",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/125181546342?_skw=DL160&hash=item1d2566cf66:g:u-kAAOSwGCNiIaYU&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UapfyFw5GnZx4N%2Bb5ZPkfso15jk%2BhuCRICTPX1mT9h6VM0WL%2FfkiswiMvJwd1inQx4duS%2FGrgBigXUtP2unKUkci4Ql%2FJsZF1%2Fo7P91Ufi6tJdDbeEWmxTU%2FGeNt%2FuiDc%2BSPsd7Y0N3cXwxVig54QxbEnJjG9Mbd5NwjRJ5XJmcuBZu2l9ihlKn2mvi6AhHUj0haf0j0I9r8oWMEwKgwSCjgHwxxeZrFa8WFMQJvGCgYrSN9dPyf2RDjdW8sBkxGsgxg1WpEZuZ7j7s4xx7Evlk",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/904AAOSwdf5iIaYU/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/wDMAAOSwhgpiIaYX/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "125181546342",
+    "availableCoupons": false,
+    "itemOriginDate": "2022-03-04T05:43:17.000Z",
+    "itemCreationDate": "2022-03-04T05:43:17.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|326694412043|0",
+    "title": "Job LOT of 27 x Various HP Proliant DL160 DL360 DL380 Gen9 Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/brEAAeSw9T1ofDxp/s-l225.jpg"
+    },
+    "price": {
+      "value": "2499.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326694412043%7C0",
+    "seller": {
+      "username": "icortech",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 664,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/brEAAeSw9T1ofDxp/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326694412043?_skw=DL160&hash=item4c10811f0b:g:brEAAeSw9T1ofDxp",
+    "itemLocation": {
+      "postalCode": "WV13***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XskAAeSwgeJofDxp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YNIAAeSwmoJofDxq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/diUAAeSw52JofDxq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XqIAAeSwTDpofDxr/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YHMAAeSwWm9ofD3K/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Vh0AAeSw1LpofD3f/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZRoAAeSwRg1ofDxt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/b6wAAeSwIONofDxu/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/aPEAAeSwsPZofDxu/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZDwAAeSwhUpofDxv/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/W0oAAeSwRUlofD3z/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SMYAAeSwqqhofD4C/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cDMAAeSw5QxofD4T/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dY4AAeSw7c9ofDxx/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cAQAAeSwC~dofDxy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cq8AAeSw-KdofDxy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WdYAAeSwTvxofDxz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZrcAAeSwTkhofDxz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dBkAAeSwJylofDx0/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "2499.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "326694412043",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-20T00:51:24.000Z",
+    "itemCreationDate": "2025-07-20T00:51:24.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

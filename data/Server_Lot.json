@@ -1,0 +1,616 @@
+[
+  {
+    "itemId": "v1|326694412043|0",
+    "title": "Job LOT of 27 x Various HP Proliant DL160 DL360 DL380 Gen9 Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/brEAAeSw9T1ofDxp/s-l225.jpg"
+    },
+    "price": {
+      "value": "2499.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326694412043%7C0",
+    "seller": {
+      "username": "icortech",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 664,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/brEAAeSw9T1ofDxp/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326694412043?_skw=Server+Lot&hash=item4c10811f0b:g:brEAAeSw9T1ofDxp",
+    "itemLocation": {
+      "postalCode": "WV13***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XskAAeSwgeJofDxp/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YNIAAeSwmoJofDxq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/diUAAeSw52JofDxq/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XqIAAeSwTDpofDxr/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YHMAAeSwWm9ofD3K/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Vh0AAeSw1LpofD3f/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZRoAAeSwRg1ofDxt/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/b6wAAeSwIONofDxu/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/aPEAAeSwsPZofDxu/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZDwAAeSwhUpofDxv/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/W0oAAeSwRUlofD3z/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SMYAAeSwqqhofD4C/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cDMAAeSw5QxofD4T/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dY4AAeSw7c9ofDxx/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cAQAAeSwC~dofDxy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/cq8AAeSw-KdofDxy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WdYAAeSwTvxofDxz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZrcAAeSwTkhofDxz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dBkAAeSwJylofDx0/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "2499.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "326694412043",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-20T00:51:24.000Z",
+    "itemCreationDate": "2025-07-20T00:51:24.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|286534973052|588601806335",
+    "title": "HP ProLiant DL380p G8 Server Lot Config To Order - Intel Xeon 4 - 6 - 8 Core CPU",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=286534973052",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/88MAAOSwQvZmlj7L/s-l225.jpg"
+    },
+    "price": {
+      "value": "144.85",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286534973052%7C588601806335",
+    "seller": {
+      "username": "server-and-networking-store",
+      "feedbackPercentage": "99.3",
+      "feedbackScore": 1077,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/88MAAOSwQvZmlj7L/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/286534973052?_skw=Server+Lot&hash=item42b6d0b67c:g:88MAAOSwQvZmlj7L&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbefDI43nxB1tJzGy98qz2Zai8YRo0LEXBJo0R%2FnN%2B%2FQ7PT0msvWe9lK3bGAXxX1aEwzKmqdwSpJ04FkhNsDg7sCbzjK1%2F8NIfoWhifPjktpec%2BO5qdk0sRb7FtUu3r2G7Q7FT6Soz1iOQ3IMyegFUEPDY5GL3DE5Q8W6se5EuTjl71gro75PPbj%2B8%2BVg8JQsIaNg%2FM7oYM4%2FUztbKbDEqd9rtNqPP1J%2FttZv%2B4LKu5zjjXSzKKjjsGBKyLtemFiE6ESRIc%2Btx5kKyuh0dlNt2Xb88uX7PJJZ%2F1ty%2BE2%2Bcdhg%3D%3D",
+    "itemLocation": {
+      "postalCode": "ME14***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ruQAAOSwll9mlj7S/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xwoAAOSwWKVmlj7T/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/no8AAOSwpfBmlj7U/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/HdUAAOSwJ4Fmlj7V/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nCkAAOSwnbhmlj7W/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-uQAAOSwE4pmlj7Y/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YLAAAOSwUxNmlj7Z/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/H4cAAOSw98hmlj7a/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Ys8AAOSwJf5mlj7c/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Qn8AAOSwa45mlj7d/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ssEAAOSw6Qlmlj7e/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/vx4AAOSwEqpmlj7f/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FzQAAOSwq8Fmlj7g/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dCsAAOSwaUBmlj7h/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-REAAOSwfkxmlj7i/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/eKgAAOSwEKpmlj7j/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IVsAAOSwB0tmlj7k/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NgcAAOSwtBhmlj7l/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/G3AAAOSwpFBmlj7m/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/0i0AAOSw0KJmlj7n/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IzQAAOSwkCJmlj7o/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tgsAAOSwUTxmlj7p/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ocoAAOSwXmpmlj7q/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "144.85",
+      "currency": "GBP"
+    },
+    "legacyItemId": "286534973052",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-07-16T09:51:46.000Z",
+    "itemCreationDate": "2025-05-01T08:38:55.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|166882326028|466555338801",
+    "title": "Dell PowerEdge R730 32-CORE Server LOT E5-2690v4 E5-2683v4 256GB RAM 1.92TB SSD",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=166882326028",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/THoAAOSwWs5l-HuC/s-l225.jpg"
+    },
+    "price": {
+      "value": "236.26",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C166882326028%7C466555338801",
+    "seller": {
+      "username": "anisatech",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 10344,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/THoAAOSwWs5l-HuC/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "9.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-08-03T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-05T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/166882326028?_skw=Server+Lot&hash=item26daf6360c:g:THoAAOSwWs5l-HuC&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZTyEprDmEhYZFl1ldQX%2BCoVRfB0SyvQUIlkHd%2F72IzqOV%2B8VycvWATdhs8xIuLu3gClqiuz6K1g2n95HRa9A0totX5xxt%2Fl4L8w8BRiUuakSIx8XmDtXkRGBFaroucbKcMl9319GhYzzYu3Lxb9XYwwDSQg8LWENEjmsxk0qZIu3p72nr656WcVHdBExRacx3OOpiBMnh0dZN7iWl8pskOMqt6DcdO0d71zz%2FUyFK7FnKe3w0llKAHCXtlCxqgStqMWnIuxsbDYyPlPmgycc2BvqFp2Cgyx0Azcr4MJcpYvQ%3D%3D",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/kqsAAOSw3TRl-HuL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AyMAAOSw8uBl-HvW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/y6UAAOSwfzll-Hup/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GSkAAOSwNvViBYEC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/p~gAAOSwdBtl-Htw/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/urAAAOSwxQpiBYDn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Wy4AAOSwlyhl-Ht7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/G2cAAOSwCUxl-JTk/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ENoAAOSwpXtl-JTt/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "166882326028",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-07-23T08:57:10.000Z",
+    "itemCreationDate": "2024-07-23T08:57:10.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|126384466954|427425119527",
+    "title": "Dell PowerEdge R730 32-CORE Server LOT E5-2690v4 E5-2683v4 256GB RAM 1.92TB SSD",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=126384466954",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/THoAAOSwWs5l-HuC/s-l225.jpg"
+    },
+    "price": {
+      "value": "160.59",
+      "currency": "GBP"
+    },
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126384466954%7C427425119527",
+    "seller": {
+      "username": "servershopping",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 4134,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/THoAAOSwWs5l-HuC/s-l960.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "11.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-04T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/126384466954?_skw=Server+Lot&hash=item1d6d19ec0a:g:THoAAOSwWs5l-HuC&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ua%2BYMNBoAYcsqobHLgnAgIKkjKyarvCJKUhyr36esGM4W47F6DiW%2FJ8on%2Fw0mFM8DuKn3PAbas7TrnQeJGBdm0Hf%2BeeS4a1VFWRdEi%2BiZ9tjkWKP76bSwog0%2BrH7oIvEvfOc%2Fg1jcXvS%2BJgQwRDGGyMHG%2FsTNi7Z5mSunuyhOKhiY5svdbPyIlgDiPO4iZiapUedjbrTDMNloFyoKalJ9kQcOhXTYiicbLdQzn7neGx%2FffNT%2BaXHvZgwCUarkumf7rB9ji4j7sanhejIO01JdUOI8Nf7I0%2F4U2dH0KdK5nyNQ%3D%3D",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/kqsAAOSw3TRl-HuL/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/AyMAAOSw8uBl-HvW/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/y6UAAOSwfzll-Hup/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GSkAAOSwNvViBYEC/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/p~gAAOSwdBtl-Htw/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/urAAAOSwxQpiBYDn/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Wy4AAOSwlyhl-Ht7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/G2cAAOSwCUxl-JTk/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ENoAAOSwpXtl-JTt/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "126384466954",
+    "availableCoupons": false,
+    "itemOriginDate": "2024-03-18T19:30:00.000Z",
+    "itemCreationDate": "2024-03-18T19:30:00.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|326694390356|0",
+    "title": "LOT of 5 x HP Proliant ML350 Gen9 Tower Server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/SO8AAeSwaTNofDiB/s-l225.jpg"
+    },
+    "price": {
+      "value": "799.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326694390356%7C0",
+    "seller": {
+      "username": "icortech",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 664,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SO8AAeSwaTNofDiB/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326694390356?_skw=Server+Lot&hash=item4c1080ca54:g:SO8AAeSwaTNofDiB",
+    "itemLocation": {
+      "postalCode": "WV13***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RUsAAeSw1yxofDiV/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XQsAAeSwQu1ofDhR/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WWIAAeSwKPZofDhS/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/XEkAAeSwwk1ofDim/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZTUAAeSwC~dofDi2/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/OFcAAeSwmo5ofDjH/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rckAAeSwPUZofDjV/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/S-oAAeSwvI1ofDjl/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/R~0AAeSwmVxofDj5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/St8AAeSwHAxofDkJ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ZtwAAeSwQ~NofDkd/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/R08AAeSw-t1ofDkx/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "799.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "326694390356",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-20T00:36:34.000Z",
+    "itemCreationDate": "2025-07-20T00:36:34.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

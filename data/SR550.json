@@ -1,0 +1,419 @@
+[
+  {
+    "itemId": "v1|396586929426|0",
+    "title": "Akai HiFi Speakers SR-550 3 Way Speakers",
+    "leafCategoryIds": [
+      "14990"
+    ],
+    "categories": [
+      {
+        "categoryId": "14990",
+        "categoryName": "Speakers & Subwoofers"
+      },
+      {
+        "categoryId": "293",
+        "categoryName": "Sound & Vision"
+      },
+      {
+        "categoryId": "14969",
+        "categoryName": "Home Audio & HiFi Separates"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/4bYAAeSwvRFoHJjy/s-l225.jpg"
+    },
+    "price": {
+      "value": "29.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C396586929426%7C0",
+    "seller": {
+      "username": "open.all.hours24-7",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 866,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/4bYAAeSwvRFoHJjy/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "6.99",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/396586929426?_skw=SR550&hash=item5c566c4d12:g:4bYAAeSwvRFoHJjy",
+    "itemLocation": {
+      "postalCode": "PE13***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WwQAAeSwBWJoHJjy/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2F0AAeSw0U9oHJjz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/2qcAAeSwMIJoHJjz/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/CCwAAeSw-4doHJj0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/G0UAAeSw7FFoHJq~/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "396586929426",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-09T05:35:08.000Z",
+    "itemCreationDate": "2025-05-09T05:35:08.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|267273699506|0",
+    "title": "Replacement Remote Control For Sony DVD DVP-SR550K DVP-SR760H DVP-SR150",
+    "leafCategoryIds": [
+      "61312"
+    ],
+    "categories": [
+      {
+        "categoryId": "61312",
+        "categoryName": "Remote Controls"
+      },
+      {
+        "categoryId": "293",
+        "categoryName": "Sound & Vision"
+      },
+      {
+        "categoryId": "14961",
+        "categoryName": "TV & Home Audio Accessories"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/iLEAAeSwyjFoPXvD/s-l225.jpg"
+    },
+    "price": {
+      "value": "6.47",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C267273699506%7C0",
+    "seller": {
+      "username": "onlinesparesdirect",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 89135,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iLEAAeSwyjFoPXvD/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/267273699506?_skw=SR550&hash=item3e3ac100b2:g:iLEAAeSwyjFoPXvD",
+    "itemLocation": {
+      "postalCode": "BT17***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3KoAAeSwrz1oPXvD/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hwgAAeSwE-9oPXvD/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QpMAAeSw0uVoPXvD/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "6.47",
+      "currency": "GBP"
+    },
+    "legacyItemId": "267273699506",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-06-02T10:23:28.000Z",
+    "itemCreationDate": "2025-06-02T10:23:28.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|317119297759|0",
+    "title": "ESOSAT Replacement Remote Control \u2013 SR550HD+, SR650HD+CI+",
+    "leafCategoryIds": [
+      "61312"
+    ],
+    "categories": [
+      {
+        "categoryId": "61312",
+        "categoryName": "Remote Controls"
+      },
+      {
+        "categoryId": "293",
+        "categoryName": "Sound & Vision"
+      },
+      {
+        "categoryId": "14961",
+        "categoryName": "TV & Home Audio Accessories"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/ViEAAeSwd3JohTDH/s-l225.jpg"
+    },
+    "price": {
+      "value": "9.94",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C317119297759%7C0",
+    "seller": {
+      "username": "highstreet1955",
+      "feedbackPercentage": "99.3",
+      "feedbackScore": 391134,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "New",
+    "conditionId": "1000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ViEAAeSwd3JohTDH/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/317119297759?_skw=SR550&hash=item49d5c878df:g:ViEAAeSwd3JohTDH",
+    "itemLocation": {
+      "country": "GB"
+    },
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "9.94",
+      "currency": "GBP"
+    },
+    "legacyItemId": "317119297759",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-07-26T19:45:13.000Z",
+    "itemCreationDate": "2025-07-26T19:45:13.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|166412661094|0",
+    "title": "LENOVO THINKSYSTEM CPU HEATSINK SR550 / SR590 / SR650 / SR670 01KP655 EXVAT \u00a311",
+    "leafCategoryIds": [
+      "131486"
+    ],
+    "categories": [
+      {
+        "categoryId": "131486",
+        "categoryName": "CPU Fans & Heatsinks"
+      },
+      {
+        "categoryId": "42000",
+        "categoryName": "Fans, Heatsinks & Cooling"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175673",
+        "categoryName": "Computer Components & Parts"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/3UUAAOSwhFNlQ6O8/s-l225.jpg"
+    },
+    "price": {
+      "value": "13.95",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C166412661094%7C0",
+    "seller": {
+      "username": "snstocksolutionsltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 829,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3UUAAOSwhFNlQ6O8/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "21036914332",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/166412661094?_skw=SR550&hash=item26bef7b166:g:3UUAAOSwhFNlQ6O8&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYmMbsGlm9gpIrF5qoLmANF1yfCO8iIoc%2Bn7r9UBZX2AefUvbkO90KTsGQk4KAsXL7VJrSptBCENylF%2BrUIs%2Fsm8iOJrIeshH9%2B26fxfytwv7w69hHT1LA3O733r1YcoiJqtKTXL7zgnc9VsmYWLpQOlA4d8xIes4ZAhq6cEtkEAb2TdmdJYfiO9LGRA5%2Bbetdzlv%2BrNXsrieN%2F8a3%2B3PCmer8iR342utYabFSFk%2BXxEQNQxQcMyomYUBsa%2FnNntutWAEXr4UoFSBMisS2X7Vfu",
+    "itemLocation": {
+      "postalCode": "SW6***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/gYEAAOSwzR5lQ6O8/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mrsAAOSweBxlQ6O8/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "13.95",
+      "currency": "GBP"
+    },
+    "legacyItemId": "166412661094",
+    "availableCoupons": false,
+    "itemOriginDate": "2023-11-02T13:36:35.000Z",
+    "itemCreationDate": "2023-11-02T13:36:35.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|146488446543|0",
+    "title": "Lenovo SP57A65539 SR550/SR635/SR650/SR645 1100W Platinum Hot-Swap PSU 02JJ225",
+    "leafCategoryIds": [
+      "56090"
+    ],
+    "categories": [
+      {
+        "categoryId": "56090",
+        "categoryName": "Server Power Supplies"
+      },
+      {
+        "categoryId": "51240",
+        "categoryName": "Server Components"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/C1wAAeSwq5dofqy0/s-l225.jpg"
+    },
+    "price": {
+      "value": "95.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C146488446543%7C0",
+    "seller": {
+      "username": "bargain*hardware",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 67922,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/C1wAAeSwq5dofqy0/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/146488446543?_skw=SR550&hash=item221b644e4f:g:C1wAAeSwq5dofqy0&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UY8ISX5gKdmSPjsuu7csjXrCALKjAgiZUdyJSQ8ZXelsF%2BlFyR841UOELEaibCtAuZAZ%2FlynorWRfF1cV0ErpX0dPRpr7ruxbQMMk2rK0fJxKXRKcsYtaooKpKlAkxuj74gyYVUWwAcYwyeS%2BY4NtBaprJZyjpwMFwZfyhqHKGSb%2BSlL5HZDLSEIPdb91D9gex1m207HtzeBYcdgS8Llvhfv6tJObllUtbu5VWf3G8j46CKKYDVreIzGDjQWH3YvdJDL29NAxud%2BOdXnWKIqRvC",
+    "itemLocation": {
+      "postalCode": "PR3***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BAUAAeSwrdBofqy0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9rYAAeSwvdhofqy0/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Cb8AAeSwedhofqy0/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "146488446543",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-04-01T09:31:28.000Z",
+    "itemCreationDate": "2025-04-01T09:31:28.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "itemId": "v1|256925183497|0",
+    "title": "DELL PowerEdge iDRAC 8 9 Enterprise License 13th 14th Server Remote access",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/lRgAAOSwZMhmoLg2/s-l225.jpg"
+    },
+    "price": {
+      "value": "29.79",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256925183497%7C0",
+    "seller": {
+      "username": "franklin1608",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 453,
+      "sellerAccountType": "INDIVIDUAL"
+    },
+    "condition": "Opened \u2013 never used",
+    "conditionId": "1500",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/lRgAAOSwZMhmoLg2/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        }
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/256925183497?_skw=Enterprise+Server&hash=item3bd1ef2e09:g:lRgAAOSwZMhmoLg2",
+    "itemLocation": {
+      "postalCode": "SO23***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BdQAAOSwzHRmbTL4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/p~IAAOSwRfxmbTL4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bngAAOSw0-9mbTL4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/i0wAAOSw9i5mbTL4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mdgAAOSwwQxmbTL4/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "256925183497",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-09T07:28:45.000Z",
+    "itemCreationDate": "2025-05-09T07:28:45.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|156735353556|0",
+    "title": "Dell PowerEdge R730 8*SFF 2x E5-2620v4 32GB RAM H730 8xCaddy iDRAC Enterprise",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/s1EAAOSwteZnvbRG/s-l225.jpg"
+    },
+    "price": {
+      "value": "145.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C156735353556%7C0",
+    "seller": {
+      "username": "compuwyze_ltd",
+      "feedbackPercentage": "100.0",
+      "feedbackScore": 840,
+      "sellerAccountType": "BUSINESS"
+    },
+    "marketingPrice": {
+      "discountPercentage": "0"
+    },
+    "condition": "Very Good - Refurbished",
+    "conditionId": "2020",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/s1EAAOSwteZnvbRG/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "epid": "8059255841",
+    "itemWebUrl": "https://www.ebay.co.uk/itm/156735353556?_skw=Enterprise+Server&hash=item247e27b2d4:g:s1EAAOSwteZnvbRG&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYp4lqdAAdcEirCZdFpHOV6%2BUSTpsym7y5xqLFQboBMiyGlHXA3V7r6qI%2BqvHdSZGZWD0ShrN3iuaAh7%2BRS%2BHlDc4FcqCiPjzOsQMLxVKKCRK344KyxYsC7yENGZbYHNJA%2FMVywmJxJEhsuZQINZaEUbE7Vhc046jiO8BYX4aGHhNcvgJLzGApi49gLS%2BBH3aVmV%2B1nTiwXvEsdmwqWe%2FyDFl9Tuanm0JrXUgk%2Fi2YKA0LIcv%2FuxCZrHOeRcllJOr7XlA9MsVz746dbtFfSIpT4VCKf691sl9eXPOdCcfSelg%3D%3D",
+    "itemLocation": {
+      "postalCode": "PR4***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/GW4AAOSwPjpnvbRG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/55EAAOSw1ttnvbRG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/M5kAAOSwJBdnvbRF/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jhgAAOSwALZnvbRG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Dp8AAOSwjxZnvbRH/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QQEAAOSw9ltnvbRG/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mnYAAOSwwytnvbUP/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/s-MAAOSwfa9nvbUP/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/EpUAAOSwKNdnvbUQ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QhUAAOSwFYxnvbUN/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/mU4AAOSwOEVnvbUO/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~CAAAOSw3lhnvbUQ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/h2QAAOSwswVnvbUP/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Wz0AAOSwYfRnvbUP/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/7~EAAOSwyt1nvbUQ/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ghQAAOSwInBnvbUQ/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "unitPricingMeasure": "Unit",
+    "unitPrice": {
+      "value": "145.00",
+      "currency": "GBP"
+    },
+    "legacyItemId": "156735353556",
+    "availableCoupons": true,
+    "itemOriginDate": "2025-02-25T12:34:58.000Z",
+    "itemCreationDate": "2025-02-25T12:34:58.000Z",
+    "topRatedBuyingExperience": true,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|326503357736|0",
+    "title": "Dell PowerVault NX3000 NAS 2xX5570 96GB 6X1TB SAS/HDD 2x870W IDRAC Enterprise",
+    "leafCategoryIds": [
+      "11211",
+      "11209"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "11209",
+        "categoryName": "Other Network Disk Arrays"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      },
+      {
+        "categoryId": "182093",
+        "categoryName": "Network Storage Disk Arrays"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/g8QAAeSwl0ln4988/s-l225.jpg"
+    },
+    "price": {
+      "value": "159.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326503357736%7C0",
+    "seller": {
+      "username": "dr.memory",
+      "feedbackPercentage": "99.7",
+      "feedbackScore": 179577,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Excellent - Refurbished",
+    "conditionId": "2010",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/g8QAAeSwl0ln4988/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326503357736?_skw=Enterprise+Server&hash=item4c051ddd28:g:g8QAAeSwl0ln4988&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZ4YMYO9Q%2FlF5I%2BmuVsScycDL7xsYXFSAHDfOsY5M0naOCf%2B%2Fm1X%2B959pmUPiDAXE5ZOa0g%2BXJKH4KOEAwdwKB8qQm8cx3Zu3OwBMKNsKs3ZLbRhYUSeWWoJNraWbfBvkQyWTiTRlDBMvGUKh%2FZiXvq%2BnnXXtP2ZXK8zZlJbiSF9sLIs7zn%2FWFhBsa6fGOMPuMTdsEmQqMB6L1RpP361NK%2BdhyFV45By5Fl7%2FiqHwLiAIJL%2F4%2BUd7NRxC13JygtcWu6e18buXfTKQJckonfWutqbZc%2FAtOgEkO4ueBc8nuO2A%3D%3D",
+    "itemLocation": {
+      "postalCode": "M17***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/drUAAeSw0o5n4988/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/jHcAAeSwT4Rn4988/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xYMAAeSw6kBn4989/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/hWMAAeSwmpVn4989/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "326503357736",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-26T10:57:52.000Z",
+    "itemCreationDate": "2025-03-26T10:57:52.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|126972785993|0",
+    "title": "Dell PowerEdge R430, Intel Xeon 2xE5-2620 V4, 2.1 GHz 32GB RAM Enterprise server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/t84AAOSwRvhnxa7R/s-l225.jpg"
+    },
+    "price": {
+      "value": "164.99",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126972785993%7C0",
+    "seller": {
+      "username": "servershopping",
+      "feedbackPercentage": "99.5",
+      "feedbackScore": 4134,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/t84AAOSwRvhnxa7R/s-l1200.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-29T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-08-04T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/126972785993?_skw=Enterprise+Server&hash=item1d902af549:g:t84AAOSwRvhnxa7R&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UanIoav%2Bc0OKLfB3zRsyYaj2nZpr5p7FL%2FzV2V0GR7ECm3xUAmZiw2Y%2FlTqW--eUM5CG3J9wp0Qu8QmOjUvCasT%2BgDVsZYy%2BZ7PaqV%2FDiYuxAK7cVcZkpcH8vwV%2BVw5YkEur6CXzF6ROPEpaMoHVUVfV6dQch2r%2BWgx0CsEiz7JSt8RbwGQbjG7cyhmARWOLV0dYkbp6sqDkOzXvzec76DDMYArWGmLV6WDhtLV0azUYzfiwBNnb0Rk%2FZZS8pgpLzIHzw%2B9mcFOFA8gAezbRzJUwpqOrLpRgxtxNSkrnXU7Aw%3D%3D",
+    "itemLocation": {
+      "postalCode": "RG21***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/YFUAAOSwPLZjLL-7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/bcQAAOSwvM1jLMF7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ngEAAOSwn5FjLMF8/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ovYAAOSwsPtjLMNd/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/o7wAAOSwp0xjLMNh/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "126972785993",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-03-03T13:40:02.000Z",
+    "itemCreationDate": "2025-03-03T13:40:02.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": true,
+    "listingMarketplaceId": "EBAY_GB"
+  },
+  {
+    "itemId": "v1|326564848715|0",
+    "title": "Dell PowerEdge R430, Intel Xeon 2xE5-2630 V3, 2.4 GHz Enterprise server",
+    "leafCategoryIds": [
+      "11211"
+    ],
+    "categories": [
+      {
+        "categoryId": "11211",
+        "categoryName": "Computer Servers"
+      },
+      {
+        "categoryId": "58058",
+        "categoryName": "Computers/Tablets & Networking"
+      },
+      {
+        "categoryId": "175698",
+        "categoryName": "Enterprise Networking, Servers"
+      },
+      {
+        "categoryId": "175700",
+        "categoryName": "Servers, Clients & Terminals"
+      }
+    ],
+    "image": {
+      "imageUrl": "https://i.ebayimg.com/images/g/X~oAAeSwHoVoF~z4/s-l225.jpg"
+    },
+    "price": {
+      "value": "80.00",
+      "currency": "GBP"
+    },
+    "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326564848715%7C0",
+    "seller": {
+      "username": "icortech",
+      "feedbackPercentage": "99.2",
+      "feedbackScore": 664,
+      "sellerAccountType": "BUSINESS"
+    },
+    "condition": "Used",
+    "conditionId": "3000",
+    "thumbnailImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/X~oAAeSwHoVoF~z4/s-l1600.jpg"
+      }
+    ],
+    "shippingOptions": [
+      {
+        "shippingCostType": "FIXED",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "GBP"
+        },
+        "minEstimatedDeliveryDate": "2025-07-28T23:00:00.000Z",
+        "maxEstimatedDeliveryDate": "2025-07-30T23:00:00.000Z"
+      }
+    ],
+    "buyingOptions": [
+      "FIXED_PRICE",
+      "BEST_OFFER"
+    ],
+    "itemWebUrl": "https://www.ebay.co.uk/itm/326564848715?_skw=Enterprise+Server&hash=item4c08c8244b:g:X~oAAeSwHoVoF~z4",
+    "itemLocation": {
+      "postalCode": "WV13***",
+      "country": "GB"
+    },
+    "additionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NUIAAeSwvN5oF~z4/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/E30AAeSwUb1oF~z5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/eyoAAeSw0U9oF~z5/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JdIAAeSwQ8doF~z6/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rD4AAeSw~ZRoF~z6/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/zBgAAeSwd9doF~z7/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oYkAAeSwfr5oF~z8/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Y4wAAeSwI~NoF~z9/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/~n0AAeSwpt5oF~z-/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/BDcAAeSwQB9oF~0T/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/JM8AAeSwNdZoF~0f/s-l225.jpg"
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xrkAAeSwf0FoF~0r/s-l225.jpg"
+      }
+    ],
+    "adultOnly": false,
+    "legacyItemId": "326564848715",
+    "availableCoupons": false,
+    "itemOriginDate": "2025-05-04T23:54:26.000Z",
+    "itemCreationDate": "2025-05-04T23:54:26.000Z",
+    "topRatedBuyingExperience": false,
+    "priorityListing": false,
+    "listingMarketplaceId": "EBAY_GB"
+  }
+]
